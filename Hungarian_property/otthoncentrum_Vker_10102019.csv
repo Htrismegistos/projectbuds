@@ -1,0 +1,2342 @@
+<body class="oc-estate-site lazyImage anon atUser-AnonymousUser atPage-real_estate_search_results" data-page-google-tag-params="" data-page-type="searchresults" data-previous-search-count="10" data-recently-visited-real-estates-cookie-name="recentlyVisitedRealEstates" data-search-results-url="/ingatlanok/lista" data-spy="scroll" data-sticky-list-count="3" data-storage-user="anon" data-target="#myScrollspy">
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-M3KWFPB" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-WZ4KZQ7" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-52SPTP" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script id="previous-searches-template" type="text/x-dot-template">
+<tr class="previous-search previous-search-{{=it.id}}">
+    <td>
+        <span class="sub-title">
+            <a href="{{=it.url}}" title="{{=it.title}}">
+                {{=it.title}} <span>{{=it.meta}}</span>
+            </a>
+        </span>
+
+        <div class="search-functions-wrap">
+            <div class="search-functions">
+                <a class="oc-icon icon-oc-oc-kedvenc save-previous-search {{? it.saved === true}} active {{?}}"
+                   href="#"
+                   data-form="{{=it.form}}"
+                   rel="nofollow"
+                   data-title="{{=it.title}}"
+                   data-id="{{=it.id}}"
+                   data-post-url="/ingatlanok/kereses-mentese"
+                   data-not-logged-in="
+                    
+                        A mentéshez kérjük
+                        <a class='orange-co' href='/bejelentkezes' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;selector&quot;:&quot;#hontioc-loginform&quot;,&quot;title&quot;:&quot;bel\u00e9p\u00e9s&quot;}'>
+                            jelentkezzen
+                        </a>
+                        be vagy
+                        <a class='orange-co' href='/regisztracio' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;title&quot;:&quot;regisztr\u00e1ci\u00f3&quot;}'>
+                            regisztráljon
+                        </a>
+                    !
+                "
+                   data-saved="A keresést sikeresen mentettük!"
+                   title="Keresés mentése"
+                   data-unauth-message="Keresés mentése"></a>
+                <a class="oc-icon icon-oc-oc-ujrakereses navbar-alert-message"
+                   href="{{=it.url}}"
+                   target="_blank"
+                   title="Keresés újra"
+                   data-unauth-message="Keresés újra"></a>
+                <a class="oc-icon icon-oc-oc-myoc-torles delete-previous-search navbar-alert-message"
+                   href="#"
+                   data-unauth-message="Keresés törlése"
+                   rel="nofollow"
+                   data-id="{{=it.id}}"
+                   data-vc-component="confirm"
+                   data-vc-confirm-options='{
+                       "selector": "#confirm-previous-search-delete",
+                       "title": "Keresés törlése",
+                       "buttons": {
+                            "accept": {"className": "btn-primary acceptSelector", "text": "Igen"},
+                            "close": {"text": "Mégsem"}
+                            },
+                       "callbackTrigger": "confirmDelete.previousSearch"}'
+                   title="Keresés törlése"></a>
+            </div>
+        </div>
+    </td>
+</tr>
+</script>
+<div class="menu-item">
+<div class="navbar navbar-default scroll-bar" id="menubar" role="navigation">
+<div class="container clearfix">
+<div class="row clearfix">
+<div class="col-md-12 clearfix">
+<div class="head-push"></div>
+<div class="navbar-actions">
+<div class="choose-language-wrapper"><a class="lang en" href="http://www.property.hu" title="en"></a><a class="lang ru" href="http://ru.property.hu" title="ru"></a></div>
+<!-- FACEBOOK -->
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '165897600103505',
+            xfbml      : true,
+            version    : 'v2.5'
+        });
+        $('.fb-share-button').each( function() {
+            var $button = $(this),
+                buttonData = $button.data();
+            $button
+                .css({ zIndex: 0, cursor: 'pointer' })
+                .on('DOMNodeInserted', 'iframe', function () {
+                    /**
+                     * Prevent default iframe click and share event.
+                     * Parent: z-index: 0
+                     * iFrame: z-index: -1
+                     */
+                    $(this).css({ 'z-index': -1 });
+                })
+                .on('click', function(event) {
+                    /**
+                     * Declare own share event with callback.
+                     */
+                    event.preventDefault();
+                    window.open(
+                        'https://www.facebook.com/sharer/sharer.php?u=' + buttonData.href,
+                        'facebookShareWindow',
+                        'directories=no,titlebar=no,toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=550,height=330'
+                    );
+                    vcp.googleAnalyticsEventTracker.initialize($button, {
+                        eager: true,
+                        gaEvents: [{
+                            category: 'social-share',
+                            action: 'facebook',
+                            runOnce: true
+                        }]
+                    });
+                })
+            ;
+        });
+    };
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/hu_HU/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- GOOGLE +-->
+<script>
+    window.___gcfg = {lang: 'hu'};
+    (function() {
+        var po = document.createElement('script'); po.async = true;
+        po.src = 'https://apis.google.com/js/platform.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+    var googlePlusShareDone = function(share, api) {
+        $iframe = $(api.iK).closest('.social-wrapper');
+        vcp.googleAnalyticsEventTracker.initialize($iframe, {
+            eager: true,
+            gaEvents: [{
+                category: 'social-share',
+                action: 'google-plus',
+                runOnce: true
+            }]
+        });
+    };
+</script>
+<!-- TWITTER -->
+<script>
+    window.twttr = (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0],
+            p = /^http:/.test(d.location) ? 'http' : 'https',
+            t = window.twttr || {};
+
+        if (d.getElementById(id)) return t;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = p + '://platform.twitter.com/widgets.js';
+        fjs.parentNode.insertBefore(js, fjs);
+
+        t._e = [];
+        t.ready = function(f) {
+            t._e.push(f);
+        };
+
+        return t;
+    }(document, "script", "twitter-wjs"));
+    twttr.ready( function (twttr) {
+        twttr.events.bind('tweet', function (event) {
+            vcp.googleAnalyticsEventTracker.initialize($(event.target), {
+                eager: true,
+                gaEvents: [{
+                    category: 'social-share',
+                    action: 'twitter',
+                    runOnce: true
+                }]
+            });
+        });
+    });
+</script>
+<!-- PINTEREST -->
+<script async="" src="//assets.pinterest.com/js/pinit.js"></script>
+<!-- LINKEDIN -->
+<script async="" src="//platform.linkedin.com/in.js">
+    lang: en_US
+</script>
+<div class="my-oc-wrapper scrolling-display default">
+<span class="navbar-action-account normal">
+<div class="fb-share-button" data-href="http://oc.hu" data-layout="button_count"></div>
+<span class="my-block-separator" style="display:inline!important;color:#747474;font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    color: #747474;
+    font-size: 13px;
+    font-weight: 500;
+    -webkit-font-smoothing: antialiased;">|</span>
+</span>
+<a class="navbar-action-link atPortal-loginBtn login" data-vc-component="dialog" data-vc-dialog-options='{"buttons":false,"selector":"#hontioc-loginform","title":"bel\u00e9p\u00e9s"}' href="/bejelentkezes">
+<span>belépés</span>
+</a>
+<a class="navbar-action-link atPortal-registerBtn registration" data-vc-component="dialog" data-vc-dialog-options='{"buttons":false,"title":"regisztr\u00e1ci\u00f3"}' href="/regisztracio">
+<span>regisztráció</span>
+</a>
+<a class="my-dashboard navbar-alert-message navbar-action-link atPortal-dashboardBtn" data-unauth-message="Ismerje meg weboldalunk személyre szabható funkcióit!" href="/vezerlopult">
+<span>
+                OC Fiókom                <i class="information-i">i</i>
+</span>
+</a>
+</div>
+<div class="navbar-actions-scrolled my-oc-wrapper">
+<a class="navbar-action-account" href="#">
+<i class="oc-icon icon-oc-oc-menu-kompakt-login"></i>
+</a>
+<div class="header-account-container">
+<div class="account-box">
+<a class="dialog-mode" data-mode="registration" href="#">
+                    regisztráció                </a>
+<a class="dialog-mode" data-mode="login" href="#">
+                    belépés                </a>
+<a class="fb-login" href="/facebook-belepes">
+                    Facebook belépés                </a>
+</div>
+</div>
+</div>
+<div class="header-search">
+<div class="search-input">
+<form action="/kereses" class="std no-labels" method="get">
+<div class="field clearfix form-group textFieldWrapper textTypeWrapper">
+<label class="control-label" for="search">Név</label> <div class="controls">
+<input class="textField atField-search textType form-control" id="search" name="search" placeholder="pl. nyaralóövezet" type="text"/> </div>
+</div> <input class="hidden" type="submit"/>
+<a class="form-submit atPortal-headerSearchSubmit submit-btn" href="#" rel="nofollow" title="Mehet">
+</a>
+</form>
+</div>
+<a class="search atPortal-headerSearchOpen" href="" rel="nofollow">
+<span class="oc-icon icon-oc-oc-kereses" title="Szabadszavas keresés">
+</span>
+</a>
+</div>
+</div>
+<div class="navbar-header">
+<button class="navbar-toggle" data-target="#first-nav" data-toggle="collapse" type="button">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="/" title="OC.hu">
+<img alt="oc.hu" src="//s2.oc.hu/bundles/OC-Portal/img/oc-logo_5.png?master-390" title="oc.hu"/>
+</a>
+<div class="clearfix"></div>
+</div>
+<div class="navbar-collapse collapse" id="first-nav">
+<ul class="nav navbar-nav navbar-right">
+<li class="dropdown">
+<a class="dropdown-toggle atLink-real_estate_index" data-toggle="dropdown" href="/ingatlanok">
+
+                                                                                Ingatlanok  <b class="caret"></b> </a>
+<ul class="dropdown-menu">
+<li class="dropdown-submenu">
+<a class="dropdown-subtoggle atLink-real_estate_predefined_search_for_sale" href="/ingatlanok/vetel" title="Vétel">
+                                                    Vétel                                                </a>
+<ul class="dropdown-menu">
+<li class="dropdown-submenu">
+<a class="atLink-real_estate_index" href="/ingatlanok">Eladó ingatlanok</a>
+</li>
+<li class="dropdown-submenu">
+<a class="atLink-project_list_new" href="/projektek">Új otthonok</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="/ingatlanok/lista?real_estate_search%5Butilization%5D=elado&amp;real_estate_search%5Blast_minute%5D=1">Last minute ingatlanok</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="#">Aukciós ingatlanok</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="#">Szolgáltatásaink vevőknek</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="#">Ingatlanpiacról vevőknek</a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="dropdown-subtoggle atLink-visitor_real_estate_new_for_sale" href="/ingatlanok/eladas" title="Eladás">
+                                                    Eladás                                                </a>
+<ul class="dropdown-menu">
+<li class="dropdown-submenu">
+<a class="" href="/eladas/feltoltes">Ingatlan eladása</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="#">Sürgősen eladó</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="#">Kereslet</a>
+</li>
+<li class="dropdown-submenu">
+<a class="atLink-real_estate_seller_services" href="/ingatlanok/eladas/szolgaltatasok-eladoknak">Szolgáltatásaink eladóknak</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="#">Ingatlanpiacról eladóknak</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/ingatlanok/berles" title="Bérlés">
+                                                    Bérlés                                                </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+<li>
+<a href="/ingatlanok/kiadas" title="Kiadás">
+                                                    Kiadás                                                </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+<li>
+<a href="/felezocsomag" title="Felezőcsomag">
+                                                    Felezőcsomag                                                </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+</ul>
+</li>
+<li class="">
+<a class="atLink-project_list_new" href="/projektek">
+
+                                                                                Új otthonok                                     </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+<li class="dropdown">
+<a class="dropdown-toggle atLink-financial_services" data-toggle="dropdown" href="/hitel">
+
+                                                                                Pénzügyek  <b class="caret"></b> </a>
+<ul class="dropdown-menu">
+<li class="dropdown-submenu">
+<a class="dropdown-subtoggle atLink-consumer_real_estate_loan" href="/hitel/lakashitel" title="Lakossági hitelek">
+                                                    Lakossági hitelek                                                </a>
+<ul class="dropdown-menu">
+<li class="dropdown-submenu">
+<a class="" href="/lakossagi-hitel/lakashitel">Lakáscélú hitelek</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="/lakossagi-hitel/szabad-felhasznalasu-hitel">Szabad felhasználású hitelek</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="/lakossagi-hitel/hitelkivaltas">Hitelkiváltás</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="/lakossagi-hitel/tamogatott-hitel">Támogatott hitelek</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="/lakossagi-hitel/szemelyi-kolcson">Személyi kölcsönök</a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="dropdown-subtoggle" href="https://privatnyugdij.oc.hu" title="Privát nyugdíj">
+                                                    Privát nyugdíj                                                </a>
+<ul class="dropdown-menu">
+<li class="dropdown-submenu">
+<a class="atLink-insurance" href="/hitel/biztositas">Biztosítások</a>
+</li>
+<li class="dropdown-submenu">
+<a class="atLink-insurance_real_estate_insurance" href="/hitel/biztositas/lakas-biztositas">Lakásbiztosítások</a>
+</li>
+<li class="dropdown-submenu">
+<a class="atLink-insurance_life_insurance" href="/hitel/biztositas/elet-biztositas">Életbiztosítások</a>
+</li>
+<li class="dropdown-submenu">
+<a class="atLink-insurance_other_insurance" href="/hitel/biztositas/egyeb-biztositas">Egyéb biztosítások</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/hitel/vallalati-hitel" title="Vállalati hitelek">
+                                                    Vállalati hitelek                                                </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+<li>
+<a href="https://csaladtamogatas.oc.hu/" title="OC Pénzügyek">
+                                                    OC Pénzügyek                                                </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+</ul>
+</li>
+<li class="dropdown">
+<a class="dropdown-toggle atLink-real_estate_market" data-toggle="dropdown" href="/ingatlanpiac">
+
+                                                                                Ingatlanpiac  <b class="caret"></b> </a>
+<ul class="dropdown-menu">
+<li>
+<a href="/ingatlanpiac/hirek/piaci-hirek" title="Piaci hírek">
+                                                    Piaci hírek                                                </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+<li>
+<a href="/ingatlanpiac/hirek/elemzesek" title="Elemzések">
+                                                    Elemzések                                                </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+</ul>
+</li>
+<li class="">
+<a class="atLink-office_index" href="/irodak">
+
+                                                                                Irodáink                                     </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+<li class="">
+<a class="atLink-jobs_start" href="/karrier">
+
+                                                                                Dolgozz velünk                                     </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+<li class="dropdown last">
+<a class="dropdown-toggle atLink-about_us" data-toggle="dropdown" href="/otthoncentrum/magunkrol">
+
+                                                                                Otthon Centrum  <b class="caret"></b> </a>
+<ul class="dropdown-menu">
+<li>
+<a href="/otthoncentrum/magunkrol" title="Magunkról">
+                                                    Magunkról                                                </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+<li>
+<a href="/otthoncentrum/szolgaltatasi-nyilatkozat" title="Szolgáltatási nyilatkozat">
+                                                    Szolgáltatási nyilatkozat                                                </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="dropdown-subtoggle atLink-contact" href="/otthoncentrum/kapcsolat" title="Kapcsolat">
+                                                    Kapcsolat                                                </a>
+<ul class="dropdown-menu">
+<li class="dropdown-submenu">
+<a class="" href="#">Franchise központ</a>
+</li>
+<li class="dropdown-submenu">
+<a class="atLink-staticpage_show" href="/tartalom/hitel">Hitel Center</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="#">OCIC</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="#">Elemzés</a>
+</li>
+<li class="dropdown-submenu">
+<a class="atLink-office_index" href="/irodak">Ingatlanirodák</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="#">Munkatársaink</a>
+</li>
+<li class="dropdown-submenu">
+<a class="" href="#">BG Holding</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/otthoncentrum/elemzesi-divizio" title="Elemzési Divízió">
+                                                    Elemzési Divízió                                                </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+<li>
+<a href="/otthoncentrum/sajtomegjelenes" title="Sajtómegjelenések">
+                                                    Sajtómegjelenések                                                </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+<li>
+<a href="/otthoncentrum/egyuttmukodo" title="Együttműködő Partner Program">
+                                                    Együttműködő Partner Program                                                </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+<li>
+<a href="/ugyfelkedvezmenyek" title="Otthon Centrum Ügyfélkedvezmények">
+                                                    Otthon Centrum Ügyfélkedvezmények                                                </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+<li>
+<a href="/otthoncentrum/ajanlo-video" title="Rólunk mondták">
+                                                    Rólunk mondták                                                </a>
+<ul class="dropdown-menu">
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!--/.nav-collapse -->
+</div>
+<div class="white-bg"></div>
+</div>
+<div class="white-bg-small" style="width: 100%; height: 107px;position: absolute;background: white;z-index: 1;"></div>
+</div>
+<div class="container-bg" style="  ">
+<!--
+        <img src="/bundles/OC-Portal/img/sasad-ffeke-1.png" alt="" class="sasad-logo img-responsive">
+    --> <div class="container off-top">
+<div class="row">
+<script>
+               tabid = 'resultListTextTab';
+               tabname = 'Térképes nézetre váltás';
+            </script>
+<div class="row" style="z-index: 1;">
+<div class="col-md-7" style="margin-left: 12px;">
+</div>
+</div>
+<ul class="nav nav-tabs resultListTabs hidden" role="tablist">
+<li class="active" role="presentation">
+<a aria-controls="resultListText" data-toggle="tab" href="#resultListText" id="resultListTextTab" role="tab">
+            Szöveges találati lista
+        </a>
+</li>
+<li class="" role="presentation">
+<a aria-controls="resultListMap" data-toggle="tab" href="#resultListMap" id="resultListMapTab" role="tab">
+            Térképes találati lista
+        </a>
+</li>
+</ul>
+<div class="tab-content result-tab-content">
+<div class="tab-pane" id="resultListMap" role="tabpanel">
+<div class="col-md-9 col-sm-8 col-xs-12 active" id="main">
+<div class="row">
+<div class="col-md-7 main-title">
+<h1>
+<strong>Eladó tégla Budapest V. kerület</strong> </h1>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="result-count-info row" style="margin-bottom: 20px;">
+<div class="col-xs-12 col-md-8 row">
+<span class="info">
+<span class="atEstateList-totalCount pull-left"><strong>7</strong> talált ingatlan </span><span class="atEstateList-totalCount pull-left">, <strong>7</strong> használt </span> </span>
+<div class="clearfix"></div>
+</div>
+<div class="col-xs-12 col-md-4 pull-right text-right mobilswitch" style="padding-right: 0;">
+<div class="icon-oc-oc-lista-new small"></div>
+<div class="switchMapButton tabchange" data-trigger-id="resultListMapTab" data-trigger-id2="resultListTextTab" style="position:relative; top:-20px;display: inline;">Lista nézetre váltás</div>
+</div>
+<br/>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12 resultList">
+<div class="estate-map-root-wrap map-poi-wrap map-common-wrapper" style="display: block !important">
+<div class="map-poi-wrap show-estate-map" data-directions-service="true" data-map-options='{"latitude":47.183430999999999,"longitude":19.500021}' data-map-type="result" data-trans-clear-drawings="Összes rajzolt elem törlése" data-trans-directions-service="Útvonaltervezés" data-trans-distance-measurement="Két pont közötti távolság mérése" id="estate-map-search"></div>
+<div class="map-checkbox-filters-in-search map-poi-categories" data-poi-data-route="/poi/adatok/__ID__" data-poi-filter-route="/poi/szures/__LATMIN__/__LATMAX__/__LONMIN__/__LONMAX__/__SLUG__">
+<div class="poi-toggle">
+<i class="oc-icon icon-oc-oc-haromszog-nyil-balra"></i>
+</div>
+<div class="map-poi-box">
+<h2 class="poi-title">
+<i class="oc-icon icon-oc-oc-terkepen-mutat-v2"></i>
+<span>
+                    Belépett felhasználóként itt megjelenítheti beállított fontos helyeit (POI-k)                </span>
+</h2>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="map-distance-info-display">
+    A két pont között mért távolság: <span class="map-distance-info-number"></span>km.
+                </div> <form action="#" class="std">
+<div class="map-directions-service" data-error-message-empty-input="Minden mező kitöltése kötelező!" data-error-message-general="Hiba történt, kérjük próbálja újra!" data-error-message-transit="A megadott koordináták között jelenleg nem lehetséges a tömegközelekedési útvonal számítása!
+                " data-text-context-from="Útvonal innen" data-text-context-go="Útvonaltervezés" data-text-context-to="Útvonal ide" id="map-directions-service">
+<h2 class="layer-title">
+<i class="oc-icon icon-oc-oc-utvonaltervezes"></i>
+<span>Útvonaltervezés</span>
+</h2>
+<div class="map-directions-icons-wrap">
+<div class="map-directions-icon active driving" data-mode="driving" title="Autóval">
+<i class="icon-oc-oc-autoval"></i>
+</div>
+<div class="map-directions-icon walking" data-mode="walking" title="Gyalog">
+<i class="icon-oc-oc-gyalog"></i>
+</div>
+<div class="map-directions-icon transit" data-mode="transit" title="Tömegközlekedéssel">
+<i class="icon-oc-oc-busz"></i>
+</div>
+<div class="map-directions-icon clear" data-mode="clear" title="Keresés törlése">
+<i class="oc-icon icon-oc-oc-myoc-torles"></i>
+</div>
+</div>
+<select class="custom-select travel-mode directions-form-elem">
+<option data-mode="driving" selected="selected" value="DRIVING">
+            Autóval        </option>
+<option data-mode="walking" value="WALKING">
+            Gyalog        </option>
+<option data-mode="transit" value="TRANSIT">
+            Tömegközlekedéssel        </option>
+</select>
+<input class="origin directions-form-elem" placeholder="Indulás" type="text"/>
+<input class="destination directions-form-elem" placeholder="Érkezés" type="text"/>
+<a class="submit-directions btn big-btn-orange">
+        Útvonaltervezés    </a>
+<p class="error-field"></p>
+<p class="directions-result">
+</p>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-pane active" id="resultListText" role="tabpanel">
+<main class="col-md-9 col-xs-12" id="main" role="main">
+<div class="row">
+<div class="col-md-8 main-title">
+<h1>
+<strong>Eladó tégla Budapest V. kerület</strong> </h1>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12 hidden-xs">
+<div class="row">
+<div class="col-md-12">
+<div class="result-count-info row">
+<div class="col-xs-12 col-md-8 row">
+<span class="info">
+<span class="atEstateList-totalCount pull-left"><strong>7</strong> talált ingatlan </span><span class="atEstateList-totalCount pull-left">, <strong>7</strong> használt </span> </span>
+<div class="clearfix"></div>
+</div>
+<div class="col-xs-12 col-md-4 pull-right text-right mobilswitch" style="padding-right: 0;">
+<div class="icon-oc-oc-terkepes-kereso-new small"></div>
+<div class="switchMapButton tabchange" data-trigger-id="resultListMapTab" data-trigger-id2="resultListTextTab" style="position:relative; top:-20px;display: inline;">Térképes nézetre váltás</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-12">
+<div class="row ctrl_holder">
+<div class="hit-info-wrapper">
+<div class="clone-selects-wrap"></div>
+<div class="col-md-4 col-sm-6 col-xs-4 pull-right text-right">
+<div><a class="advanced-btn hidden" href="
+                                        /ingatlanok/vetel                                        ">
+                                            Új keresés indítása                                        </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row hidden-sm hidden-md hidden-lg">
+<div class="col-md-12">
+<div class="result-count-info row">
+<div class="col-xs-12 col-md-8 row">
+<span class="info">
+<span class="atEstateList-totalCount pull-left"><strong>7</strong> talált ingatlan </span><span class="atEstateList-totalCount pull-left">, <strong>7</strong> használt </span> </span>
+<div class="clearfix"></div>
+</div>
+<div class="col-xs-12 col-md-4 pull-right text-right mobilswitch" style="padding-right: 0;">
+<div class="icon-oc-oc-terkepes-kereso-new small"></div>
+<div class="switchMapButton tabchange" data-trigger-id="resultListMapTab" data-trigger-id2="resultListTextTab" style="position:relative; top:-20px;display: inline;">Térképes nézetre váltás</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="estate-list">
+<ul class="real-estate-list clearfix">
+<li class="col-md-4 col-sm-6 col-s-6 col-xs-12 row-breaker-tablet">
+<a class="list-anchore" name="H394360"></a>
+<div class="estate-list-box" id="head-estate-13617162">
+<a class="estate-list-item atRealEstateList-showEstate" href="/ingatlanok/H394360?c=1b06e8e0" title="">
+<div class="head-estate">
+<div class="head-estate-info">
+<span class="estate-town">
+<span class="estate-city">
+                        Budapest                    </span>
+<span class="estate-town">V. kerület, Belváros</span> </span>
+</div>
+<div class="estate-img lazyImage" data-lazy-back="https://i2.oc.hu/realestate_images/340x255/crop/p31039282_pyjt26u7.jpg?v=1">
+<div class="checking-icons"></div>
+<span class="tip oc-icon fresh atEstateListItem-Tip" data-tip-type="fresh">
+                        Friss                    </span>
+<div class="estate-functions-wrapper">
+<div class="function-toggle-new hidden-xs" data-active-class="estate-list-box">
+</div>
+<div class="functions-wrap">
+<div class="estate-icons estate-list-icons real-estate-icon-functions">
+<span class="oc-icon icon-oc-oc-kedvenc estate-bookmark pls-login atRealEstateList-estateBookmark estate-add-localStorage" data-bookmark-url="/vezerlopult/ingatlanok/H394360/kedvencek/mentes" data-estate-id="13617162" data-estate-regno="H394360" data-silent="true" data-unauth-message="
+                    
+                        A mentéshez kérjük
+                        &lt;a class='orange-co' href='/bejelentkezes' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;selector&quot;:&quot;#hontioc-loginform&quot;,&quot;title&quot;:&quot;bel\u00e9p\u00e9s&quot;}'&gt;
+                            jelentkezzen
+                        &lt;/a&gt;
+                        be vagy
+                        &lt;a class='orange-co' href='/regisztracio' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;title&quot;:&quot;regisztr\u00e1ci\u00f3&quot;}'&gt;
+                            regisztráljon
+                        &lt;/a&gt;
+                    !
+                " data-url="" title="Mentse el az ingatlant"></span>
+<div class="oc-icon icon-oc-oc-osszehasonlitas btn-comparison compare base" data-compare-url="/ingatlanok/H394360/osszehasonlitas/mentes" data-remove-url="/ingatlanok/H394360/osszehasonlitas/eltavolitas" data-silent="true" title=" Összehasonlításra jelöl">
+</div>
+</div>
+<div class="bg"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="estate-list-item-data">
+<div class="estate-info atEstateListItem-Info block_header row" data-at-office-id="916122" data-at-partner-id="" data-at-type="condominium">
+<span class="estate-price atEstateListItem-Price col-xs-6">
+                        34,9 M Ft                    </span>
+<span class="estate-size col-xs-6 text-right">
+                        31 m<sup>2</sup> </span>
+</div>
+<div class="estate-title-quarter">
+<span class="estate-title-new">
+                    Budapest                    V. kerület, Belváros                                    </span>
+</div>
+<div class="estate-type-size">
+<div>
+                        Tégla lakás                    </div>
+<div class="info-data-title">szoba: </div><span class="atEstateListItem-Rooms">1 </span> </div>
+</div>
+<div class="hide-description">
+<div class="inner-hide-description">
+<div class="estate_type">
+</div>
+                Rejtett kis ékszerdoboz várja következő tulajdonosát 5 perc sétára a Deák &amp; Astoria közelében nyugodt kis<br/>mellékutcában.<br/>
+...                </div>
+</div>
+</a>
+</div>
+</li>
+<li class="col-md-4 col-sm-6 col-s-6 col-xs-12">
+<a class="list-anchore" name="H393835"></a>
+<div class="estate-list-box" id="head-estate-13540521">
+<a class="estate-list-item atRealEstateList-showEstate" href="/ingatlanok/H393835?c=1b06e8e0" title="Rövidtávú kiadásra (airbnb) tökéletes! Legjobb lokáció!">
+<div class="head-estate">
+<div class="head-estate-info">
+<span class="estate-town">
+<span class="estate-city">
+                        Budapest                    </span>
+<span class="estate-town">V. kerület, Belváros</span> </span>
+</div>
+<div class="estate-img lazyImage" data-lazy-back="https://i1.oc.hu/realestate_images/340x255/crop/p31053030_hspntt0o.jpg?v=3">
+<div class="checking-icons"></div>
+<span class="tip oc-icon exclusive atEstateListItem-Tip" data-tip-type="exclusive">
+                        Kizárólagos megbízás                    </span>
+<div class="estate-functions-wrapper">
+<div class="function-toggle-new hidden-xs" data-active-class="estate-list-box">
+</div>
+<div class="functions-wrap">
+<div class="estate-icons estate-list-icons real-estate-icon-functions dimensioned">
+<span class="oc-icon icon-oc-oc-kedvenc estate-bookmark pls-login atRealEstateList-estateBookmark estate-add-localStorage" data-bookmark-url="/vezerlopult/ingatlanok/H393835/kedvencek/mentes" data-estate-id="13540521" data-estate-regno="H393835" data-silent="true" data-unauth-message="
+                    
+                        A mentéshez kérjük
+                        &lt;a class='orange-co' href='/bejelentkezes' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;selector&quot;:&quot;#hontioc-loginform&quot;,&quot;title&quot;:&quot;bel\u00e9p\u00e9s&quot;}'&gt;
+                            jelentkezzen
+                        &lt;/a&gt;
+                        be vagy
+                        &lt;a class='orange-co' href='/regisztracio' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;title&quot;:&quot;regisztr\u00e1ci\u00f3&quot;}'&gt;
+                            regisztráljon
+                        &lt;/a&gt;
+                    !
+                " data-url="" title="Mentse el az ingatlant"></span>
+<div class="oc-icon icon-oc-oc-osszehasonlitas btn-comparison compare base" data-compare-url="/ingatlanok/H393835/osszehasonlitas/mentes" data-remove-url="/ingatlanok/H393835/osszehasonlitas/eltavolitas" data-silent="true" title=" Összehasonlításra jelöl">
+</div>
+</div>
+<div class="bg"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="estate-list-item-data">
+<div class="estate-info atEstateListItem-Info block_header row" data-at-office-id="3660475" data-at-partner-id="" data-at-type="condominium">
+<span class="estate-price atEstateListItem-Price col-xs-6">
+                        35,9 M Ft                    </span>
+<span class="estate-size col-xs-6 text-right">
+                        31 m<sup>2</sup> </span>
+</div>
+<div class="estate-title-quarter">
+<span class="estate-title-new">
+                    Budapest                    V. kerület, Belváros                                    </span>
+</div>
+<div class="estate-type-size">
+<div>
+                        Tégla lakás                    </div>
+<div class="info-data-title">szoba: </div><span class="atEstateListItem-Rooms">1 </span> </div>
+</div>
+<div class="hide-description">
+<div class="inner-hide-description">
+<div class="estate_type">
+</div>
+<b>Rövidtávú kiadásra (airbnb) tökéletes! Legjobb lokáció!</b><br/>
+Az ingatlanhoz webséta elérhető. További információért hívjon! <br/>
+...                </div>
+</div>
+</a>
+</div>
+</li>
+<li class="col-md-4 col-sm-6 col-s-6 col-xs-12 row-breaker-tablet">
+<a class="list-anchore" name="H387534"></a>
+<div class="estate-list-box" id="head-estate-12625576">
+<a class="estate-list-item atRealEstateList-showEstate" href="/ingatlanok/H387534?c=1b06e8e0" title="Garzonlakás a Váci utcában">
+<div class="head-estate">
+<div class="head-estate-info">
+<span class="estate-town">
+<span class="estate-city">
+                        Budapest                    </span>
+<span class="estate-town">V. kerület, Belváros</span> </span>
+</div>
+<div class="estate-img lazyImage" data-lazy-back="https://i1.oc.hu/realestate_images/340x255/crop/p29867085_lapar9te.jpg?v=1">
+<div class="checking-icons"></div>
+<div class="estate-functions-wrapper">
+<div class="function-toggle-new hidden-xs" data-active-class="estate-list-box">
+</div>
+<div class="functions-wrap">
+<div class="estate-icons estate-list-icons real-estate-icon-functions">
+<span class="oc-icon icon-oc-oc-kedvenc estate-bookmark pls-login atRealEstateList-estateBookmark estate-add-localStorage" data-bookmark-url="/vezerlopult/ingatlanok/H387534/kedvencek/mentes" data-estate-id="12625576" data-estate-regno="H387534" data-silent="true" data-unauth-message="
+                    
+                        A mentéshez kérjük
+                        &lt;a class='orange-co' href='/bejelentkezes' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;selector&quot;:&quot;#hontioc-loginform&quot;,&quot;title&quot;:&quot;bel\u00e9p\u00e9s&quot;}'&gt;
+                            jelentkezzen
+                        &lt;/a&gt;
+                        be vagy
+                        &lt;a class='orange-co' href='/regisztracio' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;title&quot;:&quot;regisztr\u00e1ci\u00f3&quot;}'&gt;
+                            regisztráljon
+                        &lt;/a&gt;
+                    !
+                " data-url="" title="Mentse el az ingatlant"></span>
+<div class="oc-icon icon-oc-oc-osszehasonlitas btn-comparison compare base" data-compare-url="/ingatlanok/H387534/osszehasonlitas/mentes" data-remove-url="/ingatlanok/H387534/osszehasonlitas/eltavolitas" data-silent="true" title=" Összehasonlításra jelöl">
+</div>
+</div>
+<div class="bg"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="estate-list-item-data">
+<div class="estate-info atEstateListItem-Info block_header row" data-at-office-id="3660475" data-at-partner-id="" data-at-type="condominium">
+<span class="estate-price atEstateListItem-Price col-xs-6">
+                        44,3 M Ft                    </span>
+<span class="estate-size col-xs-6 text-right">
+                        33 m<sup>2</sup> </span>
+</div>
+<div class="estate-title-quarter">
+<span class="estate-title-new">
+                    Budapest                    V. kerület, Belváros                                    </span>
+</div>
+<div class="estate-type-size">
+<div>
+                        Tégla lakás                    </div>
+<div class="info-data-title">szoba: </div><span class="atEstateListItem-Rooms">1 </span> </div>
+</div>
+<div class="hide-description">
+<div class="inner-hide-description">
+<div class="estate_type">
+</div>
+<b>Garzonlakás a Váci utcában</b><br/>
+Felújítandó egy szobás lakás eladó a Váci utcában. Panorámás a Vásárcsarnokra, és az ablakból jól<br/>látszik a Szabadság híd és a Műegyetem is. ...                </div>
+</div>
+</a>
+</div>
+</li>
+<li class="col-md-4 col-sm-6 col-s-6 col-xs-12 row-breaker">
+<a class="list-anchore" name="H391785"></a>
+<div class="estate-list-box" id="head-estate-13243082">
+<a class="estate-list-item atRealEstateList-showEstate" href="/ingatlanok/H391785?c=1b06e8e0" title="FELÚJÍTOTT LAKÁS A SZENT ISTVÁN KÖRÚTON">
+<div class="head-estate">
+<div class="head-estate-info">
+<span class="estate-town">
+<span class="estate-city">
+                        Budapest                    </span>
+<span class="estate-town">V. kerület, Lipótváros</span> </span>
+</div>
+<div class="estate-img lazyImage" data-lazy-back="https://i0.oc.hu/realestate_images/340x255/crop/p30594041_4iwtic7k.jpg?v=1">
+<div class="checking-icons"></div>
+<div class="estate-functions-wrapper">
+<div class="function-toggle-new hidden-xs" data-active-class="estate-list-box">
+</div>
+<div class="functions-wrap">
+<div class="estate-icons estate-list-icons real-estate-icon-functions">
+<span class="oc-icon icon-oc-oc-kedvenc estate-bookmark pls-login atRealEstateList-estateBookmark estate-add-localStorage" data-bookmark-url="/vezerlopult/ingatlanok/H391785/kedvencek/mentes" data-estate-id="13243082" data-estate-regno="H391785" data-silent="true" data-unauth-message="
+                    
+                        A mentéshez kérjük
+                        &lt;a class='orange-co' href='/bejelentkezes' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;selector&quot;:&quot;#hontioc-loginform&quot;,&quot;title&quot;:&quot;bel\u00e9p\u00e9s&quot;}'&gt;
+                            jelentkezzen
+                        &lt;/a&gt;
+                        be vagy
+                        &lt;a class='orange-co' href='/regisztracio' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;title&quot;:&quot;regisztr\u00e1ci\u00f3&quot;}'&gt;
+                            regisztráljon
+                        &lt;/a&gt;
+                    !
+                " data-url="" title="Mentse el az ingatlant"></span>
+<div class="oc-icon icon-oc-oc-osszehasonlitas btn-comparison compare base" data-compare-url="/ingatlanok/H391785/osszehasonlitas/mentes" data-remove-url="/ingatlanok/H391785/osszehasonlitas/eltavolitas" data-silent="true" title=" Összehasonlításra jelöl">
+</div>
+</div>
+<div class="bg"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="estate-list-item-data">
+<div class="estate-info atEstateListItem-Info block_header row" data-at-office-id="507413" data-at-partner-id="1264430" data-at-type="condominium">
+<span class="estate-price atEstateListItem-Price col-xs-6">
+                        37,5 M Ft                    </span>
+<span class="estate-size col-xs-6 text-right">
+                        30 m<sup>2</sup> </span>
+</div>
+<div class="estate-title-quarter">
+<span class="estate-title-new">
+                    Budapest                    V. kerület, Lipótváros                                    </span>
+</div>
+<div class="estate-type-size">
+<div>
+                        Tégla lakás                    </div>
+<div class="info-data-title">szoba: </div><span class="atEstateListItem-Rooms">1 + 1 félszoba</span> </div>
+</div>
+<div class="hide-description">
+<div class="inner-hide-description">
+<div class="estate_type">
+</div>
+<b>FELÚJÍTOTT LAKÁS A SZENT ISTVÁN KÖRÚTON</b><br/>
+Eladó egy 2. emeleti, utcai nézetű 1+1 szobás, 30 m2-es lakás a Szent István körút V. kerületi oldalán.<br/>
+A legutolsó közgyűlésen döntöttek a tetőtér értékesítéséről, amelynek köszönhetően a homlokzat...                </div>
+</div>
+</a>
+</div>
+</li>
+<li class="col-md-4 col-sm-6 col-s-6 col-xs-12 row-breaker-tablet">
+<a class="list-anchore" name="H391787"></a>
+<div class="estate-list-box" id="head-estate-13247999">
+<a class="estate-list-item atRealEstateList-showEstate" href="/ingatlanok/H391787?c=1b06e8e0" title="">
+<div class="head-estate">
+<div class="head-estate-info">
+<span class="estate-town">
+<span class="estate-city">
+                        Budapest                    </span>
+<span class="estate-town">V. kerület, Lipótváros</span> </span>
+</div>
+<div class="estate-img lazyImage" data-lazy-back="https://i0.oc.hu/realestate_images/340x255/crop/p30594115_9a01nu8y.jpg?v=1">
+<div class="checking-icons"></div>
+<div class="estate-functions-wrapper">
+<div class="function-toggle-new hidden-xs" data-active-class="estate-list-box">
+</div>
+<div class="functions-wrap">
+<div class="estate-icons estate-list-icons real-estate-icon-functions">
+<span class="oc-icon icon-oc-oc-kedvenc estate-bookmark pls-login atRealEstateList-estateBookmark estate-add-localStorage" data-bookmark-url="/vezerlopult/ingatlanok/H391787/kedvencek/mentes" data-estate-id="13247999" data-estate-regno="H391787" data-silent="true" data-unauth-message="
+                    
+                        A mentéshez kérjük
+                        &lt;a class='orange-co' href='/bejelentkezes' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;selector&quot;:&quot;#hontioc-loginform&quot;,&quot;title&quot;:&quot;bel\u00e9p\u00e9s&quot;}'&gt;
+                            jelentkezzen
+                        &lt;/a&gt;
+                        be vagy
+                        &lt;a class='orange-co' href='/regisztracio' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;title&quot;:&quot;regisztr\u00e1ci\u00f3&quot;}'&gt;
+                            regisztráljon
+                        &lt;/a&gt;
+                    !
+                " data-url="" title="Mentse el az ingatlant"></span>
+<div class="oc-icon icon-oc-oc-osszehasonlitas btn-comparison compare base" data-compare-url="/ingatlanok/H391787/osszehasonlitas/mentes" data-remove-url="/ingatlanok/H391787/osszehasonlitas/eltavolitas" data-silent="true" title=" Összehasonlításra jelöl">
+</div>
+</div>
+<div class="bg"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="estate-list-item-data">
+<div class="estate-info atEstateListItem-Info block_header row" data-at-office-id="507413" data-at-partner-id="1264430" data-at-type="condominium">
+<span class="estate-price atEstateListItem-Price col-xs-6">
+                        39,9 M Ft                    </span>
+<span class="estate-size col-xs-6 text-right">
+                        32 m<sup>2</sup> </span>
+</div>
+<div class="estate-title-quarter">
+<span class="estate-title-new">
+                    Budapest                    V. kerület, Lipótváros                                    </span>
+</div>
+<div class="estate-type-size">
+<div>
+                        Tégla lakás                    </div>
+<div class="info-data-title">szoba: </div><span class="atEstateListItem-Rooms">1 </span> </div>
+</div>
+<div class="hide-description">
+<div class="inner-hide-description">
+<div class="estate_type">
+</div>
+                Eladó egy 2. emeleti, utcai nézetű 1 szobás, galériázott, 32 m2-es (+ 7 m2 galéria!) lakás a Szent István<br/>körút V. kerületi oldalán.<br/>
+A legutolsó közgyűlésen döntöttek a tetőtér értékesítéséről, amelynek köszönhetően a homlokzat...                </div>
+</div>
+</a>
+</div>
+</li>
+<li class="col-md-4 col-sm-6 col-s-6 col-xs-12">
+<a class="list-anchore" name="H376578"></a>
+<div class="estate-list-box" id="head-estate-11056509">
+<a class="estate-list-item atRealEstateList-showEstate" href="/ingatlanok/H376578?c=1b06e8e0" title="Garzonlakás a Károly körúton az Akváriumnál">
+<div class="head-estate">
+<div class="head-estate-info">
+<span class="estate-town">
+<span class="estate-city">
+                        Budapest                    </span>
+<span class="estate-town">V. kerület, Belváros</span> </span>
+</div>
+<div class="estate-img lazyImage" data-lazy-back="https://i1.oc.hu/realestate_images/340x255/crop/p28020135_lf8v1frf.jpg?v=2">
+<div class="checking-icons"></div>
+<div class="estate-functions-wrapper">
+<div class="function-toggle-new hidden-xs" data-active-class="estate-list-box">
+</div>
+<div class="functions-wrap">
+<div class="estate-icons estate-list-icons real-estate-icon-functions">
+<span class="oc-icon icon-oc-oc-kedvenc estate-bookmark pls-login atRealEstateList-estateBookmark estate-add-localStorage" data-bookmark-url="/vezerlopult/ingatlanok/H376578/kedvencek/mentes" data-estate-id="11056509" data-estate-regno="H376578" data-silent="true" data-unauth-message="
+                    
+                        A mentéshez kérjük
+                        &lt;a class='orange-co' href='/bejelentkezes' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;selector&quot;:&quot;#hontioc-loginform&quot;,&quot;title&quot;:&quot;bel\u00e9p\u00e9s&quot;}'&gt;
+                            jelentkezzen
+                        &lt;/a&gt;
+                        be vagy
+                        &lt;a class='orange-co' href='/regisztracio' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;title&quot;:&quot;regisztr\u00e1ci\u00f3&quot;}'&gt;
+                            regisztráljon
+                        &lt;/a&gt;
+                    !
+                " data-url="" title="Mentse el az ingatlant"></span>
+<div class="oc-icon icon-oc-oc-osszehasonlitas btn-comparison compare base" data-compare-url="/ingatlanok/H376578/osszehasonlitas/mentes" data-remove-url="/ingatlanok/H376578/osszehasonlitas/eltavolitas" data-silent="true" title=" Összehasonlításra jelöl">
+</div>
+</div>
+<div class="bg"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="estate-list-item-data">
+<div class="estate-info atEstateListItem-Info block_header row" data-at-office-id="9206586" data-at-partner-id="" data-at-type="condominium">
+<span class="estate-price atEstateListItem-Price col-xs-6">
+                        49,9 M Ft                    </span>
+<span class="estate-size col-xs-6 text-right">
+                        32 m<sup>2</sup> </span>
+</div>
+<div class="estate-title-quarter">
+<span class="estate-title-new">
+                    Budapest                    V. kerület, Belváros                                    </span>
+</div>
+<div class="estate-type-size">
+<div>
+                        Tégla lakás                    </div>
+<div class="info-data-title">szoba: </div><span class="atEstateListItem-Rooms">1 </span> </div>
+</div>
+<div class="hide-description">
+<div class="inner-hide-description">
+<div class="estate_type">
+</div>
+<b>Garzonlakás a Károly körúton az Akváriumnál</b><br/>
+Eladó tégla lakás a Károly körúton, 2-ik emeleti, teljesen felújítandó 32nm+5nm előtér közös, délnyugati,<br/>dupla francia erkélyes, kiváló airbnb-re, zárt szép lépcsőházzal, karbantartott házban. ...                </div>
+</div>
+</a>
+</div>
+</li>
+<li class="col-md-4 col-sm-6 col-s-6 col-xs-12 row-breaker-tablet">
+<a class="list-anchore" name="H391318"></a>
+<div class="estate-list-box" id="head-estate-13205004">
+<a class="estate-list-item atRealEstateList-showEstate" href="/ingatlanok/H391318?c=1b06e8e0" title="V. Garibaldi utca">
+<div class="head-estate">
+<div class="head-estate-info">
+<span class="estate-town">
+<span class="estate-city">
+                        Budapest                    </span>
+<span class="estate-town">V. kerület, Bank negyed</span> </span>
+</div>
+<div class="estate-img lazyImage" data-lazy-back="https://i0.oc.hu/realestate_images/340x255/crop/p30513837_l49h9dsh.jpg?v=1">
+<div class="checking-icons"></div>
+<div class="estate-functions-wrapper">
+<div class="function-toggle-new hidden-xs" data-active-class="estate-list-box">
+</div>
+<div class="functions-wrap">
+<div class="estate-icons estate-list-icons real-estate-icon-functions">
+<span class="oc-icon icon-oc-oc-kedvenc estate-bookmark pls-login atRealEstateList-estateBookmark estate-add-localStorage" data-bookmark-url="/vezerlopult/ingatlanok/H391318/kedvencek/mentes" data-estate-id="13205004" data-estate-regno="H391318" data-silent="true" data-unauth-message="
+                    
+                        A mentéshez kérjük
+                        &lt;a class='orange-co' href='/bejelentkezes' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;selector&quot;:&quot;#hontioc-loginform&quot;,&quot;title&quot;:&quot;bel\u00e9p\u00e9s&quot;}'&gt;
+                            jelentkezzen
+                        &lt;/a&gt;
+                        be vagy
+                        &lt;a class='orange-co' href='/regisztracio' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;title&quot;:&quot;regisztr\u00e1ci\u00f3&quot;}'&gt;
+                            regisztráljon
+                        &lt;/a&gt;
+                    !
+                " data-url="" title="Mentse el az ingatlant"></span>
+<div class="oc-icon icon-oc-oc-osszehasonlitas btn-comparison compare base" data-compare-url="/ingatlanok/H391318/osszehasonlitas/mentes" data-remove-url="/ingatlanok/H391318/osszehasonlitas/eltavolitas" data-silent="true" title=" Összehasonlításra jelöl">
+</div>
+</div>
+<div class="bg"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="estate-list-item-data">
+<div class="estate-info atEstateListItem-Info block_header row" data-at-office-id="811975" data-at-partner-id="869322" data-at-type="condominium">
+<span class="estate-price atEstateListItem-Price col-xs-6">
+                        45 M Ft                    </span>
+<span class="estate-size col-xs-6 text-right">
+                        28 m<sup>2</sup> </span>
+</div>
+<div class="estate-title-quarter">
+<span class="estate-title-new">
+                    Budapest                    V. kerület, Bank negyed                                    </span>
+</div>
+<div class="estate-type-size">
+<div>
+                        Tégla lakás                    </div>
+<div class="info-data-title">szoba: </div><span class="atEstateListItem-Rooms">1 </span> </div>
+</div>
+<div class="hide-description">
+<div class="inner-hide-description">
+<div class="estate_type">
+</div>
+<b>V. Garibaldi utca</b><br/>
+V. kerület egyik legkedveltebb utcájában eladó ez a 28nm-es lakás.<br/>
+Liftes szép épület, a lakás a IV. emeleten van....                </div>
+</div>
+</a>
+</div>
+</li>
+</ul>
+<div class="list-footer">
+<div class="col-md-12">
+<div class="result-count-info">
+<span class="info">
+<span class="atEstateList-totalCount pull-left"><strong>7</strong> talált ingatlan </span><span class="pull-right">1. oldal  <span class="atEstateList-totalCount">1 - 7</span> találat</span><span class="atEstateList-totalCount pull-left">, <strong>7</strong> használt </span> </span>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div id="pagination">
+<div class="pager clearfix">
+<p>Találatok <strong>7</strong></p>
+</div> </div>
+</div>
+</div>
+</div>
+</main>
+</div>
+</div>
+<script>
+    var tabid;
+    var tabname;
+    $(document).ready(function(){
+        $(".tabchange").click(function(){
+            var id = tabid;
+            var id1 = $(this).data('trigger-id');
+            var id2 = $(this).data('trigger-id2');
+
+            if (id != undefined && id == id1) {
+                tabid = id2;
+                $("#"+id2).trigger('click');
+            } else {
+                tabid = id1;
+                $("#"+id1).trigger('click');
+            }
+        });
+    });
+</script>
+<div class="" id="sidebar">
+<div class="sidebar-wrap">
+<div class="sidebar-filter" style="background: none; padding: 0;">
+<div class="estate-detailed-search-wrap" id="estate-detailed-search">
+<script id="poi-and-layer-infowindow-template" type="text/x-dot-template">
+    <div class="poi-map-tooltip">
+        {{?it.url}}
+        <a href="{{=it.url}}"  target="_blank">
+
+        {{?}}
+
+        {{?it.image}}
+        <img class="poi-map-tooltip-image" src="{{=it.image}}" />
+        {{?}}
+
+        <h2 class="poi-map-tooltip-title"
+            {{?it.url}}
+            title="POI módosítása"
+            {{?}}
+            >
+            {{?it.url}}
+            <span class="oc-icon icon-oc-oc-szerkesztes"></span>
+            &nbsp;
+            {{?}}
+            {{=it.name}}
+        </h2>
+        {{=it.description}}
+        {{?it.url}}
+        </a>
+        {{?}}
+    </div>
+</script> <form action="/realEstateNiceUrlRouter.php" class="active std min-max-handler" data-condition-exceptional-status='{"type":"flat","condition":"1"}' data-input-pattern="real_estate_search%" data-save-search-action="/ingatlanok/kereses-mentese" data-url-location-bounds="/real_estate_find_search_location_bounds" data-url-map-search="/real_estate_map_search" data-url-property-card="/ingatlan-kartya" data-url-total-result-count="/ingatlanok/reszletes-kereses/darabszam" data-vc-component="populator" method="get" style="padding: 0">
+<div class="col-xs-12 col-md-9 col-md-offset-3 lisbuttons">
+<div class="save-search-wrap col-md-4 col-xs-12 pull-right" data-saved-search-exists="/ingatlanok/mentett-kereses-letezik" data-title-inactive="Mentett keresés" style="padding: 0;">
+<button class="save-search-off" title="Az ingatlant már sikeresen elmentetted!" type="button">
+                                Mentett keresés                            </button>
+<div class="save-search saveSearchButton" data-unauth-message="
+                    
+                        A mentéshez kérjük
+                        &lt;a class='orange-co' href='/bejelentkezes' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;selector&quot;:&quot;#hontioc-loginform&quot;,&quot;title&quot;:&quot;bel\u00e9p\u00e9s&quot;}'&gt;
+                            jelentkezzen
+                        &lt;/a&gt;
+                        be vagy
+                        &lt;a class='orange-co' href='/regisztracio' data-vc-component='dialog' data-vc-dialog-options='{&quot;buttons&quot;:false,&quot;title&quot;:&quot;regisztr\u00e1ci\u00f3&quot;}'&gt;
+                            regisztráljon
+                        &lt;/a&gt;
+                    !
+                ">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="inactive saveSearchButton control-label" for="real_estate_search_save_search">Jelenlegi keresés mentése</label> <div class="controls">
+<input class="custom-checkbox checkboxField atField-save_search choiceType" id="real_estate_search_save_search" name="real_estate_search[save_search]" type="checkbox" value="1"/> </div>
+</div> </div>
+<div class="row search-name">
+<span id="recent_search_header">Jelenlegi keresés mentése
+                                    <span aria-hidden="true" class="glyphicon glyphicon-remove close-saved-search" style="float:right;margin-right:15px;"></span>
+<script>
+                                            $(document).ready(function() {
+                                                $(".close-saved-search").click(function(){
+                                                    $("#real_estate_search_save_search").trigger("click");
+                                                });
+                                            });
+                                        </script>
+</span>
+<div class="col-md-12 force-e-label">
+<div class="field clearfix form-group textFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_saved_search_name">Mentett keresés neve:</label> <div class="controls">
+<input class="textField atField-saved_search_name textType form-control" id="real_estate_search_saved_search_name" name="real_estate_search[saved_search_name]" type="text" value=""/> </div>
+</div> </div>
+<div class="col-sm-12 col-xs-6">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_save_search_as_notification">Keresés értesítéssel</label> <div class="controls">
+<input class="custom-checkbox checkboxField atField-save_search_as_notification choiceType" data-vc-populator-options='[{"name":"enabled","expression":"[save_search] == 1"}]' id="real_estate_search_save_search_as_notification" name="real_estate_search[save_search_as_notification]" type="checkbox" value="1"/> </div>
+</div> <a class="hint-bubble orient__right-middle" href="#hint_1" id="hint_1" onclick="return false;" tabindex="0">
+<span class="mark">?</span>
+<span class="text">
+                                    Rendszeres értesítést kap mentett kereséseiről.                                                <span class="triangle">
+<span></span>
+</span>
+</span>
+</a>
+</div>
+<div class="col-sm-12 col-xs-6">
+<a class="btn-orange save-search-btn as_plain" data-error-msg="A keresés értesítéséhez töltse ki az elhelyezkedést és az ár, méret, szobaszám valamelyikét!
+                " href="#">
+                                            mentés
+                                        </a>
+</div>
+</div>
+</div>
+</div>
+<div class="row col-md-3 col-sm-12 col-xs-12 side_bar" style="padding: 0 22px;">
+<div class="title-with-icon-container estatetop">
+<h5 class="title-with-icon">
+                            Aktuális keresés módosítása
+                        </h5>
+</div>
+<div class="reset-button-container">
+<button class="reset-button" type="reset">Keresőfeltételek törlése</button>
+</div>
+<div class="estate-search-map-properties hidden">
+<input class="hiddenField atField-map_properties textType form-control" id="real_estate_search_map_properties" name="real_estate_search[map_properties]" type="hidden" value=""/> </div>
+<div class="hidden">
+<div class="estate-filter-hidden-selects row">
+<div class="col-md-4 col-sm-6 col-xs-12 pull-right" style="padding: 0 12px;">
+<div class="field clearfix form-group choiceFieldWrapper choiceTypeWrapper">
+<label class="control-label required" for="real_estate_search_limit">Megjelenő elemek szám</label> <div class="controls">
+<select class="choiceField atField-limit choiceType form-control" id="real_estate_search_limit" name="real_estate_search[limit]">
+<option value="12">12 találat / oldal</option>
+<option value="24">24 találat / oldal</option>
+<option selected="selected" value="48">48 találat / oldal</option></select> </div>
+</div> </div>
+<div class="col-md-4 col-sm-6 col-xs-12 pull-left" style="padding: 0 12px;">
+<span class="rendezes-filter">Rendezés:</span>
+<div class="field clearfix form-group enumchoiceFieldWrapper choiceTypeWrapper">
+<label class="control-label required" for="real_estate_search_order">Rendezés</label> <div class="controls">
+<select class="enumchoiceField atField-order choiceType form-control" id="real_estate_search_order" name="real_estate_search[order]">
+<option selected="selected" value="relevance">Megfelelés szerint</option>
+<option value="price_asc">Ár szerint növekvő</option>
+<option value="price_desc">Ár szerint csökkenő</option>
+<option value="rooms_asc">Szobaszám szerint növekvő</option>
+<option value="rooms_desc">Szobaszám szerint csökkenő</option>
+<option value="price_per_square_meter_asc">Négyzetméter ár szerint növekvő</option>
+<option value="price_per_square_meter_desc">Négyzetméter ár szerint csökkenő</option>
+<option value="relevant_size_asc">Méret szerint növekvő</option>
+<option value="relevant_size_desc">Méret szerint csökkenő</option></select> </div>
+</div> </div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="estate-search-item field-group bolder">
+<div class="e-label" style="padding-bottom: 5px;">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span class="blue-label">Értékesítés típusa</span>
+</div>
+<div class="filter-content">
+<div class="inputGroup">
+<div class="choiceType">
+<div class="field clearfix form-group radioFieldWrapper choiceTypeWrapper">
+<label class="control-label required" for="real_estate_search_utilization_0">eladó</label> <div class="controls">
+<input checked="checked" class="custom-radio" id="real_estate_search_utilization_0" name="real_estate_search[utilization]" required="required" type="radio" value="elado"/> </div>
+</div><div class="field clearfix form-group radioFieldWrapper choiceTypeWrapper">
+<label class="control-label required" for="real_estate_search_utilization_1">kiadó</label> <div class="controls">
+<input class="custom-radio" id="real_estate_search_utilization_1" name="real_estate_search[utilization]" required="required" type="radio" value="kiado"/> </div>
+</div><div class="field clearfix form-group radioFieldWrapper choiceTypeWrapper">
+<label class="control-label required" for="real_estate_search_utilization_2">eladó bérleti jog</label> <div class="controls">
+<input class="custom-radio" id="real_estate_search_utilization_2" name="real_estate_search[utilization]" required="required" type="radio" value="berletijog"/> </div>
+</div> </div>
+</div>
+<div class="field-group">
+<div class="inputGroup bolder legal-state" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"house\" || [type][type] == \"flat\" || [type][type] == \"vacationer\" || [type][type] == \"commercial\" || [type][type] == \"agricultural\""}]'>
+<div class="choiceType">
+<div class="field clearfix form-group radioFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_legal_state_0">új</label> <div class="controls">
+<input class="custom-radio legal-state-choice legal-state-uj" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"house\" || [type][type] == \"flat\" || [type][type] == \"vacationer\" || [type][type] == \"commercial\" || [type][type] == \"agricultural\""}]' id="real_estate_search_legal_state_0" name="real_estate_search[legal_state]" type="radio" value="uj"/> </div>
+</div><div class="field clearfix form-group radioFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_legal_state_1">használt</label> <div class="controls">
+<input checked="checked" class="custom-radio legal-state-choice legal-state-hasznalt" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"house\" || [type][type] == \"flat\" || [type][type] == \"vacationer\" || [type][type] == \"commercial\" || [type][type] == \"agricultural\""}]' id="real_estate_search_legal_state_1" name="real_estate_search[legal_state]" type="radio" value="hasznalt"/> </div>
+</div><div class="field clearfix form-group radioFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_legal_state_placeholder">Mindegy</label> <div class="controls">
+<input class="custom-radio legal-state-choice legal-state-" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"house\" || [type][type] == \"flat\" || [type][type] == \"vacationer\" || [type][type] == \"commercial\" || [type][type] == \"agricultural\""}]' id="real_estate_search_legal_state_placeholder" name="real_estate_search[legal_state]" type="radio" value=""/> </div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-12">
+<div class="estate-search-item">
+<div class="e-label">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span>Típus</span>
+</div>
+<div class="filter-content">
+<div class="type-group no-label">
+<div class="field clearfix embeddedField inputGroup form-group formFieldWrapper textTypeWrapper">
+<label class="control-label required">
+                                                Típus                                            </label>
+<div class="controls">
+<div class="dynamic-tree-select formField atField-type textType" data-loadurl="/ingatlantipus/@path@" data-loadurlplaceholder="@path@" data-previously-set-value='{"type":"flat","style":["brick"],"house_substyle":[]}' data-selects='{"type":"type","style":"style"}' id="real_estate_search_type" name="real_estate_search[type]" required="required">
+<div class="field clearfix form-group enumchoiceFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_type_type">Típus</label> <div class="controls">
+<select class="custom-select type-select type enumchoiceField atField-type choiceType form-control" data-empty-text="Típus" data-history-helper="type" data-style-labels='{"house":"H\u00e1z t\u00edpusa","flat":"\u00c9p\u00edt\u00e9si m\u00f3d","vacationer":"Nyaral\u00f3 t\u00edpusa","ground":"Telek t\u00edpusa","garage":"Gar\u00e1zs t\u00edpusa","commercial":"Ingatlan t\u00edpusa","agricultural":"Ingatlan t\u00edpusa","investment":"Ingatlan t\u00edpusa"}' id="real_estate_search_type_type" name="real_estate_search[type][type]">
+<option value="">Mindegy</option> <option value="house">Ház</option>
+<option selected="selected" value="flat">Lakás</option>
+<option value="vacationer">Nyaraló</option>
+<option value="ground">Telek</option>
+<option value="garage">Garázs</option>
+<option value="commercial">Üzleti célú ingatlan</option>
+<option value="agricultural">Mezőgazdasági ingatlan</option>
+<option value="investment">Fejlesztési célú ingatlan</option></select> </div>
+</div> <div class="field clearfix form-group choiceFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_type_style">Altípus</label> <div class="controls">
+<select class="multiselect style-select style choiceField atField-style choiceType form-control" data-trans-selected="kiválasztva" id="real_estate_search_type_style" multiple="multiple" name="real_estate_search[type][style][]">
+<option selected="selected" value="brick">Tégla</option></select> </div>
+</div> <div class="field-group house-substyle">
+<div class="field clearfix form-group choiceFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_type_house_substyle">form.label.house_substyle</label> <div class="controls">
+<select class="multiselect substyle-select choiceField atField-house_substyle choiceType form-control" data-trans-default-label="Építési mód" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"house\""}]' id="real_estate_search_type_house_substyle" multiple="multiple" name="real_estate_search[type][house_substyle][]">
+<option value="brick">Tégla</option>
+<option value="adobe">Vályog</option>
+<option value="lightweight_construction">Könnyűszerkezetes</option>
+<option value="mixed_masonry">Vegyes falazatú</option>
+<option value="other">Egyéb</option></select> </div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="estate-search-item force-e-label location-search-autosize">
+<div class="e-label group-label">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span class="blue-label">Elhelyezkedés</span>
+</div>
+<div class="filter-content">
+<div class="row">
+<div class="col-md-12 field-group location-type default active">
+<span class="location-help-text">
+                                A kerületeket római számmal adja meg                            </span>
+<div class="field clearfix embeddedField inputGroup form-group multilocationautocompleteFieldWrapper textTypeWrapper">
+<label class="control-label">Elhelyezkedés</label> <div class="controls">
+<div class="multilocationautocompleteField atField-location textType" id="real_estate_search_location">
+<div class="field clearfix form-group textFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_location_value">Érték</label> <div class="controls">
+<input class="textField atField-value textType form-control" data-vc-autocomplete-options='{"searchRoute":"\/foldrajzi-helyek-regiokkal","maxItems":20,"minLength":2,"new":false,"clearField":true,"autoFocus":false,"remote":true}' data-vc-component="multipleautocomplete" id="real_estate_search_location_value" name="real_estate_search[location][value]" type="text" value="budapest05-kerulet"/> </div>
+</div> <div class="field clearfix form-group choiceFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_location_id">Kulcs</label> <div class="controls">
+<select class="choiceField atField-id choiceType form-control" id="real_estate_search_location_id" multiple="multiple" name="real_estate_search[location][id][]">
+<option selected="selected" value="budapest05-kerulet">Budapest V. kerület</option></select> </div>
+</div> </div> </div>
+</div> </div>
+<div class="col-md-12 location-type spatial map-poi-wrap map-common-wrapper">
+<div class="switch-sidebar-map-display">
+<span class="icon-oc-oc-nyil-bal"></span>
+<span class="icon-oc-oc-nyil-jobb"></span>
+</div>
+<div class="map-poi" data-map-type="search" data-search-controls="true" data-trans-clear-drawings="Összes rajzolt elem törlése" data-trans-distance-measurement="Két pont közötti távolság mérése" data-trans-full-frame="Összes látható terület kijelölése" id="estate-map" style="cursor: pointer;">
+<div class="icon-oc-oc-terkepes-kereso-new small" style="top:90px"></div>
+<span style="display: inline;padding-left: 10px;top: 77px;position: relative;">Térkép mutatása</span>
+</div>
+<div class="map-checkbox-filters-in-search map-poi-categories" data-poi-data-route="/poi/adatok/__ID__" data-poi-filter-route="/poi/szures/__LATMIN__/__LATMAX__/__LONMIN__/__LONMAX__/__SLUG__">
+<div class="poi-toggle">
+<i class="oc-icon icon-oc-oc-haromszog-nyil-balra"></i>
+</div>
+<div class="map-poi-box">
+<h2 class="poi-title">
+<i class="oc-icon icon-oc-oc-terkepen-mutat-v2"></i>
+<span>
+                    Belépett felhasználóként itt megjelenítheti beállított fontos helyeit (POI-k)                </span>
+</h2>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="estate-search-map-placeholder">
+</div>
+<div id="estate-search-map-input">
+<input class="hiddenField atField-spatial_location textType form-control" id="real_estate_search_spatial_location" name="real_estate_search[spatial_location]" type="hidden"/> </div>
+<div class="map-distance-info-display">
+    A két pont között mért távolság: <span class="map-distance-info-number"></span>km.
+                </div> </div>
+<div class="col-md-12">
+<a class="switch-location-type spatial active pull-left" data-type="spatial" href="#" rel="nofollow">
+<div class="icon-oc-oc-terkepes-kereso-new"></div>
+<div style="padding-left: 34px;">
+                                                Térképes keresés                                                    </div>
+</a>
+<a class="switch-location-type default pull-left" data-type="default" href="#" rel="nofollow">
+<span class="oc-icon icon-oc-oc-szoveges-kereso"></span>
+                                                Szöveges keresés                                            </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-12">
+<div class="estate-search-item">
+<div class="rangers clearfix">
+<div class="range-section controls field-group" data-vc-populator-options='[{"name":"enabled","expression":"[utilization] == \"elado\" || [utilization] == \"berletijog\" || [utilization] == \"\""}]'>
+<div class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span class="estate-search-price-span">Ár</span>
+</div>
+<div class="filter-content">
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_price_min">form.label.min</label> <div class="controls">
+<input class="decimal-constraint save-notification-check" data-min="" data-suffix="M Ft" id="real_estate_search_price_min" name="real_estate_search[price][min]" type="text" value=""/> </div>
+</div> </div>
+<div class="divider-box">
+<span></span>
+</div>
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_price_max">form.label.max</label> <div class="controls">
+<input class="decimal-constraint save-notification-check" data-max="" data-suffix="M Ft" id="real_estate_search_price_max" name="real_estate_search[price][max]" type="text" value=""/> </div>
+</div> </div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="range-section controls field-group" data-vc-populator-options='[{"name":"enabled","expression":"[utilization] == \"kiado\""}]'>
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span class="estate-search-price-span">Bérleti díj</span>
+</label>
+<div class="filter-content">
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_monthly_rental_fee_min">form.label.min</label> <div class="controls">
+<input class="numeric save-notification-check" data-min="" data-suffix="E Ft" id="real_estate_search_monthly_rental_fee_min" name="real_estate_search[monthly_rental_fee][min]" type="text" value=""/> </div>
+</div> </div>
+<div class="divider-box">
+<span></span>
+</div>
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_monthly_rental_fee_max">form.label.max</label> <div class="controls">
+<input class="numeric save-notification-check" data-max="" data-suffix="E Ft" id="real_estate_search_monthly_rental_fee_max" name="real_estate_search[monthly_rental_fee][max]" type="text" value=""/> </div>
+</div> </div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12 field-group-wrap">
+<div class="range-section controls field-group" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"house\" || [type][type] == \"flat\" || [type][type] == \"vacationer\" || [type][type] == \"garage\""}]'>
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span class="blue-label">Nettó Alapterület</span>
+</label>
+<div class="filter-content">
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_net_size_min">Nettó Alapterület</label> <div class="controls">
+<input class="numeric save-notification-check" data-min="" data-suffix="m&lt;sup&gt;2&lt;/sup&gt;" id="real_estate_search_net_size_min" name="real_estate_search[net_size][min]" type="text" value="28"/> </div>
+</div> </div>
+<div class="divider-box">
+<span></span>
+</div>
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_net_size_max">Nettó Alapterület</label> <div class="controls">
+<input class="numeric save-notification-check" data-max="" data-suffix="m&lt;sup&gt;2&lt;/sup&gt;" id="real_estate_search_net_size_max" name="real_estate_search[net_size][max]" type="text" value="33"/> </div>
+</div> </div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-12 field-group-wrap">
+<div class="range-section controls field-group" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"ground\" || [type][type] == \"agricultural\" || [type][type] == \"investment\""}]'>
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span class="blue-label">Telekméret</span>
+</label>
+<div class="filter-content">
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_site_dimension_min">Telekméret</label> <div class="controls">
+<input class="numeric save-notification-check" data-min="" data-suffix="m&lt;sup&gt;2&lt;/sup&gt;" id="real_estate_search_site_dimension_min" name="real_estate_search[site_dimension][min]" type="text" value=""/> </div>
+</div> </div>
+<div class="divider-box">
+<span></span>
+</div>
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_site_dimension_max">Telekméret</label> <div class="controls">
+<input class="numeric save-notification-check" data-max="" data-suffix="m&lt;sup&gt;2&lt;/sup&gt;" id="real_estate_search_site_dimension_max" name="real_estate_search[site_dimension][max]" type="text" value=""/> </div>
+</div> </div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-12 field-group-wrap">
+<div class="range-section controls field-group" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"commercial\""}]'>
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span>Nettó terület</span>
+</label>
+<div class="filter-content">
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_above_ground_net_area_min">Nettó terület</label> <div class="controls">
+<input class="numeric save-notification-check" data-min="" data-suffix="m&lt;sup&gt;2&lt;/sup&gt;" id="real_estate_search_above_ground_net_area_min" name="real_estate_search[above_ground_net_area][min]" type="text" value=""/> </div>
+</div> </div>
+<div class="divider-box">
+<span></span>
+</div>
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_above_ground_net_area_max">Nettó terület</label> <div class="controls">
+<input class="numeric save-notification-check" data-max="" data-suffix="m&lt;sup&gt;2&lt;/sup&gt;" id="real_estate_search_above_ground_net_area_max" name="real_estate_search[above_ground_net_area][max]" type="text" value=""/> </div>
+</div> </div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-12 field-group-wrap">
+<div class="range-section controls field-group" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"investment\""}]'>
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span>Kialakítható méret</span>
+</label>
+<div class="filter-content">
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_net_area_after_renovation_min">Kialakítható méret</label> <div class="controls">
+<input class="numeric save-notification-check" data-min="" data-suffix="m&lt;sup&gt;2&lt;/sup&gt;" id="real_estate_search_net_area_after_renovation_min" name="real_estate_search[net_area_after_renovation][min]" type="text" value=""/> </div>
+</div> </div>
+<div class="divider-box">
+<span></span>
+</div>
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_net_area_after_renovation_max">Kialakítható méret</label> <div class="controls">
+<input class="numeric save-notification-check" data-max="" data-suffix="m&lt;sup&gt;2&lt;/sup&gt;" id="real_estate_search_net_area_after_renovation_max" name="real_estate_search[net_area_after_renovation][max]" type="text" value=""/> </div>
+</div> </div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-12 field-group-wrap">
+<div class="range-section controls field-group" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"house\" || [type][type] == \"flat\" || [type][type] == \"vacationer\""}]'>
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span class="blue-label">Szobák</span>
+</label>
+<div class="filter-content">
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_rooms_min">form.label.min</label> <div class="controls">
+<input class="numeric save-notification-check" data-min="" data-suffix="szoba" id="real_estate_search_rooms_min" name="real_estate_search[rooms][min]" type="text" value=""/> </div>
+</div> </div>
+<div class="divider-box">
+<span></span>
+</div>
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_rooms_max">form.label.max</label> <div class="controls">
+<input class="numeric save-notification-check" data-max="" data-suffix="szoba" id="real_estate_search_rooms_max" name="real_estate_search[rooms][max]" type="text" value=""/> </div>
+</div> </div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-12 field-group-wrap">
+<div class="range-section controls field-group" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"house\" || [type][type] == \"flat\" || [type][type] == \"vacationer\""}]'>
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span>Fürdőszobák száma</span>
+</label>
+<div class="filter-content">
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_bathrooms_min">Fürdőszobák száma</label> <div class="controls">
+<input class="numeric" data-min="" data-suffix="szoba" id="real_estate_search_bathrooms_min" name="real_estate_search[bathrooms][min]" type="text" value=""/> </div>
+</div> </div>
+<div class="divider-box">
+<span></span>
+</div>
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_bathrooms_max">Fürdőszobák száma</label> <div class="controls">
+<input class="numeric" data-max="" data-suffix="szoba" id="real_estate_search_bathrooms_max" name="real_estate_search[bathrooms][max]" type="text" value=""/> </div>
+</div> </div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12 field-group-wrap conditions">
+<div class="field-group" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"house\" || [type][type] == \"flat\" || [type][type] == \"vacationer\" || [type][type] == \"garage\""}]'>
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span>Állapot</span>
+</label>
+<div class="filter-content">
+<div class="inputGroup">
+<div class="choiceType">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_condition_0">Kiváló</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_condition_0" name="real_estate_search[condition][]" type="checkbox" value="5"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_condition_1">Jó</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_condition_1" name="real_estate_search[condition][]" type="checkbox" value="4"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_condition_2">Átlagos</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_condition_2" name="real_estate_search[condition][]" type="checkbox" value="3"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_condition_3">Felújítandó</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_condition_3" name="real_estate_search[condition][]" type="checkbox" value="2"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_condition_4">Bontandó</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_condition_4" name="real_estate_search[condition][]" type="checkbox" value="1"/> </div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-12 field-group-wrap">
+<div class="field-group data-vc-populator-options='[{&quot;name&quot;:&quot;enabled&quot;,&quot;expression&quot;:&quot;[type][type] == \&quot;flat\&quot; || ( [type][type] == \&quot;vacationer\&quot; &amp;&amp; [type][style][] == \&quot;flat\&quot; ) || [type][type] == \&quot;investment\&quot;&quot;}]'">
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span>Emelet</span>
+</label>
+<div class="filter-content">
+<div class="enum-rangers">
+<div class="range-section controls">
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_full_search_floors_min"></label>
+<div class="controls">
+<input class="numberField atField-min textType form-control" disabled="disabled" id="real_estate_full_search_floors_min" name="real_estate_full_search[floors][min]" type="text"/>
+</div>
+</div>
+</div>
+<div class="divider-box">
+<span></span>
+</div>
+<div class="range-box">
+<div class="field clearfix form-group numberFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_full_search_floors_max"></label>
+<div class="controls">
+<input class="numberField atField-min textType form-control" disabled="disabled" id="real_estate_full_search_floors_max" name="real_estate_full_search[floors][max]" type="text"/>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="estate-search-slider" data-vc-component="rangeslider"></div>
+<div class="enum-wrap">
+<div class="field clearfix form-group choiceFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_floors">form.label.floors</label> <div class="controls">
+<select class="choiceField atField-floors choiceType form-control" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"flat\" || ( [type][type] == \"vacationer\" &amp;&amp; [type][style][] == \"flat\" ) || [type][type] == \"investment\""}]' id="real_estate_search_floors" multiple="multiple" name="real_estate_search[floors][]">
+<option value="0">szuterén</option>
+<option selected="selected" value="1">félszuterén</option>
+<option value="2">földszint</option>
+<option value="3">magasföldszint</option>
+<option value="4">félemelet</option>
+<option value="5">1</option>
+<option value="6">2</option>
+<option value="7">3</option>
+<option selected="selected" value="8">4</option>
+<option value="9">5</option>
+<option value="10">6</option>
+<option value="11">7</option>
+<option value="12">8</option>
+<option value="13">9</option>
+<option value="14">10</option>
+<option value="15">11</option>
+<option value="16">12</option>
+<option value="17">13</option>
+<option value="18">14</option>
+<option value="19">15</option>
+<option value="20">16</option>
+<option value="21">17</option>
+<option value="22">18</option>
+<option value="23">19</option>
+<option value="24">20</option></select> </div>
+</div> </div>
+</div>
+</div>
+<div class="row">
+<div class="field-group" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"flat\" || ( [type][type] == \"vacationer\" &amp;&amp; [type][style][] == \"flat\" ) || [type][type] == \"investment\""}]'>
+<div class="col-md-12">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_top_floor">Legfelső emelet</label> <div class="controls">
+<input class="custom-checkbox checkboxField atField-top_floor choiceType" data-enabled-selector=".field" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"flat\" || ( [type][type] == \"vacationer\" &amp;&amp; [type][style][] == \"flat\" )"}]' id="real_estate_search_top_floor" name="real_estate_search[top_floor]" type="checkbox" value="1"/> </div>
+</div> </div>
+<div class="col-md-12">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_is_mansard">Tetőtér</label> <div class="controls">
+<input class="custom-checkbox checkboxField atField-is_mansard choiceType" data-enabled-selector=".field" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"flat\" || ( [type][type] == \"vacationer\" &amp;&amp; [type][style][] == \"flat\" )"}]' id="real_estate_search_is_mansard" name="real_estate_search[is_mansard]" type="checkbox" value="1"/> </div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row field-group">
+<div class="col-md-12" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"house\" || [type][type] == \"flat\" || [type][type] == \"vacationer\""}]'>
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span>Fűtés</span>
+</label>
+<div class="filter-content">
+<div class="inputGroup">
+<div class="choiceType">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_heating_0">Elektromos</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_heating_0" name="real_estate_search[heating][]" type="checkbox" value="elektromos"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_heating_1">Fa/szén</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_heating_1" name="real_estate_search[heating][]" type="checkbox" value="fa-szen"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_heating_2">Gáz (cirkó)</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_heating_2" name="real_estate_search[heating][]" type="checkbox" value="gaz-cirko"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_heating_3">Gáz (cserépkályha)</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_heating_3" name="real_estate_search[heating][]" type="checkbox" value="gaz-cserepkalyha"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_heating_4">Gáz (fan-coil)</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_heating_4" name="real_estate_search[heating][]" type="checkbox" value="gaz-fan-coil"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_heating_5">Gáz (konvektor)</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_heating_5" name="real_estate_search[heating][]" type="checkbox" value="gaz-konvektor"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_heating_6">Házközponti (egyedi mérés nélkül)</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_heating_6" name="real_estate_search[heating][]" type="checkbox" value="hazkozponti-egyedi-meres-nelkul"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_heating_7">Házközponti (egyedi méréssel)</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_heating_7" name="real_estate_search[heating][]" type="checkbox" value="hazkozponti-egyedi-meressel"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_heating_8">Megújuló</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_heating_8" name="real_estate_search[heating][]" type="checkbox" value="megujulo"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_heating_9">Nincs</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_heating_9" name="real_estate_search[heating][]" type="checkbox" value="nincs-nincs"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_heating_10">Távfűtés (egyedi mérés nélkül)</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_heating_10" name="real_estate_search[heating][]" type="checkbox" value="tavfutes-egyedi-meres-nelkul"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_heating_11">Távfűtés (egyedi méréssel)</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_heating_11" name="real_estate_search[heating][]" type="checkbox" value="tavfutes-egyedi-meressel"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_heating_12">Vegyes</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_heating_12" name="real_estate_search[heating][]" type="checkbox" value="vegyes"/> </div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row field-group" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"flat\" || ( [type][type] == \"vacationer\" &amp;&amp; [type][style][] == \"flat\" )"}]'>
+<div class="col-md-12">
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span>Kilátás</span>
+</label>
+<div class="filter-content">
+<div class="inputGroup">
+<div class="choiceType">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_view_0">utcai</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_view_0" name="real_estate_search[view][]" type="checkbox" value="utcai"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_view_1">udvari</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_view_1" name="real_estate_search[view][]" type="checkbox" value="udvari"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_view_2">zöld kerti</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_view_2" name="real_estate_search[view][]" type="checkbox" value="kertre_nezo"/> </div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row field-group">
+<div class="col-md-12">
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span>Lépcsőház</span>
+</label>
+<div class="filter-content">
+<div class="inputGroup">
+<div class="choiceType" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"flat\" || ( [type][type] == \"vacationer\" &amp;&amp; [type][style][] == \"flat\" )"}]'>
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_stairway_type_0">körfolyosós</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_stairway_type_0" name="real_estate_search[stairway_type][]" type="checkbox" value="korfolyosos"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_stairway_type_1">zárt lépcsőházas</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_stairway_type_1" name="real_estate_search[stairway_type][]" type="checkbox" value="zart_lepcsohazas"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_stairway_type_2">függőfolyosó</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_stairway_type_2" name="real_estate_search[stairway_type][]" type="checkbox" value="fuggofolyoso"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_stairway_type_3">nincs lépcsőház</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_stairway_type_3" name="real_estate_search[stairway_type][]" type="checkbox" value="nincs"/> </div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row field-group">
+<div class="col-md-12">
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span>Lehetséges funkciók</span>
+</label>
+<div class="filter-content">
+<div class="inputGroup">
+<div class="choiceType" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"commercial\""}]'>
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_0">kiskereskedelem, bolt</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_0" name="real_estate_search[use_options][]" type="checkbox" value="1"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_1">vendéglátóipari egység</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_1" name="real_estate_search[use_options][]" type="checkbox" value="2"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_2">önálló irodaház</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_2" name="real_estate_search[use_options][]" type="checkbox" value="4"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_3">iroda</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_3" name="real_estate_search[use_options][]" type="checkbox" value="8"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_4">iroda és bemutatóterem, vagy üzlet</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_4" name="real_estate_search[use_options][]" type="checkbox" value="16"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_5">iroda és raktár</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_5" name="real_estate_search[use_options][]" type="checkbox" value="32"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_6">bemutatóterem</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_6" name="real_estate_search[use_options][]" type="checkbox" value="64"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_7">bemutatóterem és szervíz, vagy raktár</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_7" name="real_estate_search[use_options][]" type="checkbox" value="128"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_8">ipari csarnok vagy raktár</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_8" name="real_estate_search[use_options][]" type="checkbox" value="256"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_9">logisztikai központ</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_9" name="real_estate_search[use_options][]" type="checkbox" value="512"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_10">parkolóház</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_10" name="real_estate_search[use_options][]" type="checkbox" value="1024"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_11">szálloda</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_11" name="real_estate_search[use_options][]" type="checkbox" value="2048"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_12">panzió, hostel</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_12" name="real_estate_search[use_options][]" type="checkbox" value="4096"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_13">sportközpont</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_13" name="real_estate_search[use_options][]" type="checkbox" value="8192"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_14">egészségügyi központ</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_14" name="real_estate_search[use_options][]" type="checkbox" value="16384"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_15">oktatási központ</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_15" name="real_estate_search[use_options][]" type="checkbox" value="32768"/> </div>
+</div><div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_use_options_16">mezőgazdasági telephely</label> <div class="controls">
+<input class="custom-checkbox" id="real_estate_search_use_options_16" name="real_estate_search[use_options][]" type="checkbox" value="65536"/> </div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-group-wrap row">
+<div class="col-md-12">
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span>Egyéb</span>
+</label>
+<div class="filter-content">
+<div class="field-group">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_elevator">Lift</label> <div class="controls">
+<input class="custom-checkbox checkboxField atField-elevator choiceType" data-enabled-selector=".field" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"flat\" || ( [type][type] == \"vacationer\" &amp;&amp; [type][style][] == \"flat\" ) || [type][type] == \"commercial\" || [type][type] == \"investment\""}]' id="real_estate_search_elevator" name="real_estate_search[elevator]" type="checkbox" value="1"/> </div>
+</div> </div>
+<div class="field-group">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_balcony">Erkély/terasz</label> <div class="controls">
+<input class="custom-checkbox checkboxField atField-balcony choiceType" data-enabled-selector=".field" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"house\" || [type][type] == \"flat\" || [type][type] == \"vacationer\" || [type][type] == \"commercial\""}]' id="real_estate_search_balcony" name="real_estate_search[balcony]" type="checkbox" value="1"/> </div>
+</div> </div>
+<div class="field-group">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_has_garden_connection">Kertkapcsolat</label> <div class="controls">
+<input class="custom-checkbox checkboxField atField-has_garden_connection choiceType" data-enabled-selector=".field" data-vc-populator-options='[{"name":"enabled","expression":"[type][type] == \"flat\" || ( [type][type] == \"vacationer\" &amp;&amp; [type][style][] == \"flat\" )"}]' id="real_estate_search_has_garden_connection" name="real_estate_search[has_garden_connection]" type="checkbox" value="1"/> </div>
+</div> </div>
+<div class="field-group">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_is_furnished">Bútorozott</label> <div class="controls">
+<input class="custom-checkbox checkboxField atField-is_furnished choiceType" data-enabled-selector=".field" data-vc-populator-options='[{"name":"enabled","expression":"[utilization] == \"kiado\" &amp;&amp; ( [type][type] == \"house\" || [type][type] == \"flat\" || [type][type] == \"vacationer\" )"}]' id="real_estate_search_is_furnished" name="real_estate_search[is_furnished]" type="checkbox" value="1"/> </div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-group-wrap row _test_">
+<div class="col-md-12">
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span>További szűrők</span>
+</label>
+<div class="filter-content">
+<div class="field-group">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_bank_real_estate">Banki ingatlanok</label> <div class="controls">
+<input class="custom-checkbox checkboxField atField-bank_real_estate choiceType" data-enabled-selector=".field" id="real_estate_search_bank_real_estate" name="real_estate_search[bank_real_estate]" type="checkbox" value="1"/> </div>
+</div> </div>
+<div class="field-group">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_is_fresh">friss ingatlanok</label> <div class="controls">
+<input class="custom-checkbox checkboxField atField-is_fresh choiceType" data-enabled-selector=".field" id="real_estate_search_is_fresh" name="real_estate_search[is_fresh]" type="checkbox" value="1"/> </div>
+</div> </div>
+<div class="field-group">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_is_exclusive">Kizárólagos megbízás</label> <div class="controls">
+<input class="custom-checkbox checkboxField atField-is_exclusive choiceType" id="real_estate_search_is_exclusive" name="real_estate_search[is_exclusive]" type="checkbox" value="1"/> </div>
+</div> </div>
+<div class="field-group">
+<div class="field clearfix form-group checkboxFieldWrapper choiceTypeWrapper">
+<label class="control-label" for="real_estate_search_has_3d_image">Ingatlanséta</label> <div class="controls">
+<input class="custom-checkbox checkboxField atField-has_3d_image choiceType" data-enabled-selector=".field" id="real_estate_search_has_3d_image" name="real_estate_search[has_3d_image]" type="checkbox" value="1"/> </div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="row force-e-label">
+<div class="col-md-12">
+<div class="estate-search-item">
+<label class="e-label offset-bot">
+<i class="oc-icon icon-oc-oc-dropdown-nyil"></i>
+<span>Keresés kifejezésre</span>
+</label>
+<div class="filter-content">
+<div class="field clearfix form-group textFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_search_free_text">Keressen szavakra az ingatlanleírásokban</label> <div class="controls">
+<input class="textField atField-free_text textType form-control" id="real_estate_search_free_text" name="real_estate_search[free_text]" placeholder="Keressen szavakra az ingatlanleírásokban" type="text" value=""/> </div>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12 orange_btn_wrapper">
+<style>
+                                .result-count {
+                                    font-size: 13px;
+                                }
+                            </style>
+<div class="estate-search-item submit-wrap" data-placement="top" data-title="A keresés még töltődik vagy nincs találat." data-toggle="tooltip" data-trigger="manual">
+<button class="big-btn-orange atDetailedSearch-submit" id="detailed-search-main-submit" style="font-family: Ubuntu, sans-serif; font-size: 16px;border:0;" type="submit">
+                                    Keresés                                    <span class="result-count" id="total-result-count-field">
+                        (Találatok száma: <span class="count"></span>)                    </span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</form>
+<div class="row col-md-3 col-sm-12 col-xs-12 side_bar" style="padding: 0 22px;margin-top: 20px!important;">
+<div class="detailed-search-regnum-section">
+<div class="reg-no-wrap sidebar-box-bottom">
+<h5>
+<label class="control-label" for="real_estate_regno_reg_no">Egy konkrét ingatlan érdekli?</label> </h5>
+<form action="/ingatlanok/regsz/kereses" class="regno-form std remote real_estate_regnoField atField-real_estate_regno textType" data-replace="true" data-update="_self" data-updateonerror="true" method="get"> <div class="field clearfix form-group textFieldWrapper textTypeWrapper">
+<label class="control-label" for="real_estate_regno_reg_no">
+</label>
+<div class="controls" id="regnoinput" style="color: #bc6821 !important;margin-bottom:8px;">
+<input class="textField atField-reg_no textType form-control" id="real_estate_regno_reg_no" name="real_estate_regno[reg_no]" placeholder="Regisztrációs szám szerinti keresés" type="text"/> </div>
+</div>
+<input class="btn-blue atRegNoSearch-submit atRegNoSearch-submit-send" type="submit" value="Találat megjelenítése"/>
+<script>
+        $(".atRegNoSearch-submit-send").click(function (e) {
+            e.preventDefault();
+            window.location.href = "/ingatlanok/regsz/kereses?real_estate_regno%5Breg_no%5D=" + $("#regnoinput input").val() + "&=Találat+megjelenítése";
+            return false;
+        });
+    </script>
+</form></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+</div>
+</div>
+<!-- Modal for mobile -->
+<div class="mobilAppDownload-container">
+<div aria-labelledby="myModalLabel" class="modal fade" id="mobilAppDownload" role="dialog" tabindex="-1">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-label="Close" class="close closeMobilAppDownload" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button>
+</div>
+<div class="modal-body">
+<div class="inner">
+                            Töltse le új mobil alkalmazásunkat és böngésszen több tízezres ingatlan kínálatunkban!
+                        </div>
+<div class="inner_icon">
+</div>
+<div class="inner_button">
+<a href="https://play.google.com/store/apps/details?id=hu.artklikk.ocmobile" target="_blank">
+<div class="btn btn-download-app closeMobilAppDownload" data-dismiss="modal"><div class="download-icon"></div>Letöltés</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+        var isAndroidForce = false;    </script>
+<!-- Modal for IOS mobile -->
+<!--
+    <div class="mobilAppDownload-container">
+        <div class="modal fade" id="mobilAppDownloadIos" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close closeMobilAppDownloadIos" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="inner">
+                            Töltse le új mobil alkalmazásunkat és böngésszen több tízezres ingatlan kínálatunkban!
+                        </div>
+                        <div class="inner_icon_ios">
+
+                        </div>
+                        <div class="inner_button">
+                            <a href="https://itunes.apple.com/us/app/irista/id1044242257?mt=8" target="_blank">
+                                <div class="btn btn-download-app closeMobilAppDownloadIos" data-dismiss="modal"><div class="download-icon-ios"></div>Letöltés</div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    -->
+<!--
+    <script>
+            </script>
+    <!-- Modal for mobile destop -->
+<!--
+    <div class="mobilAppDownloadDestop-container hidden-sm hidden-xs">
+        <div class="modal fade" id="mobilAppDownloadDestop" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <button type="button" class="close closeMobilAppDownloadDestop" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <div class="modal-body">
+                        <div class="inner">
+                            <div class="white-text">Megérkezett Android és IOS mobil alkalmazásunk!</div>
+                            <div class="white-text-border">Válogasson kényelmesen és találja meg nállunk álmai otthonát.</div>
+                            <a href="https://play.google.com/store/apps/details?id=hu.artklikk.ocmobile" target="_blank">
+                                <div class="play-button closeMobilAppDownloadDestop" data-dismiss="modal"></div>
+                            </a>
+                            <a href="https://itunes.apple.com/us/app/irista/id1044242257?mt=8" target="_blank">
+                                <div class="play-ios-button closeMobilAppDownloadDestop" data-dismiss="modal"></div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    -->
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script>
+    window.cookieconsent_options = {
+        "message": "Honlapunkon cookie-kat (sütiket) használunk, annak érdekében, hogy olyan felhasználói élményt növelő webes szolgáltatásokat nyújtsunk, amelyek ezek nélkül nem lennének elérhetőek az Ön számára. További információkat a témában a láblécben a „Cookie-k használata” pontban talál.",
+        "dismiss": "Bezárás",
+        "learnMore": "Tovább",
+        "link": null,
+        "theme": "dark-bottom"
+    };
+</script>
+<script defer="" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+<!-- End Cookie Consent plugin -->
+<div class="sticky-menu">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="sticky-bottom-color"></div>
+<div class="sticky-col first">
+<a class="opener remote" data-replace="true" data-update="stickyRecentlyVisited" href="/real_estate/sticky/recentlyVisited" title="Legutóbbi ingatlanok">
+<span class="toogle-icon"><i></i><i></i><i></i></span>
+                        Legutóbbi ingatlanok                        <span class="counter">0</span>
+</a>
+<div id="stickyRecentlyVisited">
+</div>
+</div>
+<div class="sticky-col nth2">
+<a class="opener" href="#" title="Legutóbbi keresések">
+<span class="toogle-icon"><i></i><i></i><i></i></span>
+                        Legutóbbi keresések                        <span class="counter previous-searches-list-numb">0</span>
+</a>
+<div id="stickyPreviousSearches">
+<table class="previous-searches prepend inactive sticky-list limited-search-display">
+<tr class="all prependBeforeThis">
+<td>
+<a href="/legutobbi-keresesek" title="Megtekintés">
+                                        Legutóbbi keresések megtekintése                                    </a>
+</td>
+</tr>
+<tr class="empty">
+<td>
+<p>
+                                        A lista üres                                    </p>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sticky-col nth3">
+<a class="opener remote" data-replace="true" data-update="stickyCompare" href="/real_estate/sticky/compare" title="Ingatlanok összehasonlítása">
+<span class="toogle-icon"><i></i><i></i><i></i></span>
+                        Összehasonlítás                        <span class="counter compared-list-numb">0</span>
+</a>
+<div id="stickyCompare">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<div class="container clear">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12 contact-us">
+<h2>Kapcsolat</h2>
+<p><a href="mailto:ugyfelszolgalat@oc.hu">Otthon Centrum<br/>
+1023 Budapest, Lajos u. 28-32.<br/>
++36 70 388 6000<br/>
+ugyfelszolgalat@oc.hu</a></p>
+<p><a href="mailto:sajto@oc.hu">Sajtókapcsolat:<br/>
+sajto@oc.hu</a></p>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12 estates">
+<h2>Ingatlanok</h2>
+<ul class="footer-links-section">
+<li>
+<a href="/ingatlanok/berles" title="Kiadó ingatlanok">
+                                Kiadó ingatlanok                            </a>
+</li>
+<li>
+<a href="/elado/lakas/ujepitesu" title="Új ingatlanok">
+                                Új ingatlanok                            </a>
+</li>
+<li>
+<a href="/elado/lakas/budapest" title="Eladó lakás Budapest">
+                                Eladó lakás Budapest                            </a>
+</li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12 career">
+<h2>Rólunk</h2>
+<ul class="footer-links-section">
+<li>
+<a href="/tartalom/adatkezelesi-tajekoztato-hu" title="Adatkezelési tájékoztató">
+                                    Adatkezelési tájékoztató                                </a>
+</li>
+<li>
+<a href="/hirdetmeny" title="Hirdetmény">
+                                    Hirdetmény                                </a>
+</li>
+<li>
+<a href="/tartalom/impresszum-hu" title="Impresszum">
+                                    Impresszum                                </a>
+</li>
+<li>
+<a href="/penzkezelesi_szabalyzat" title="Pénzkezelési szabályzat">
+                                    Pénzkezelési szabályzat                                </a>
+</li>
+<li>
+<a href="/tartalom/jogi-nyilatkozat-hu" title="Jogi nyilatkozat">
+                                    Jogi nyilatkozat                                </a>
+</li>
+<li>
+<a href="/tartalom/cookie-k-hasznalata-hu" title="Cookie-k használata">
+                                    Cookie-k használata                                </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-logos clearfix">
+<div class="container clear">
+<div class="row">
+<div class="col-md-12">
+<div class="logo-box">
+<img alt="MB, MagyarBrands" class="lazyImage" data-lazy-src="//s0.oc.hu/bundles/OC-Portal/img/logok/MB_tobbszoros_logo_8x_10_11_12_13_14_15_16_18.png?master-390"/>
+<img alt="Az év franchise hálózata 2018" class="lazyImage" data-lazy-src="//s0.oc.hu/bundles/OC-Portal/img/logok/az_ev_fr_halozata_2018.jpg?master-390"/>
+<img alt="Az év legdinamikusabban fejlődő franchise hálózata 2015" class="lazyImage" data-lazy-src="//s1.oc.hu/bundles/OC-Portal/img/logok/az_ev_legdinamukusabb_fr_halozata_2015.jpg?master-390"/>
+<img alt="Az év innovatív franchise hálózata 2012-2013" class="lazyImage" data-lazy-src="//s1.oc.hu/bundles/OC-Portal/img/logok/az_ev_innovativ_fr_halozata_2012_2013.jpg?master-390"/>
+<img alt="Kiválóság az ügyfélkiszolgálásban 2009" class="lazyImage" data-lazy-src="//s1.oc.hu/bundles/OC-Portal/img/logok/kivalosag_az_ugyfelkiszolgalasban_2009.jpg?master-390"/>
+<img alt="Innováció az ingatlanközvetítésben 2008" class="lazyImage" data-lazy-src="//s2.oc.hu/bundles/OC-Portal/img/logok/innovacio_az_ingatlankozvetitesben_2008.jpg?master-390"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- GOOGLE ANALYTICS -->
+<script>
+    /*<![CDATA[*/
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        (function(window, ga) {
+            var data = window.GoogleAnalyticsEarlyAccess;
+
+            ga('create', 'UA-1724241-1', 'oc.hu');
+            //ga('send', 'pageview');
+
+            // Modulinicializálás előtti jelzések utólagos küldése
+
+            if (data && data.length) for (var i = 0, l = data.length; i < l; i++) {
+                ga.apply(this, data[i]);
+            }
+        })(window, ga);
+    /*]]>*/
+    </script>
+<script defer="" src="//s1.oc.hu/compiled/js/core.js?master-390"></script>
+<script defer="" src="//s1.oc.hu/bundles/OC-Portal/js/clipper.js?master-390"></script>
+<script defer="" src="//s0.oc.hu/compiled/js/oc.js?master-3901"></script>
+<script>
+        (function(isInternetExplorer) {
+            /**
+             * In case of Internet Explorer SESSIONID is not stored in the document's cookie.
+             * This FIX solves the problem. It writes the cookie with the necessary key and value pair.
+             */
+            if (isInternetExplorer) {
+                var sessionName = 'PHPSESSID',
+                    sessionId = 'beededba6db95d0c926ec3bb570e9ac5';
+                vc.cookies.remove(sessionName);
+                vc.cookies.set(sessionName, sessionId);
+            }
+        })(!(window.ActiveXObject) && "ActiveXObject" in window);
+    </script>
+<script>
+        jQuery(function ($) {
+            var animalas = true;
+            $('#bct-target').mouseenter(function () {
+                animalas = false;
+            });
+            $('#bct-target').mouseleave(function () {
+                animalas = true;
+            })
+
+            /*
+            if($('.bct-wrap .next')) {
+                setInterval(function() {
+                    if(animalas) {
+                        $('.bct-wrap .next').trigger('click')
+                    }
+                }, 5000);
+            }
+            */
+        })
+    </script>
+</div></body>

@@ -1,0 +1,68 @@
+<body>
+<div id="cf-wrapper">
+<div class="cf-error-details-wrapper" id="cf-error-details">
+<div class="cf-wrapper cf-error-overview">
+<h1>
+<span class="cf-error-type">Error</span>
+<span class="cf-error-code">502</span>
+<small class="heading-ray-id">Ray ID: 492f85dbbbec350c • 2019-01-02 19:09:56 UTC</small>
+</h1>
+<h2 class="cf-subheadline">Bad gateway</h2>
+</div>
+<div class="cf-section cf-highlight cf-status-display">
+<div class="cf-wrapper">
+<div class="cf-columns cols-3">
+<div class="cf-column cf-status-item cf-browser-status " id="cf-browser-status">
+<div class="cf-icon-error-container">
+<i class="cf-icon cf-icon-browser"></i>
+<i class="cf-icon-status cf-icon-ok"></i>
+</div>
+<span class="cf-status-desc">You</span>
+<h3 class="cf-status-name">Browser</h3>
+<span class="cf-status-label">Working</span>
+</div>
+<div class="cf-column cf-status-item cf-cloudflare-status " id="cf-cloudflare-status">
+<div class="cf-icon-error-container">
+<i class="cf-icon cf-icon-cloud"></i>
+<i class="cf-icon-status cf-icon-ok"></i>
+</div>
+<span class="cf-status-desc">London</span>
+<h3 class="cf-status-name">Cloudflare</h3>
+<span class="cf-status-label">Working</span>
+</div>
+<div class="cf-column cf-status-item cf-host-status cf-error-source" id="cf-host-status">
+<div class="cf-icon-error-container">
+<i class="cf-icon cf-icon-server"></i>
+<i class="cf-icon-status cf-icon-error"></i>
+</div>
+<span class="cf-status-desc">ingatlanok.hu</span>
+<h3 class="cf-status-name">Host</h3>
+<span class="cf-status-label">Error</span>
+</div>
+</div>
+</div>
+</div>
+<div class="cf-section cf-wrapper">
+<div class="cf-columns two">
+<div class="cf-column">
+<h2>What happened?</h2>
+<p>The web server reported a bad gateway error.</p>
+</div>
+<div class="cf-column">
+<h2>What can I do?</h2>
+<p>Please try again in a few minutes.</p>
+</div>
+</div>
+</div>
+<div class="cf-error-footer cf-wrapper">
+<p>
+<span class="cf-footer-item">Cloudflare Ray ID: <strong>492f85dbbbec350c</strong></span>
+<span class="cf-footer-separator">•</span>
+<span class="cf-footer-item"><span>Your IP</span>: 2.26.116.116</span>
+<span class="cf-footer-separator">•</span>
+<span class="cf-footer-item"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare</a></span>
+</p>
+</div>
+</div>
+</div>
+</body>

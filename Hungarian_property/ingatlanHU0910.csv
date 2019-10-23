@@ -1,0 +1,3032 @@
+
+
+<div class="hellobar">
+<div class="center">
+<p>Ne maradjon le az ingatlanvilág friss híreiről</p> <span>|</span> <a href="/hirlevel">Feliratkozok most</a>
+</div>
+<span id="close">✖</span>
+</div>
+<div class="wrapper">
+<div class="zone-170 zone-170-left">
+<div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-8953455890604973" data-ad-slot="3266570646" style="display:inline-block;width:160px;height:600px"></ins>
+<script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+</div>
+</div>
+<div class="zone-170 zone-170-right">
+<div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-8953455890604973" data-ad-slot="4743303846" style="display:inline-block;width:160px;height:600px"></ins>
+<script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+</div>
+</div>
+<div id="header-container">
+<div class="cf">
+<a class="logo-container" href="/" title="Eladó, kiadó ingatlan | Ingatlanok.hu"></a>
+<div class="sphinx-search">
+<form id="sphinx-search-form">
+<input class="designed-text search tipsy-item" placeholder="Gyorskeresés..." title="&lt;strong&gt;Keressen kötöttségek nélkül, tetszőleges kifejezésekre a szabadszavas keresőnkkel.&lt;/strong&gt;&lt;br&gt;pl. &lt;em&gt;eladó kertes ház terasszal&lt;/em&gt; vagy &lt;em&gt;kiadó garzonlakás Terézvárosban&lt;/em&gt;" type="text" value=""/>
+</form>
+</div>
+<div class="action-container cf">
+<div class="item item-login-button">
+<a class="button-2" href="javascript:;" onclick="switchPopup(true, 'reg_popup')" title="Bejelentkezés / Regisztráció">Bejelentkezés / Regisztráció</a>
+</div>
+</div>
+</div>
+<div class="menu-container cf">
+<div class="menu cf">
+<div class="menu-item first-item">
+<h2><a class=" " href="https://ingatlanok.hu/elado" target="_self" title="Eladó ingatlan">Eladó ingatlan</a></h2>
+</div>
+<div class="menu-separator"></div>
+<div class="menu-item ">
+<h2><a class=" " href="https://ingatlanok.hu/kiado" target="_self" title="Kiadó ingatlan">Kiadó ingatlan</a></h2>
+</div>
+<div class="menu-separator"></div>
+<div class="menu-item ">
+<a class=" " href="https://ingatlanok.hu/reszletes-kereses" target="_self" title="Részletes keresés">Részletes keresés</a>
+</div>
+<div class="menu-separator"></div>
+<div class="menu-item ">
+<h2><a class=" " href="https://ingatlanok.hu/hirek" target="_self" title="Ingatlan hírek">Ingatlan hírek</a></h2>
+</div>
+<div class="menu-separator"></div>
+<div class="menu-item ">
+<a class=" " href="https://ingatlanok.hu/bemutatkozas" target="_self" title="Bemutatkozás">Bemutatkozás</a>
+</div>
+<div class="menu-separator"></div>
+<div class="menu-item ">
+<a class=" " href="https://ingatlanok.hu/ingatlaniroda-jelentkezes" target="_self" title="Ingatlanirodáknak">Ingatlanirodáknak</a>
+</div>
+<div class="menu-separator"></div>
+<div class="menu-item ">
+<a class="last-item " href="https://hirdetes.ingatlanok.hu" target="_self" title="Hirdetésfeladás">Hirdetésfeladás</a>
+</div>
+</div>
+</div>
+</div>
+<div id="content-container">
+<div class="content-main center-box cf">
+<div class="list cf">
+<h1 class="list-title">eladó lakás 27nm-től 33nm-ig, Magyarország</h1>
+<div class="horizontal-separator"></div>
+<div class="breadcrumb"><a href="/" title="Ingatlanok.hu">Ingatlanok.hu</a> &gt; <a href="/elado/lakas" target="_parent" title="Összes eladó lakás">Eladó lakás</a> &gt; <a href="/elado/lakas/budapest-v-ker+budapest-xi-ker" target="_parent" title="Összes eladó lakás Budapest V. ker, Budapest XI. ker">Eladó lakás Budapest V. ker, Budapest XI. ker</a></div>
+<div class="paginator cf"><div class="pager-header cf">
+<div class="item count">
+<span class="count-number">41</span> ingatlan <span class="total-page-counter">1</span> oldalon
+</div>
+<div class="separator"></div>
+<div class="item order-option cf">
+<div class="left">
+<strong style="margin-right: 10px;">rendezés:</strong>
+</div>
+<div class="left">
+<form class="form inline-inline-block" method="post">
+<div class="designed-element-outer designed-select-outer designed-select-big">
+<div class="designed-element-inner">
+<div class="designed-element-container designed-select-container designed-select-big">
+<select class="invisible-select" id="search_order_order" name="search_order[order]">
+<option value="friss">Legfrissebb elöl</option>
+<option value="olcso">Legolcsóbb elöl</option>
+<option value="draga">Legdrágább elöl</option>
+</select>
+<span class="designed-select"></span>
+<span class="designed-select-arrow"></span>
+</div>
+</div>
+</div>
+</form>
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('#search_order_order').change(function() {
+            var me = jQuery(this);
+            me.parents('form').submit();
+            return false;
+        });
+    });
+</script>
+</div>
+</div>
+<div class="separator"></div>
+<div class="item row-option cf">
+<div class="left">
+<strong style="margin-right: 10px;">egy oldalon:</strong>
+</div>
+<div class="left">
+<div class="designed-element-outer designed-select-outer designed-select-small">
+<div class="designed-element-inner">
+<div class="designed-element-container designed-select-container designed-select-small">
+<select class="invisible-select" id="zsenialis_teknos" name="zsenialis_teknos" onchange="redirect(0,this);">
+<option value="10">10</option><option selected="" value="50">50</option><option value="75">75</option><option value="100">100</option>
+</select>
+<span class="designed-select"></span>
+<span class="designed-select-arrow"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="item">
+<a class="button-icon cf" href="javascript:;" id="button-savesearch" onclick="switchPopup(true, 'savesearch_popup')" title="Keresés mentése">
+<div class="icon-left">
+<img alt="" src="/image/icon-save.png"/>
+</div>
+<div class="text-right">
+Keresés mentése
+</div>
+</a>
+<a class="button-icon cf" href="javascript:;" id="button-email" onclick="switchPopup(true, 'email_popup')" style="position: absolute; right: 202px;" title="email értesítő">
+<div class="icon-left">
+<img alt="" src="/image/icon-refresh.png"/>
+</div>
+<div class="text-right">
+email értesítő
+</div>
+</a>
+</div>
+</div></div>
+<div class="content-left">
+<div class="search-list">
+<div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest XI. Ker" height="120" src="/images/estate_no_picture_thumb.jpg?1" width="150"/>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9226167" target="_blank" title="Eladó Lakás Budapest XI. Ker">Eladó Lakás Budapest XI. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9226167" target="_blank">Eladásra kínálunk a XI. kerületben egy 33 nm-es, 1 szobás, 2. emeleti, jó állapotú téglalakást. A lakás 5 évvel ezelőtt felújításon esett át, amikor többek között az elektromos vezetékek cseréje megtörtént, a külső nyílászárók cserélve lettek,...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9226167" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9226167" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9226167" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9226167" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9226167" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9226167" target="_blank">Tégla</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9226167" target="_blank">21.500.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9226167" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest XI. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:e8b4ff0d3969/w:150_h:120_q:70/i/38BMmnoK3ZDDAK0ZDo1M0MUAhTfAa-S6" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9244725, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244725" target="_blank" title="Eladó Lakás Budapest XI. Ker">Eladó Lakás Budapest XI. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244725" target="_blank">Eladásra kínálunk a XI. kerületben egy 33 nm-es, 1 szobás, 2. emeleti, jó állapotú téglalakást. A lakás 5 évvel ezelőtt felújításon esett át, amikor többek között az elektromos vezetékek cseréje megtörtént, a külső nyílászárók cserélve lettek,...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244725" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244725" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244725" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244725" target="_blank">0</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244725" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244725" target="_blank">Tégla</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244725" target="_blank">21.500.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/21-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244725" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://diamond.ingatlanok.hu" target="_blank" title="Diamond Ingatlaniroda"><img alt="Diamond Ingatlaniroda" src="https://img.shardimage.com/ZFJZKSZn/s-b2:a48ec5169c69/w:150_h:120_c:lfit_q:70/i/U9QKg2b7cTBjo9Hw8jLxx3jAFtvwYQJx"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest XI. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:cadff02fda69/w:150_h:120_q:70/i/qIeruPFZmAcDAWlw2l44mpnRNCnY2L8O" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9244724, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/19-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244724" target="_blank" title="Eladó Lakás Budapest XI. Ker">Eladó Lakás Budapest XI. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/19-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244724" target="_blank">AZONNAL KÖLTÖZHETŐ---KOCSIBEÁLLÓVAL--TÁROLÓVAL-KERTKAPCSOLATOS, LAKÁS ELADÓ 11 KER.
+ALLE-TOL tiz percre
+a lakás jó állapotú költözhető azonnal, fűtése konvektor, világos minikonyha-étkezősarok külön kialakitva
+FIATALOK,---ELSŐ LAKÁS...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/19-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244724" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/19-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244724" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/19-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244724" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/19-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244724" target="_blank">0</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/19-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244724" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/19-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244724" target="_blank">Tégla</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/19-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244724" target="_blank">19.700.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/19-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9244724" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://diamond.ingatlanok.hu" target="_blank" title="Diamond Ingatlaniroda"><img alt="Diamond Ingatlaniroda" src="https://img.shardimage.com/ZFJZKSZn/s-b2:a48ec5169c69/w:150_h:120_c:lfit_q:70/i/U9QKg2b7cTBjo9Hw8jLxx3jAFtvwYQJx"/></a>
+</div>
+</div>
+</div>
+</div><div class="google-inline-row cf">
+<div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-8953455890604973" data-ad-slot="1650236646" style="display:inline-block;width:300px;height:250px"></ins>
+<script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+</div>
+<div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-8953455890604973" data-ad-slot="4603703041" style="display:inline-block;width:300px;height:250px"></ins>
+<script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:666ca2507f69/w:150_h:120_q:70/i/RzUFkHygmL8lW6YvsjJjyMwgfQ6PJtJu" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(8692847, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8692847" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8692847" target="_blank">Az 5. kerület szívében, a Váci utcáról nyíló kis utcában, nagyon szép, liftes házban, 3. emeleti, 32 nm-es lakás eladó. A lakás teljes felújítása most fejeződött be, ami érintette a teljes gépészetet, a burkolatokat, a szanitereket, egy szóval...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8692847" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8692847" target="_blank">32 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8692847" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8692847" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8692847" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8692847" target="_blank">Tégla</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8692847" target="_blank">33.000.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8692847" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="/duna-house-xii-ker-varosmajor-utca-u-iroda/221" target="_blank" title="Duna House - XII. ker, Városmajor utca u."><img alt="Duna House - XII. ker, Városmajor utca u." src="/images/office_no_picture_thumb.jpg?1"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:9c01b1171e69/w:150_h:120_q:70/i/hpNBFclBCOEIkLwfJtdBKjr5T1ZIJmIA" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9219552, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9219552" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9219552" target="_blank">Belvárosban kínálok megvételre egy gyönyörűen és teljes mértékben felúított garzon lakást, mely kíválóan alkalmas rövid távú kiaadásra. A lakáshoz tartozik egy kellmes hangulatú több mint 10nm-es terasz mely egyedibvé teszi ezt az ingatlant. Az...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9219552" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9219552" target="_blank">29 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9219552" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9219552" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9219552" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9219552" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9219552#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9219552#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9219552" target="_blank">25.990.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9219552" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://dhbp18.ingatlanok.hu" target="_blank" title="Duna House - Budapest, XVIII. Nemes utca"><img alt="Duna House - Budapest, XVIII. Nemes utca" src="https://img.shardimage.com/ZFJZKSZn/s-b2:7a807ee53b69/w:150_h:120_c:lfit_q:70/i/820Q_1HB9IY5VJUl0ldpLgDb1z8uwtmP"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:f4c829196569/w:150_h:120_q:70/i/DuuJkYqb5HDuOZPd2DTyK3Pu1NFjGANm" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9218793, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/28-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9218793" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/28-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9218793" target="_blank">Szabadság tér közelében, pár percre az Arany János utcai metrómegállótól, rendezett, liftes társasházban található, jó állapotú lakás. Az ingatlan 4m-es belmagassággal rendelkezik ennek köszönhetően a szobában állógaléria került kialakításra. A...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/28-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9218793" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/28-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9218793" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/28-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9218793" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/28-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9218793" target="_blank">0</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/28-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9218793" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/28-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9218793" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/28-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9218793#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/28-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9218793#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/28-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9218793" target="_blank">28.500.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/28-millio-ft;33-negyzetmeter;0-szoba;tegla-epitesu/9218793" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="/tecnocasa-iroda/2710" target="_blank" title="Tecnocasa"><img alt="Tecnocasa" src="/images/office_no_picture_thumb.jpg?1"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest XI. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:96f74db3d469/w:150_h:120_q:70/i/FOTWZlGn2ifZiCRhtJ7qxeu2OmdlpYN5" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9191027, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/24-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9191027" target="_blank" title="Eladó Lakás Budapest XI. Ker">Eladó Lakás Budapest XI. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/24-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9191027" target="_blank">Gazdagrét központjában téglaépítésű liftes házban, 31 nm-es 4. emeleti 1 szobás garzonlakás eladó.
+Egyedi fűtését, új Bosch kombi cirkós gázkazán biztosítja, konyhája mosogatógéppel felszerelt.
+A lakáshoz teremgarázs és kb.3 nm-es tároló is...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/24-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9191027" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/24-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9191027" target="_blank">31 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/24-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9191027" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/24-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9191027" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/24-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9191027" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/24-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9191027" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/24-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9191027#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/24-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9191027#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/24-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9191027" target="_blank">24.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/24-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9191027" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="/renyi-gabor-iroda/2480" target="_blank" title="Rényi Gábor"><img alt="Rényi Gábor" src="/images/office_no_picture_thumb.jpg?1"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:7afc36426169/w:150_h:120_q:70/i/jykJ0qK4n6KeOmu0o1DDSKUu0IuTNEHC" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9107898, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;28-negyzetmeter;1-1-szoba;tegla-epitesu/9107898" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;28-negyzetmeter;1-1-szoba;tegla-epitesu/9107898" target="_blank">Fiatalos, galériázott, felújított lakás eladó a Vadász utcánál, Arany János úti metró(troli/busz)megállótól 2 percnyire!
+Remek érzékkel kialakított, jól tagolt, mégis tágas hatást keltő ingatlan, kiváló közlekedés mellett! Kiválóan kiadható,...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;28-negyzetmeter;1-1-szoba;tegla-epitesu/9107898" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;28-negyzetmeter;1-1-szoba;tegla-epitesu/9107898" target="_blank">28 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;28-negyzetmeter;1-1-szoba;tegla-epitesu/9107898" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;28-negyzetmeter;1-1-szoba;tegla-epitesu/9107898" target="_blank">1 + 1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;28-negyzetmeter;1-1-szoba;tegla-epitesu/9107898" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;28-negyzetmeter;1-1-szoba;tegla-epitesu/9107898" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;28-negyzetmeter;1-1-szoba;tegla-epitesu/9107898#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;28-negyzetmeter;1-1-szoba;tegla-epitesu/9107898#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;28-negyzetmeter;1-1-szoba;tegla-epitesu/9107898" target="_blank">29.000.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;28-negyzetmeter;1-1-szoba;tegla-epitesu/9107898" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://dhbp18.ingatlanok.hu" target="_blank" title="Duna House - Budapest, XVIII. Nemes utca"><img alt="Duna House - Budapest, XVIII. Nemes utca" src="https://img.shardimage.com/ZFJZKSZn/s-b2:7a807ee53b69/w:150_h:120_c:lfit_q:70/i/820Q_1HB9IY5VJUl0ldpLgDb1z8uwtmP"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:3a5cad59c869/w:150_h:120_q:70/i/q0q9vEeLC-D0PYEM7w0qJFv9FA8GRwPz" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9099044, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9099044" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9099044" target="_blank">V. Lipótvárosban, felújított, kellemes légkörű társasház magasföldszintjén eladó egy 33 m2-es, esztétikailag és gépészetileg igényesen felújított, turbós kombi cirkófűtéses, galériázott (+ 8 m2), alacsony fenntartású lakás. A hálószobaként...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9099044" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9099044" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9099044" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9099044" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9099044" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9099044" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9099044#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9099044#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9099044" target="_blank">29.800.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9099044" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://cdcbait.ingatlanok.hu" target="_blank" title="CDC Keleti károly"><img alt="CDC Keleti károly" src="https://img.shardimage.com/ZFJZKSZn/s-b2:96e4b0b8b469/w:150_h:120_c:lfit_q:70/i/CpcxrbZ1SkskOXbpg74gcEa8pb9CkeiO"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:c54384428b69/w:150_h:120_q:70/i/XWxwkHPJTJvntBZ5_4lIJR5TN6oO4Loy" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9204815, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9204815" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9204815" target="_blank">V. Lipótvárosban, felújított, kellemes légkörű társasház magasföldszintjén eladó egy 33 m2-es, esztétikailag és gépészetileg igényesen felújított, turbós kombi cirkófűtéses, galériázott (+ 8 m2), alacsony fenntartású lakás. A hálószobaként...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9204815" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9204815" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9204815" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9204815" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9204815" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9204815" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9204815#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9204815#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9204815" target="_blank">29.800.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9204815" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://cdcbait.ingatlanok.hu" target="_blank" title="CDC Keleti károly"><img alt="CDC Keleti károly" src="https://img.shardimage.com/ZFJZKSZn/s-b2:96e4b0b8b469/w:150_h:120_c:lfit_q:70/i/CpcxrbZ1SkskOXbpg74gcEa8pb9CkeiO"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:734f66a65969/w:150_h:120_q:70/i/YnyFpsBe4UajuFTUxLWnpJvV4zi_1NTP" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9090171, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090171" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090171" target="_blank">Eladó V. Lipótvárosban felújított kellemes légkörű társasház magasföldszintjén, egy 33 nm-es, esztétikailag és gépészetileg igényesen felújított, turbós kombi cirkófűtéses, galériázott (+ 8 nm)alacsony fenntartású öröklakás.
+A hálószobaként...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090171" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090171" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090171" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090171" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090171" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090171" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090171#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090171#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090171" target="_blank">29.800.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090171" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://cdcbait.ingatlanok.hu" target="_blank" title="CDC Keleti károly"><img alt="CDC Keleti károly" src="https://img.shardimage.com/ZFJZKSZn/s-b2:96e4b0b8b469/w:150_h:120_c:lfit_q:70/i/CpcxrbZ1SkskOXbpg74gcEa8pb9CkeiO"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest XI. Ker Szentimreváros" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:86a83f898569/w:150_h:120_q:70/i/JMDu3uB0G-TQJ_wEnq1sc9pCIY0n0P8K" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9161499, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/szentimrevaros;30-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9161499" target="_blank" title="Eladó Lakás Budapest XI. Ker Szentimreváros">Eladó Lakás Budapest XI. Ker Szentimreváros</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/szentimrevaros;30-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9161499" target="_blank">Egyedi ékszerdoboz a Feneketlen tónál nagyon gyors költözhetőséggel!
+Eladó a XI.kerületben, a Kosztolányi Dezső-térnél egy 32 nm-es, 1 szobás, földszinti, RENDKÍVÜL CSENDES, újszerű állapotban lévő lakás, FELÚJÍTOTT társasházban.
+Épület:
+A...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/szentimrevaros;30-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9161499" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/szentimrevaros;30-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9161499" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/szentimrevaros;30-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9161499" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/szentimrevaros;30-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9161499" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/szentimrevaros;30-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9161499" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/szentimrevaros;30-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9161499" target="_blank">Tégla</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/szentimrevaros;30-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9161499" target="_blank">30.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/szentimrevaros;30-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9161499" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="/immo1-iroda/3363" target="_blank" title="Immo1"><img alt="Immo1" src="/images/office_no_picture_thumb.jpg?1"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:de8428615f69/w:150_h:120_q:70/i/8mlIkM78Lr13ePagy-UyfzAT9qn_Dgsj" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9081483, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9081483" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9081483" target="_blank">Eladó az V. kerület Vadász utcában egy földszinti, 30 nm-es felújított polgári lakás.
+A 4 méteres belmagasságnak köszönhetően álló galériát lehetett kialakítani mely 8 nm-el növeli a használható területet.
+További jellemzők: csendes, udvarra...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9081483" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9081483" target="_blank">30 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9081483" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9081483" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9081483" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9081483" target="_blank">Tégla</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9081483" target="_blank">31.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9081483" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://belvaros.ingatlanok.hu" target="_blank" title="Balla Ingatlan - Belváros (V., VI. és VII. kerület)"><img alt="Balla Ingatlan - Belváros (V., VI. és VII. kerület)" src="https://img.shardimage.com/ZFJZKSZn/s-b2:a37946163869/w:150_h:120_c:lfit_q:70/i/rOWwnEt7RR70r1SmsjSJcLgIi_a4_Zc-"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:708003ad0169/w:150_h:120_q:70/i/C7QVpP1knXEKzanEeU0ZmStJIC0fNE-_" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9235836, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9235836" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9235836" target="_blank">Gyorsan birtokba vehető, csendes garzonlakás eladó az V. kerületi a Kálmán Imre utcában! A lakás egy kifogástalan állapotú társasház földszintjén helyezkedik el, 29 m2 alapterületű (+20 m2 állógaléria), konvektoros fűtéses. Nyílászárói néhány éve...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9235836" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9235836" target="_blank">29 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9235836" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9235836" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9235836" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9235836" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9235836#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9235836#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9235836" target="_blank">29.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9235836" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://cdcbait.ingatlanok.hu" target="_blank" title="CDC Keleti károly"><img alt="CDC Keleti károly" src="https://img.shardimage.com/ZFJZKSZn/s-b2:96e4b0b8b469/w:150_h:120_c:lfit_q:70/i/CpcxrbZ1SkskOXbpg74gcEa8pb9CkeiO"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:534decd5b769/w:150_h:120_q:70/i/Sp3zO3q3wZySWEVRBDrFP_gmyepEGlWD" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9095989, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9095989" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9095989" target="_blank">V. kerület, Vadász utcában, felújított, 30nm-es, +galériás, földszinti, lakás eladó. A ház szép, rendezett, Parlament, Bazilika, alig néhány percnyi sétára. Jelenleg albérlő lakja, aki már több éve bérli, és szívesen maradna is, ha valaki...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9095989" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9095989" target="_blank">30 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9095989" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9095989" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9095989" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9095989" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9095989#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9095989#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9095989" target="_blank">31.000.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/31-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/9095989" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:b64c32899269/w:150_h:120_q:70/i/tQvJLtI--OIImODxwfETG544G2D8WF3D" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9090040, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9090040" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9090040" target="_blank">V. kerület közkedvelt részén, a Vadász utcában, eladó egy 33+8 Nm állógalériás teljes körüen,
+minőségileg felújított, újszerű érzést keltő lakás, bérlővel, vagy akár saját részre is, teljes gépesítéssel, bútorzattal!
+30500000 Ft
+Érdeklődni...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9090040" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9090040" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9090040" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9090040" target="_blank">1 + 1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9090040" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9090040" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9090040#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9090040#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9090040" target="_blank">30.500.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9090040" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="/duna-house-xii-ker-varosmajor-utca-u-iroda/221" target="_blank" title="Duna House - XII. ker, Városmajor utca u."><img alt="Duna House - XII. ker, Városmajor utca u." src="/images/office_no_picture_thumb.jpg?1"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:7d9621199f69/w:150_h:120_q:70/i/AVi-RI3Lvm-p8ArkfD7_HGQOS_A1TGQL" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9219618, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9219618" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9219618" target="_blank">V. kerület közkedvelt részén, a Vadász utcában, eladó egy 33+8 Nm állógalériás teljes körüen,
+minőségileg felújított, újszerű érzést keltő lakás, bérlővel, vagy akár saját részre is, teljes gépesítéssel, bútorzattal!
+Referencia szám: LK439985-NOK</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9219618" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9219618" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9219618" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9219618" target="_blank">1 + 1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9219618" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9219618" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9219618#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9219618#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9219618" target="_blank">30.500.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/30-millio-ft;33-negyzetmeter;1-1-szoba;tegla-epitesu/9219618" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://dhbp18.ingatlanok.hu" target="_blank" title="Duna House - Budapest, XVIII. Nemes utca"><img alt="Duna House - Budapest, XVIII. Nemes utca" src="https://img.shardimage.com/ZFJZKSZn/s-b2:7a807ee53b69/w:150_h:120_c:lfit_q:70/i/820Q_1HB9IY5VJUl0ldpLgDb1z8uwtmP"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:e995763ae969/w:150_h:120_q:70/i/jIMto4rzmUZsjDAGg6YnWbuQXDxex4CZ" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(8761516, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/35-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/8761516" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/35-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/8761516" target="_blank">GARANTÁLT 6-7%-OS HOZAM BEFEKTETŐKNEK AZ AULICH UTCÁBAN!
+Az 5.kerület egyik legkedveltebb részén, az Aulich utcában eladó lett egy földszinti, csendes, 33 nm-es, alacsony rezsivel rendelkező, teljesen felújított lakás gyönyörű, polgári...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/35-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/8761516" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/35-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/8761516" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/35-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/8761516" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/35-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/8761516" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/35-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/8761516" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/35-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/8761516" target="_blank">Tégla</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/35-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/8761516" target="_blank">35.000.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/35-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/8761516" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="/duna-house-xii-ker-varosmajor-utca-u-iroda/221" target="_blank" title="Duna House - XII. ker, Városmajor utca u."><img alt="Duna House - XII. ker, Városmajor utca u." src="/images/office_no_picture_thumb.jpg?1"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker Lipótváros" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:ab84bdbe0e69/w:150_h:120_q:70/i/gB6P4GywyAbaQnMT1EIfIGPcVXFaTdMP" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9104607, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9104607" target="_blank" title="Eladó Lakás Budapest V. Ker Lipótváros">Eladó Lakás Budapest V. Ker Lipótváros</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9104607" target="_blank">V. Lipótvárosban, felújított, kellemes légkörű társasház magasföldszintjén eladó egy 33 m2-es, esztétikailag és gépészetileg igényesen felújított, turbós kombi cirkófűtéses, galériázott (+ 8 m2), alacsony fenntartású lakás. A hálószobaként...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9104607" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9104607" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9104607" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9104607" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9104607" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9104607" target="_blank">Tégla</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9104607" target="_blank">29.800.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9104607" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://templom4.ingatlanok.hu" target="_blank" title="CDC Ingatlan IV.Ker. Szita Ingatlan Kft."><img alt="CDC Ingatlan IV.Ker. Szita Ingatlan Kft." src="https://img.shardimage.com/ZFJZKSZn/s-b2:17a65284a169/w:150_h:120_c:lfit_q:70/i/3OdxlcRSvOFb-LNA4L-668G7VRwWUL2u"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:8389ca741869/w:150_h:120_q:70/i/fqkjdcNi5HNVLDVufJH0aX-AhV62C7CB" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9241305, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9241305" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9241305" target="_blank">Eladó a belváros egyik legszebb részén, a Belgrád rakparton, Gellért-hegyre néző panorámával egy 33 nm alapterületű, (plusz 19nm) belső kétszintes lakás.
+Az ingatlan egy jó állapotú liftes társasház első emeletén található.
+A fűtésről hőtárolós...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9241305" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9241305" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9241305" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9241305" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9241305" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9241305" target="_blank">Tégla</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9241305" target="_blank">39.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9241305" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://belvaros.ingatlanok.hu" target="_blank" title="Balla Ingatlan - Belváros (V., VI. és VII. kerület)"><img alt="Balla Ingatlan - Belváros (V., VI. és VII. kerület)" src="https://img.shardimage.com/ZFJZKSZn/s-b2:a37946163869/w:150_h:120_c:lfit_q:70/i/rOWwnEt7RR70r1SmsjSJcLgIi_a4_Zc-"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:b3416f5c2869/w:150_h:120_q:70/i/9cmDJ5r022V_CHVwO76XMz8GhHuYDMu9" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(8576480, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8576480" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8576480" target="_blank">V. ÉKSZERDOBOZ!! Szent István körúton, eladó cirkós, jó műszaki állapotnak örvendő, nagy belmagassággal rendelkező, igényesen felújított, polgári épületben lévő garzon. Ritkaság! Fiataloknak, első lakást keresőknek, vagy befektetők részére is!!...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8576480" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8576480" target="_blank">32 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8576480" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8576480" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8576480" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8576480" target="_blank">Tégla</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8576480" target="_blank">25.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/25-millio-ft;32-negyzetmeter;1-szoba;tegla-epitesu/8576480" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="/duna-house-xii-ker-varosmajor-utca-u-iroda/221" target="_blank" title="Duna House - XII. ker, Városmajor utca u."><img alt="Duna House - XII. ker, Városmajor utca u." src="/images/office_no_picture_thumb.jpg?1"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest XI. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:431d484dc569/w:150_h:120_q:70/i/S8_WT-cnqp4Ojkv4RU2uCi4tdqUApDBC" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9216063, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/23-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9216063" target="_blank" title="Eladó Lakás Budapest XI. Ker">Eladó Lakás Budapest XI. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/23-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9216063" target="_blank">Eladó a Bocskai út elején, 1 percre Újbuda-Központtól és az Allee-tól, egy 28 nm-es, déli fekvésű garzonlakás gyönyörű kilátással. A lakás az 5. emeleten található, napos, új nyílászárókkal rendelkezik. Kis rezsijű ingatlan, tökéletes...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/23-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9216063" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/23-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9216063" target="_blank">28 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/23-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9216063" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/23-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9216063" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/23-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9216063" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/23-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9216063" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/23-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9216063#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/23-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9216063#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/23-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9216063" target="_blank">23.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_xi_ker/23-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9216063" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="/tecnocasa-iroda/2710" target="_blank" title="Tecnocasa"><img alt="Tecnocasa" src="/images/office_no_picture_thumb.jpg?1"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:fa2248204d69/w:150_h:120_q:70/i/5WllRmgbs_qG75QzsywcZdCptxbo2t5P" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9222222, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/37-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9222222" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/37-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9222222" target="_blank">Eladó Budapest belvárosában, az V.kerületi Irányi utcában egy jó állapotú 33 nm-es,emeleti lakás. A lakás központi elhelyezkedésű mégis rendkívül csendes. Kiváló közlekedési kapcsolatokkal és egyedülálló infrastruktúrával rendelkezik. A környéken...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/37-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9222222" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/37-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9222222" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/37-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9222222" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/37-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9222222" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/37-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9222222" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/37-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9222222" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/37-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9222222#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/37-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9222222#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/37-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9222222" target="_blank">37.300.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/37-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9222222" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://dhbp18.ingatlanok.hu" target="_blank" title="Duna House - Budapest, XVIII. Nemes utca"><img alt="Duna House - Budapest, XVIII. Nemes utca" src="https://img.shardimage.com/ZFJZKSZn/s-b2:7a807ee53b69/w:150_h:120_c:lfit_q:70/i/820Q_1HB9IY5VJUl0ldpLgDb1z8uwtmP"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:136cee22ce69/w:150_h:120_q:70/i/DHCYJERZ3nwH2dzUXzl2v0uiRj_Z4OJQ" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9090275, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090275" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090275" target="_blank">V. Lipótvárosban, felújított, kellemes légkörű társasház magasföldszintjén eladó egy 33 m2-es, esztétikailag és gépészetileg igényesen felújított, turbós kombi cirkófűtéses, galériázott (+ 8 m2), alacsony fenntartású lakás. A hálószobaként...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090275" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090275" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090275" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090275" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090275" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090275" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090275#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090275#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090275" target="_blank">29.800.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9090275" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://cdcbokreta.ingatlanok.hu" target="_blank" title="CDC Bokréta"><img alt="CDC Bokréta" src="https://img.shardimage.com/ZFJZKSZn/s-b2:ec0037f24d69/w:150_h:120_c:lfit_q:70/i/a0kR5u5w54XOHu3O0q7P5Ns6AkV5HiYJ"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:063932aa4469/w:150_h:120_q:70/i/WWhCTQlRIWdxl_iLpajfqxhGVV4Y_yhd" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9112095, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/54-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9112095" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/54-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9112095" target="_blank">Megvételre kínálom ezt a minőségi anyagokkal és bútorokkal felújított, fiatalos, modern kis garzon lakást az Belváros szívében az Apáczai Csere János utcában, pár percre az Erzsébet hídtól és a Váci utcától. Az elhelyezkedése miatt kivételesen...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/54-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9112095" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/54-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9112095" target="_blank">31 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/54-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9112095" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/54-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9112095" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/54-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9112095" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/54-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9112095" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/54-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9112095#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/54-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9112095#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/54-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9112095" target="_blank">54.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/54-millio-ft;31-negyzetmeter;1-szoba;tegla-epitesu/9112095" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:b399ff9c9569/w:150_h:120_q:70/i/9b407_XneQBtEMvtZY_I-AxwZGSu8xHn" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9094194, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094194" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094194" target="_blank">V. Lipótvárosban, felújított, kellemes légkörű társasház magasföldszintjén eladó egy 33 m2-es, esztétikailag és gépészetileg igényesen felújított, turbós kombi cirkófűtéses, galériázott (+ 8 m2), alacsony fenntartású lakás. A hálószobaként...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094194" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094194" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094194" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094194" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094194" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094194" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094194#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094194#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094194" target="_blank">29.800.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094194" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://templom4.ingatlanok.hu" target="_blank" title="CDC Ingatlan IV.Ker. Szita Ingatlan Kft."><img alt="CDC Ingatlan IV.Ker. Szita Ingatlan Kft." src="https://img.shardimage.com/ZFJZKSZn/s-b2:17a65284a169/w:150_h:120_c:lfit_q:70/i/3OdxlcRSvOFb-LNA4L-668G7VRwWUL2u"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:d42d4881cf69/w:150_h:120_q:70/i/0tH_7i36hFxt_0exP-xFGA8_q1AT1XMt" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9094015, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094015" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094015" target="_blank">V. Lipótvárosban, felújított, kellemes légkörű társasház magasföldszintjén eladó egy 33 m2-es, esztétikailag és gépészetileg igényesen felújított, turbós kombi cirkófűtéses, galériázott (+ 8 m2), alacsony fenntartású lakás. A hálószobaként...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094015" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094015" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094015" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094015" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094015" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094015" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094015#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094015#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094015" target="_blank">29.800.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9094015" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://templom4.ingatlanok.hu" target="_blank" title="CDC Ingatlan IV.Ker. Szita Ingatlan Kft."><img alt="CDC Ingatlan IV.Ker. Szita Ingatlan Kft." src="https://img.shardimage.com/ZFJZKSZn/s-b2:17a65284a169/w:150_h:120_c:lfit_q:70/i/3OdxlcRSvOFb-LNA4L-668G7VRwWUL2u"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:01f4f3a2a769/w:150_h:120_q:70/i/3ruJJ2h6i4rLi4AxWEA4pLHlD_BYY7P3" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9224094, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9224094" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9224094" target="_blank">V. kerületben, Lipótvárosban, felújított, kellemes légkörű társasház magasföldszintjén eladó egy 33 m2-es, esztétikailag és gépészetileg igényesen felújított, turbós kombi cirkófűtéses, galériázott (+ 8 m2), alacsony fenntartású lakás. A...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9224094" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9224094" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9224094" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9224094" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9224094" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9224094" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9224094#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9224094#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9224094" target="_blank">29.800.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9224094" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://templom4.ingatlanok.hu" target="_blank" title="CDC Ingatlan IV.Ker. Szita Ingatlan Kft."><img alt="CDC Ingatlan IV.Ker. Szita Ingatlan Kft." src="https://img.shardimage.com/ZFJZKSZn/s-b2:17a65284a169/w:150_h:120_c:lfit_q:70/i/3OdxlcRSvOFb-LNA4L-668G7VRwWUL2u"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:f129bb57c269/w:150_h:120_q:70/i/xN0ec2hsWTb1BGkfb68Oo6fV6BFk2Vd-" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9095649, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9095649" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9095649" target="_blank">LAKÁS ELADÓ A V.kerületben. Lipótvárosban, felújított, kellemes légkörű társasház magasföldszintjén eladó egy 33 m2-es, esztétikailag és gépészetileg igényesen felújított, turbós kombi cirkófűtéses, galériázott (+ 8 m2), alacsony fenntartású...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9095649" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9095649" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9095649" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9095649" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9095649" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9095649" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9095649#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9095649#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9095649" target="_blank">29.800.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9095649" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://cdcbokreta.ingatlanok.hu" target="_blank" title="CDC Bokréta"><img alt="CDC Bokréta" src="https://img.shardimage.com/ZFJZKSZn/s-b2:ec0037f24d69/w:150_h:120_c:lfit_q:70/i/a0kR5u5w54XOHu3O0q7P5Ns6AkV5HiYJ"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:4b1686162569/w:150_h:120_q:70/i/lZliljEBYIprG4Gc9j6CcQamkAZvJf0W" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9243269, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9243269" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9243269" target="_blank">Gyorsan birtokba vehető, csendes garzonlakás eladó az V. kerületi a Kálmán Imre utcában! A lakás egy kifogástalan állapotú társasház földszintjén helyezkedik el, 29 m2 alapterületű (+20 m2 állógaléria), konvektoros fűtéses. Nyílászárói néhány éve...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9243269" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9243269" target="_blank">29 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9243269" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9243269" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9243269" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9243269" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9243269#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9243269#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9243269" target="_blank">29.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9243269" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://cdcbait.ingatlanok.hu" target="_blank" title="CDC Keleti károly"><img alt="CDC Keleti károly" src="https://img.shardimage.com/ZFJZKSZn/s-b2:96e4b0b8b469/w:150_h:120_c:lfit_q:70/i/CpcxrbZ1SkskOXbpg74gcEa8pb9CkeiO"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:e9909da68469/w:150_h:120_q:70/i/8Bp2BQXwvlVTjUqYmKrWHvb8xcEJRm-r" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(8976963, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;31-negyzetmeter;1-1-szoba;tegla-epitesu/8976963" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;31-negyzetmeter;1-1-szoba;tegla-epitesu/8976963" target="_blank">Eladó a belváros szívében egy igazi RITKASÁG ÉS GYÖNGYSZEM!
+Eredetileg garzon lakás,viszont a jelenlegi tulajdonos megvételkor másfél szobássá alakította.
+Egészen sajátos hangulattal rendelkezik ez az otthonos,igazán beleszeretős lakás....</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;31-negyzetmeter;1-1-szoba;tegla-epitesu/8976963" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;31-negyzetmeter;1-1-szoba;tegla-epitesu/8976963" target="_blank">31 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;31-negyzetmeter;1-1-szoba;tegla-epitesu/8976963" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;31-negyzetmeter;1-1-szoba;tegla-epitesu/8976963" target="_blank">1 + 1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;31-negyzetmeter;1-1-szoba;tegla-epitesu/8976963" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;31-negyzetmeter;1-1-szoba;tegla-epitesu/8976963" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;31-negyzetmeter;1-1-szoba;tegla-epitesu/8976963#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;31-negyzetmeter;1-1-szoba;tegla-epitesu/8976963#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;31-negyzetmeter;1-1-szoba;tegla-epitesu/8976963" target="_blank">33.000.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/33-millio-ft;31-negyzetmeter;1-1-szoba;tegla-epitesu/8976963" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="/duna-house-xii-ker-varosmajor-utca-u-iroda/221" target="_blank" title="Duna House - XII. ker, Városmajor utca u."><img alt="Duna House - XII. ker, Városmajor utca u." src="/images/office_no_picture_thumb.jpg?1"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:44f52915fe69/w:150_h:120_q:70/i/CuZCvri9zZSxbBgUd6qN_UIuXH7RTOhU" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(8977006, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/8977006" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/8977006" target="_blank">5. kerület, Honvéd térnél 2. emeleti, liftes, 30nm-es világos erkélyes garzon eladó!
+29900000 Ft
+Referencia szám: LK430412</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/8977006" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/8977006" target="_blank">30 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/8977006" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/8977006" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/8977006" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/8977006" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/8977006#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/8977006#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/8977006" target="_blank">29.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;30-negyzetmeter;1-szoba;tegla-epitesu/8977006" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="/duna-house-xii-ker-varosmajor-utca-u-iroda/221" target="_blank" title="Duna House - XII. ker, Városmajor utca u."><img alt="Duna House - XII. ker, Városmajor utca u." src="/images/office_no_picture_thumb.jpg?1"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:ced1995f4969/w:150_h:120_q:70/i/MSZrkpn9ug_45fAHqJ4tHfgEZ3ZYApAP" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9016657, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016657" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016657" target="_blank">Gyorsan birtokba vehető, csendes garzonlakás eladó az V. kerületi a Kálmán Imre utcában! A lakás egy kifogástalan állapotú társasház földszintjén helyezkedik el, 29 m2 alapterületű (+20 m2 állógaléria), konvektoros fűtéses. Nyílászárói néhány éve...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016657" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016657" target="_blank">29 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016657" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016657" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016657" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016657" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016657#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016657#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016657" target="_blank">29.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016657" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://cdcbokreta.ingatlanok.hu" target="_blank" title="CDC Bokréta"><img alt="CDC Bokréta" src="https://img.shardimage.com/ZFJZKSZn/s-b2:ec0037f24d69/w:150_h:120_c:lfit_q:70/i/a0kR5u5w54XOHu3O0q7P5Ns6AkV5HiYJ"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:2393d3cc4669/w:150_h:120_q:70/i/1LrfPVTGb18TuY4sg2CBb_CqkbygJLUD" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9023490, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9023490" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9023490" target="_blank">V. kerületben, a Kálmán Imre utcában eladó egy földszinti, 29 nm-es, (+20 nm állógaléria), konvektor fűtésű lakás. Nyílászárói néhány éve lettek kicserélve. Közös költsége mindössze 12.000 Ft/hó, mely tartalmazza a vízfogyasztást is.
+Érd: Juhász...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9023490" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9023490" target="_blank">29 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9023490" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9023490" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9023490" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9023490" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9023490#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9023490#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9023490" target="_blank">29.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9023490" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://templom4.ingatlanok.hu" target="_blank" title="CDC Ingatlan IV.Ker. Szita Ingatlan Kft."><img alt="CDC Ingatlan IV.Ker. Szita Ingatlan Kft." src="https://img.shardimage.com/ZFJZKSZn/s-b2:17a65284a169/w:150_h:120_c:lfit_q:70/i/3OdxlcRSvOFb-LNA4L-668G7VRwWUL2u"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:312249b58369/w:150_h:120_q:70/i/yiMjgAtWS-SkH51hsvfo23U0WsMh-g-E" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9115284, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9115284" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9115284" target="_blank">Gyorsan birtokba vehető, csendes garzonlakás eladó az V. kerületi a Kálmán Imre utcában! A lakás egy kifogástalan állapotú társasház földszintjén helyezkedik el, 29 m2 alapterületű (+20 m2 állógaléria), konvektoros fűtéses. Nyílászárói néhány éve...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9115284" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9115284" target="_blank">29 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9115284" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9115284" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9115284" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9115284" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9115284#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9115284#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9115284" target="_blank">29.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9115284" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://templom4.ingatlanok.hu" target="_blank" title="CDC Ingatlan IV.Ker. Szita Ingatlan Kft."><img alt="CDC Ingatlan IV.Ker. Szita Ingatlan Kft." src="https://img.shardimage.com/ZFJZKSZn/s-b2:17a65284a169/w:150_h:120_c:lfit_q:70/i/3OdxlcRSvOFb-LNA4L-668G7VRwWUL2u"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:3a474c9e7469/w:150_h:120_q:70/i/FQGsXZDGG6-WYtz4CGaoPv9ImN-SGDmO" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9016339, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016339" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016339" target="_blank">Gyorsan birtokba vehető, csendes garzonlakás eladó az V. kerületi a Kálmán Imre utcában! A lakás egy kifogástalan állapotú társasház földszintjén helyezkedik el, 29 m2 alapterületű (+20 m2 állógaléria), konvektoros fűtéses. Nyílászárói néhány éve...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016339" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016339" target="_blank">29 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016339" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016339" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016339" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016339" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016339#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016339#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016339" target="_blank">29.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016339" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://cdcbait.ingatlanok.hu" target="_blank" title="CDC Keleti károly"><img alt="CDC Keleti károly" src="https://img.shardimage.com/ZFJZKSZn/s-b2:96e4b0b8b469/w:150_h:120_c:lfit_q:70/i/CpcxrbZ1SkskOXbpg74gcEa8pb9CkeiO"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:ecbd762d6e69/w:150_h:120_q:70/i/roGRDi01vMVRzRopgikF9lMTzMrpEPId" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9018227, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9018227" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9018227" target="_blank">Gyorsan birtokba vehető, csendes garzonlakás eladó az V. kerületi a Kálmán Imre utcában! A lakás egy kifogástalan állapotú társasház földszintjén helyezkedik el, 29 m2 alapterületű (+20 m2 állógaléria), konvektoros fűtéses. Nyílászárói néhány éve...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9018227" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9018227" target="_blank">29 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9018227" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9018227" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9018227" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9018227" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9018227#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9018227#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9018227" target="_blank">29.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9018227" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://templom4.ingatlanok.hu" target="_blank" title="CDC Ingatlan IV.Ker. Szita Ingatlan Kft."><img alt="CDC Ingatlan IV.Ker. Szita Ingatlan Kft." src="https://img.shardimage.com/ZFJZKSZn/s-b2:17a65284a169/w:150_h:120_c:lfit_q:70/i/3OdxlcRSvOFb-LNA4L-668G7VRwWUL2u"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:facd794a7169/w:150_h:120_q:70/i/gcjj-vgOy228Gfds_zYLpHdD8WxBl653" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9016644, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016644" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016644" target="_blank">Gyorsan birtokba vehető, csendes garzonlakás eladó az V. kerületi a Kálmán Imre utcában! A lakás egy kifogástalan állapotú társasház földszintjén helyezkedik el, 29 m2 alapterületű (+20 m2 állógaléria), konvektoros fűtéses. Nyílászárói néhány éve...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016644" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016644" target="_blank">29 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016644" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016644" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016644" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016644" target="_blank">Tégla</a>
+</div>
+<div class="column column-map cf">
+<div class="map-icon">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016644#map" target="_blank"><img alt="" src="/images/map-icon.png"/></a>
+</div>
+<div class="column-title">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016644#map" target="_blank">térkép</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016644" target="_blank">29.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/29-millio-ft;29-negyzetmeter;1-szoba;tegla-epitesu/9016644" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://cdcbokreta.ingatlanok.hu" target="_blank" title="CDC Bokréta"><img alt="CDC Bokréta" src="https://img.shardimage.com/ZFJZKSZn/s-b2:ec0037f24d69/w:150_h:120_c:lfit_q:70/i/a0kR5u5w54XOHu3O0q7P5Ns6AkV5HiYJ"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker Belváros" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:87781b414369/w:150_h:120_q:70/i/Z_kW23BHPuSZuVoWpI3LPWMUYOXnoejR" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9237956, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/belvaros;34-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9237956" target="_blank" title="Eladó Lakás Budapest V. Ker Belváros">Eladó Lakás Budapest V. Ker Belváros</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/belvaros;34-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9237956" target="_blank">Panorámás, erkélyes garzon eladó!
+Belváros egyik frekventált és egyben a legcsendesebb részén az V.kerületben, jó állapotú, lifttel rendelkező házban, eladó egy 28 m2 5. emeleti, erkéllyel rendelkező garzonlakás.
+Egy előszoba, szoba...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/belvaros;34-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9237956" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/belvaros;34-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9237956" target="_blank">28 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/belvaros;34-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9237956" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/belvaros;34-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9237956" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/belvaros;34-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9237956" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/belvaros;34-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9237956" target="_blank">Tégla</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/belvaros;34-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9237956" target="_blank">34.200.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/belvaros;34-millio-ft;28-negyzetmeter;1-szoba;tegla-epitesu/9237956" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://ingatlanplazabp.ingatlanok.hu" target="_blank" title="Ingatlan Plaza"><img alt="Ingatlan Plaza" src="https://img.shardimage.com/ZFJZKSZn/s-b2:0edb3ea17569/w:150_h:120_c:lfit_q:70/i/TdPcJQ3Vg110z1VhpBQLrAhobMF2RuSi"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker Lipótváros" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:2770260af969/w:150_h:120_q:70/i/YRz6VnNu8DRC_0qwoGp94-bSEfi4jWul" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9237967, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9237967" target="_blank" title="Eladó Lakás Budapest V. Ker Lipótváros">Eladó Lakás Budapest V. Ker Lipótváros</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9237967" target="_blank">Hivatkozási szám: 5ELI15068
+Eladásra kínálunk az V. kerületben a Lipótvárosban, a V A D Á S Z UTCÁBAN egy földszinti 1 szobás, 33 m2-es lakást.
+Főbb jellemzők:
+- 4 szintes társasházban található
+- a társasház belső területét 2013-ban...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9237967" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9237967" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9237967" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9237967" target="_blank">1</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9237967" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9237967" target="_blank">Tégla</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9237967" target="_blank">29.800.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/lipotvaros;29-millio-ft;33-negyzetmeter;1-szoba;tegla-epitesu/9237967" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://ingatlanplazabp.ingatlanok.hu" target="_blank" title="Ingatlan Plaza"><img alt="Ingatlan Plaza" src="https://img.shardimage.com/ZFJZKSZn/s-b2:0edb3ea17569/w:150_h:120_c:lfit_q:70/i/TdPcJQ3Vg110z1VhpBQLrAhobMF2RuSi"/></a>
+</div>
+</div>
+</div>
+</div><div class="result-row-container">
+<div class="result-row">
+<div class="result-item cf">
+<div class="result-image left">
+<img alt="Eladó Lakás Budapest V. Ker" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:84532fa33f69/w:150_h:120_q:70/i/eQ7yxU6_VzyWN6NUa70xd_vUI0REifMm" width="150"/>
+<a class="result-image-hover" href="javascript:;" onclick="openGallery(9236967, 0, 1);" title="Galéria megnyitása"></a>
+</div>
+<div class="result-content left">
+<div class="result-title-price">
+<div class="result-title left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;2-szoba;tegla-epitesu/9236967" target="_blank" title="Eladó Lakás Budapest V. Ker">Eladó Lakás Budapest V. Ker</a>
+</div>
+</div>
+<div class="result-short-description">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;2-szoba;tegla-epitesu/9236967" target="_blank">Eladó Budapesten, a Belvárosban, a Parlamenthez és a Duna parthoz egyaránt közel egy földszinti, teljeskörűen felújított lakás. Ideális otthon egyedülállóknak, pároknak, egyetemistáknak, apartmanoztatáshoz. Befektetésnek is kiváló!
+Három...</a>
+</div>
+<div class="result-columns-adatlap cf">
+<div class="result-columns left">
+<div class="column-first">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;2-szoba;tegla-epitesu/9236967" target="_blank">Méret:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;2-szoba;tegla-epitesu/9236967" target="_blank">33 m<sup>2</sup></a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;2-szoba;tegla-epitesu/9236967" target="_blank">Szobák:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;2-szoba;tegla-epitesu/9236967" target="_blank">2</a>
+</div>
+<div class="column">
+<div class="column-title"><a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;2-szoba;tegla-epitesu/9236967" target="_blank">Építési mód:</a></div>
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;2-szoba;tegla-epitesu/9236967" target="_blank">Tégla</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="result-item-bottom">
+<div class="result-price left">
+<a href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;2-szoba;tegla-epitesu/9236967" target="_blank">39.900.000 Ft</a>
+</div>
+<a class="button-container right" href="https://ingatlanok.hu/elado/lakas/budapest_v_ker/39-millio-ft;33-negyzetmeter;2-szoba;tegla-epitesu/9236967" target="_blank">
+<span>Adatlap megtekintése</span>
+<div class="arrow1">
+<div class="arrow2"></div>
+</div>
+</a>
+<div class="office-logo-container right">
+<a href="http://ingatlan48.ingatlanok.hu" target="_blank" title="Ingatlan48"><img alt="Ingatlan48" src="https://img.shardimage.com/ZFJZKSZn/s-b2:7530eb8b3969/w:150_h:120_c:lfit_q:70/i/HE1teUNMgJCBGK5ysPOqiYD3GyWwgpIX"/></a>
+</div>
+</div>
+</div>
+</div>
+<div class="google-ad-list">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-8953455890604973" data-ad-slot="2847768246" style="display:inline-block;width:468px;height:60px"></ins>
+<script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+</div>
+</div>
+<div class="content-right fast-list">
+<div class="list-simple-search-form-container">
+<form action="/EstateSearch/dofastsearch" id="list-simple-search-form" method="post">
+<div class="top cf">
+<div class="estate-action cf"><div class="radio-wrapper"><input checked="checked" id="search_form_estate_action_elado" name="search_form[estate_action]" type="radio" value="elado"/><label for="search_form_estate_action_elado"> Eladó</label></div><div class="radio-wrapper"><input id="search_form_estate_action_kiado" name="search_form[estate_action]" type="radio" value="kiado"/><label for="search_form_estate_action_kiado"> Kiadó</label></div></div>
+<div class="designed-element-container designed-select-container designed-select-small _mb5">
+<select class="invisible-select" id="search_form_estate_type" name="search_form[estate_type]"><option value="lakas+csaladi_haz">Lakás és ház</option>
+<option selected="selected" value="lakas">Lakás</option>
+<option value="csaladi_haz">Ház</option>
+<option value="telek_foldterulet">Telek/földterület</option>
+<option value="garazs">Garázs</option>
+<option value="udulo_nyaralo">Üdülő/nyaraló</option>
+<option value="ipari_ingatlan">Ipari ingatlan</option>
+<option value="iroda">Iroda/üzlethelyiség</option>
+<option value="panzio">Panzió</option>
+<option value="vendeglato_egyseg">Vendéglátó egység</option>
+</select>
+<span class="designed-select">Lakás és ház</span>
+<span class="designed-select-arrow"></span>
+</div>
+<div class="price tipsy-item-s" title="Megadhat pontos árat (pl.: 15) vagy minimum/maximum értéket is (pl.: 12-15)">
+<span class="text">millió forint</span>
+<input class="tiny" id="search_form_ar" name="search_form[ar]" placeholder="Ár" type="text" value=""/>
+</div>
+<div class="size tipsy-item-s" title="Megadhat pontos méretet (pl.: 50) vagy minimum/maximum értéket is (pl.: 45-55)">
+<span class="text">m<sup>2</sup></span>
+<input class="tiny" id="search_form_alapterulet" name="search_form[alapterulet]" placeholder="Alapterület" type="text" value=""/>
+</div>
+</div>
+<div class="middle cf">
+<div class="region-name">
+<div class="selected_regions_container">
+<ul class="selected_regions cf"></ul>
+</div>
+<div class="text region-autocomplete-container">
+<input autocomplete="off" class="designed-text medium region-autocomplete" id="search_form_region_name" name="search_form[region_name_input]" placeholder="Ország, város, megye, kerület" type="text" value="Budapest V. ker, Budapest XI. ker"/>
+<div id="inline-estate-main-search-form-loader-wrapper">
+<img alt="" class="loader-active" id="inline-estate-main-search-form-loader" src="/image/loader.gif"/>
+</div>
+<div class="ui-autocomplete-div"></div>
+</div>
+</div>
+</div>
+<div class="end cf">
+<div class="only-image"><div class="html-item-inner-container cf ">
+<div class="designed-element-container designed-checkbox-container" style="float: left;">
+<input class="invisible-checkbox" id="search_form_has_image" name="search_form[has_image]" type="checkbox" value="1"/>
+<span class="designed-checkbox "></span>
+</div>
+<div class="designed-checbox-label">
+<label for="search_form_has_image">Csak a képes hirdetések</label>
+</div>
+</div></div>
+<div class="submit"><input type="submit" value="Keresés"/></div>
+<div class="map-search-link"><span></span><a href="/terkepes-kereso" title="Térképes ingatlankereső | Ingatlanok.hu">Térképes kereső</a></div>
+<div class="detail-search-link"><span></span><a href="/reszletes-kereses" title="Részletes ingatlankereső | Ingatlanok.hu">Részletes kereső</a></div>
+</div>
+<input id="search_form_currency" name="search_form[currency]" type="hidden" value="m-huf"/>
+</form>
+</div>
+<script>
+    jQuery(document).ready(function(){
+        jQuery('#search_form_estate_action_elado').change(function() {
+            if(jQuery(this).prop('checked')) {
+                jQuery('.price .text').html('millió forint');
+                jQuery('#search_form_currency').val('m-huf');
+            }
+        })
+        jQuery('#search_form_estate_action_kiado').change(function() {
+            if(jQuery(this).prop('checked')) {
+                jQuery('.price .text').html('ezer forint');
+                jQuery('#search_form_currency').val('e-huf');
+            }
+        })
+        RegionAutocomplete.init('#search_form_region_name', ['.loader-active']);
+        bindDefaultEvents();
+    });
+    function addNewRegionToSelected(id, region_name) {
+        if (typeof(id)!='undefined' && id!='' && typeof(region_name)!='undefined' && region_name!='') {
+            var exists = false;
+			
+            if (jQuery('.selected_regions li.'+id).length>0) {
+                exists = true;
+            }
+            if (!exists) {
+                jQuery('.selected_regions').append('<li class="'+id+'"><span>'+region_name+'</span><div class="remove"></div></li>');
+                jQuery('.selected_regions').find('li').on('click', '.remove', function() {
+                    removeSelectedRegion(jQuery(this));
+                });
+            }
+        }
+    }
+	
+    function removeSelectedRegion(obj) {
+        if (typeof(obj) == 'object') {
+            var region_name = obj.parent().data('regionname');
+            var id = obj.parent().attr('class');
+            obj.parent().remove();
+        }
+    }
+</script>
+<div class="favorito-visited-count">
+<div class="favorite-count"><a href="/kedvencek">Kedvencek (<span class="count">0</span>)</a></div>
+<div class="visited-count"><a href="/megtekintett-ingatlanok">Legutóbb megtekintett (<span class="count">0</span>)</a></div>
+</div>
+<div class="seo-side-box">
+A hazai <strong>eladó lakás</strong> hirdetések legjava, az egész ország területéről. Válogasson az ingatlanok közül, mentse el a keresést vagy használja értesítő szolgáltatásunkat.
+</div>
+<div id="google-ad-side250">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-8953455890604973" data-ad-slot="3375818642" style="display:inline-block;width:250px;height:250px"></ins>
+<script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+</div>
+</div>
+</div>
+<div class="popup email_popup">
+<div class="popup-overlay" onclick="switchPopup(false, 'email_popup')"></div>
+<div class="popup-container big">
+<div class="popup-wrapper big">
+<a class="popup-close" href="javascript:;" onclick="switchPopup(false, 'email_popup')">✖</a>
+<div class="popup-title">E-mail értesítő</div>
+<div class="popup-box">
+<form class="form" id="email_form" method="post">
+<table class="table-default">
+<tr>
+<td colspan="2">
+<b>Írja be e-mail címét, és mi minden nap elküldjük Önnek a keresésének megfelelő legfrissebb találatokat.</b>
+</td>
+</tr>
+<tr>
+<td class="td-height-10" colspan="2"> </td>
+</tr>
+<tr>
+<td class="label">Az Ön e-mail címe:</td>
+<td class="td-align-right"><input class="input" id="email" name="email" type="text" value=""/></td>
+</tr>
+<tr>
+<td class="td-height-10" colspan="2"> </td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="error"></div>
+<div class="success"></div>
+</td>
+</tr>
+<tr>
+<td class="td-height-15" colspan="2"> </td>
+</tr>
+<tr>
+<td> </td>
+<td class="td-align-right">
+<img alt="" class="loader" src="/image/loader.gif" style="display: none;"/>
+<a class="button-1 new-full normal" href="javascript:;" onclick="checkEmailForm('email_form', 0)">Küldés</a>
+<a class="button-close button-1" href="javascript:;" onclick="switchPopup(false, 'email_popup')" style="display: none;">Bezár</a>
+</td>
+</tr>
+</table>
+</form>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    jQuery('#email_form').bind('keypress', function(event) {
+        switch (event.which) {
+            case 13:    // enter
+                event.preventDefault();
+                checkEmailForm('email_form', 0);
+            break;
+        }
+    });    
+</script>
+<div class="popup savesearch_popup">
+<div class="popup-overlay" onclick="switchPopup(false, 'savesearch_popup')"></div>
+<div class="popup-container big">
+<div class="popup-wrapper big">
+<a class="popup-close" href="javascript:;" onclick="switchPopup(false, 'savesearch_popup')">✖</a>
+<div class="popup-title">Keresés mentése</div>
+<div class="popup-box">
+<form class="form" id="savesearch_form" method="post">
+<table class="table-default">
+<tr>
+<td colspan="2">
+Ezt a funkciót csak regisztált felhasználók használhatják.
+</td>
+</tr>
+<tr>
+<td colspan="2">
+A regisztrációhoz kattintson az alábbi gombra.
+</td>
+</tr>
+<tr>
+<td class="td-height-25" colspan="2"> </td>
+</tr>
+<tr>
+<td> </td>
+<td class="td-align-right">
+<a class="button-1 new-full normal" href="javascript:;" onclick="gotoRegistration('savesearch_popup')">Regisztráció</a>
+</td>
+</tr>
+</table>
+</form>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    function gotoRegistration(closeform) {
+        switchPopup(false, closeform);
+        switchPopup(true, 'reg_popup');
+    }
+</script>
+</div>
+<div class="content-main-article center-box cf">
+<div class="dedicatory-boxtitle">
+<a href="https://ingatlanok.hu/hirek" id="inline-article-news" title="Ingatlan hírek">Ingatlan <span>hírek</span></a>
+<div class="feliratkozas-article">
+Ropogósan friss hírek, kéthetente, e-mailben: <a href="/hirlevel">Feliratkozok</a>
+</div>
+<div class="horizontal-separator"></div>
+</div>
+<div class="cf">
+<div class="article-item ">
+<div class="picture">
+<a href="https://ingatlanok.hu/hirek/20180905/meg-nagyobb-lenduletet-vett-a-magyar-epitoipar" title="Tovább a cikkre"><img alt="Még nagyobb lendületet vett a magyar építőipar" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:d6fcb458aa69/w:80_h:120_q:70/i/xECjr5ssN2I1uLR8llBDMjiUxoB4odhf" width="80"/></a>
+</div>
+<div class="title">
+<a href="https://ingatlanok.hu/hirek/20180905/meg-nagyobb-lenduletet-vett-a-magyar-epitoipar" title="Még nagyobb lendületet vett a magyar építőipar">Még nagyobb lendületet vett a magyar építőipar</a>
+</div>
+<div class="lead">
+Az első fél évben megkezdett építőipari kivitelezés 15 százalékkal nőtt.
+<span class="more-link">
+<a class="article-more-link" href="https://ingatlanok.hu/hirek/20180905/meg-nagyobb-lenduletet-vett-a-magyar-epitoipar" title="Részletek">Részletek »</a>
+</span>
+</div>
+</div><div class="article-item last">
+<div class="picture">
+<a href="https://ingatlanok.hu/hirek/20180830/debrecenbe-kene-menni" title="Tovább a cikkre"><img alt="Debrecenbe kéne menni..." height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:6a8cf32d6069/w:80_h:120_q:70/i/4ew2aDxlpcf-2P7hCZ8WzgSBlx7bmb81" width="80"/></a>
+</div>
+<div class="title">
+<a href="https://ingatlanok.hu/hirek/20180830/debrecenbe-kene-menni" title="Debrecenbe kéne menni...">Debrecenbe kéne menni...</a>
+</div>
+<div class="lead">
+Pulykakakas helyett azonban inkább ingatlant kéne venni.
+<span class="more-link">
+<a class="article-more-link" href="https://ingatlanok.hu/hirek/20180830/debrecenbe-kene-menni" title="Részletek">Részletek »</a>
+</span>
+</div>
+</div><div class="article-item ">
+<div class="picture">
+<a href="https://ingatlanok.hu/hirek/20180824/panelkonyhad-van-igy-hozz-ki-tobbet-belole" title="Tovább a cikkre"><img alt="Panelkonyhád van? Így hozz ki többet belőle!" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:969d157df869/w:80_h:120_q:70/i/48J1GWtmRGhcc4xPt4KB5sczd1JuNJPp" width="80"/></a>
+</div>
+<div class="title">
+<a href="https://ingatlanok.hu/hirek/20180824/panelkonyhad-van-igy-hozz-ki-tobbet-belole" title="Panelkonyhád van? Így hozz ki többet belőle!">Panelkonyhád van? Így hozz ki többet belőle!</a>
+</div>
+<div class="lead">
+Sajnos a panel- és téglalakások nem mesterséfeknek lettek kitalálva, ha a konyháról van szó.
+<span class="more-link">
+<a class="article-more-link" href="https://ingatlanok.hu/hirek/20180824/panelkonyhad-van-igy-hozz-ki-tobbet-belole" title="Részletek">Részletek »</a>
+</span>
+</div>
+</div><div class="article-item last">
+<div class="picture">
+<a href="https://ingatlanok.hu/hirek/20180816/5-dolog-amit-tudnod-kell-a-lakasvasarlasrol" title="Tovább a cikkre"><img alt="5 dolog, amit tudnod kell a lakásvásárlásról" height="120" src="https://img.shardimage.com/ZFJZKSZn/s-b2:6ebab0743a69/w:80_h:120_q:70/i/KiGcThtN6MA3VY7HhhHX4jPicN2UIrhe" width="80"/></a>
+</div>
+<div class="title">
+<a href="https://ingatlanok.hu/hirek/20180816/5-dolog-amit-tudnod-kell-a-lakasvasarlasrol" title="5 dolog, amit tudnod kell a lakásvásárlásról">5 dolog, amit tudnod kell a lakásvásárlásról</a>
+</div>
+<div class="lead">
+Mielőtt még belekezdenél a lakásnézegetésbe, az alábbiakat feltétlenül vésd az eszedbe!
+<span class="more-link">
+<a class="article-more-link" href="https://ingatlanok.hu/hirek/20180816/5-dolog-amit-tudnod-kell-a-lakasvasarlasrol" title="Részletek">Részletek »</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-container">
+<div class="footer-main center-box cf">
+<div class="footer-box left">
+<div class="box-title">
+Ingatlanok.hu
+</div>
+<div class="box-content">
+Eladó, kiadó ingatlan az ország egyik vezető ingatlankereső oldalán. Folyamatosan bővülő, könnyen kereshető adatbázisunkban minden ingatlantípus megtalálható, a kínálat az egész országot lefedi. Mindegy, hogy eladni szeretne, vagy álmai otthonát keresi, mi mindkettőben segíteni tudunk. Járjon utána!
+</div>
+</div>
+<div class="footer-box center">
+<div class="box-title">
+Hasznos funkciók
+</div>
+<div class="box-content">
+A kereséseket elmentheti, így később már csak az időközben felkerülő új ingatlanokat kell átnéznie,
+errõl e-mail értesítőt is kérhet. Mentse el a kiszemelt ingatlan adatlapját és ossza meg ismerőseivel
+egy kattintással a Facebookon. Regisztráljon és megkönnyítjük Önnek a keresést, eladást.
+</div>
+</div>
+<div class="footer-box right">
+<div class="box-title">
+Ingatlan adatbázis
+</div>
+<div class="box-content">
+Oldalunkon jelenleg közel 100.000 lakás, ház, garázs, üres telek, iroda, panzió, üzlet, üdülő,
+vendéglátóegység és ipari ingatlan hirdetése között válogathat. Az Öné még nincs köztük? Ne szalassza el a vevőket,
+válassza az <span style="white-space: nowrap;">Ingatlanok.hu-t</span>, adja fel ingatlan hirdetését most!
+</div>
+</div>
+</div>
+<div class="language-bar">
+<div>Amennyiben szeretne más nyelven olvasni az oldalt, akkor válassza ki a nyelvet!</div>
+<div class="language-cont">
+<button class="language-toggle" type="button">
+Magyar <span class="caret"></span>
+</button>
+<div class="language-dropdown">
+<div class="language-ul">
+<div><a href="http://realestate.hu">English</a></div>
+<div><a href="http://immobilier.hu">Français</a></div>
+<div><a href="http://immobilien.co.hu">Deutsch</a></div>
+</div>
+<div class="language-ul">
+<div><a href="https://imobiliare.hu">Românesc</a></div>
+<div><a href="http://realty.co.hu">Pусский</a></div>
+<div><a href="http://nepremicnine.hu">Slovenski</a></div>
+<div><a href="http://vastgoed.hu">Nederlands</a></div>
+</div>
+<div class="language-ul">
+<div><a href="http://nehnutelnost.hu">Slovenský</a></div>
+<div><a href="http://nemovitost.hu">Český</a></div>
+<div><a href="http://nekretnine.hu">Cрпски</a></div>
+<div><a href="http://nekretnina.hu">Hrvatski</a></div>
+</div>
+<div class="language-ul">
+<div><a href="http://kvartyra.hu">Yкраїнський</a></div>
+<div><a href="http://inmobiliaria.co.hu/">Español</a></div>
+<div><a href="http://immobiliare.hu">Italiano</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main center-box city-tags">
+<ul class="cf" id="citytags">
+<li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/budapest" title="Eladó Lakás Budapest">Eladó Lakás Budapest</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/debrecen" title="Eladó Lakás Debrecen">Eladó Lakás Debrecen</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/miskolc" title="Eladó Lakás Miskolc">Eladó Lakás Miskolc</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/szeged" title="Eladó Lakás Szeged">Eladó Lakás Szeged</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/pecs" title="Eladó Lakás Pécs">Eladó Lakás Pécs</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/gyor" title="Eladó Lakás Győr">Eladó Lakás Győr</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/kecskemet" title="Eladó Lakás Kecskemét">Eladó Lakás Kecskemét</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/szekesfehervar" title="Eladó Lakás Székesfehérvár">Eladó Lakás Székesfehérvár</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/szolnok" title="Eladó Lakás Szolnok">Eladó Lakás Szolnok</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/tatabanya" title="Eladó Lakás Tatabánya">Eladó Lakás Tatabánya</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/bekescsaba" title="Eladó Lakás Békéscsaba">Eladó Lakás Békéscsaba</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/veszprem" title="Eladó Lakás Veszprém">Eladó Lakás Veszprém</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/eger" title="Eladó Lakás Eger">Eladó Lakás Eger</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/dunaujvaros" title="Eladó Lakás Dunaújváros">Eladó Lakás Dunaújváros</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/salgotarjan" title="Eladó Lakás Salgótarján">Eladó Lakás Salgótarján</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/nyiregyhaza" title="Eladó Lakás Nyíregyháza">Eladó Lakás Nyíregyháza</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/zalaegerszeg" title="Eladó Lakás Zalaegerszeg">Eladó Lakás Zalaegerszeg</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/szekszard" title="Eladó Lakás Szekszárd">Eladó Lakás Szekszárd</a></li><li><a class="citytag" href="https://ingatlanok.hu/elado/lakas/kaposvar" title="Eladó Lakás Kaposvár">Eladó Lakás Kaposvár</a></li>
+</ul>
+</div>
+<div class="main center-box cf brand-box">
+<div class="left">
+® Copyright 2007 - 2018 <a href="https://ingatlancsoport.hu/">Ingatlancsoport Kft.</a> | v4.3
+</div>
+<div class="right">
+<a href="//m.ingatlanok.hu/elado/lakas/budapest-v-ker+budapest-xi-ker:27nm-tol;33nm-ig" title="Ingatlanok.hu mobil nézet">Mobil nézet</a>
+<span class="separator">|</span>
+<a href="/gyik" title="Gyarkan ismételt kérdések">GYIK</a>
+<span class="separator">|</span>
+<a href="/tematikus-oldalaink" title="Tematikus oldalaink">Tematikus oldalaink</a>
+<span class="separator">|</span>
+<a href="/ingatlan-oldalterkep" title="Ingatlanok oldaltérkép">Oldaltérkép</a>
+<span class="separator">|</span>
+<a href="/cdn-cgi/l/email-protection#147c7d66707160716754797566777b647b787b3a7c61" title="Médiaajánlat">Médiaajánlat</a>
+<span class="separator">|</span>
+<a href="https://ingatlanok.hu/adatkezelesi-tajekoztato" title="Adatkezelési tájékoztató">Adatkezelési tájékoztató</a>
+<span class="separator">|</span>
+<a href="https://ingatlanok.hu/cookie-szabalyzat" title="Cookie szabályzat">Cookie szabályzat</a>
+<span class="separator">|</span>
+<a href="https://ingatlanok.hu/uzletszabalyzat" title="Üzletszabályzat">Üzletszabályzat</a>
+</div>
+</div>
+</div>
+<div class="popup reg_popup">
+<div class="popup-overlay" onclick="switchPopup(false, 'reg_popup')"></div>
+<div class="popup-container cf">
+<div class="popup-wrapper left" id="inline-reg-login-popup-wrapper">
+<a class="popup-close" href="javascript:;" onclick="switchPopup(false, 'reg_popup')">✖</a>
+<div class="popup-title">Bejelentkezés</div>
+<div class="popup-box">
+<form action="/do-belepes" class="form" id="user_login_form" method="post">
+<table class="table-default">
+<tr>
+<td class="label" colspan="2">Felhasználónév:</td>
+</tr>
+<tr>
+<td class="td-align-right _pt5" colspan="2"><input class="input redesign-redcolor" id="username" name="username" type="text"/></td>
+</tr>
+<tr>
+<td class="label _pt10" colspan="2">Jelszó:</td>
+</tr>
+<tr>
+<td class="td-align-right _pt5" colspan="2"><input class="input redesign-redcolor" id="password" name="password" type="password"/></td>
+</tr>
+<tr>
+<td class="_pt20 _pb20" colspan="2">
+<div class="cf">
+<div class="designed-element-container designed-checkbox-container left">
+<input checked="" class="invisible-checkbox" id="user_login_terms" name="user_login_terms" type="checkbox" value="1"/>
+<div class="designed-checkbox designed-checkbox-selected"></div>
+</div>
+<div class="left" id="user-login-accept-term">
+<label for="user_login_terms">Elfogadom az ingatlanok.hu<br/><a href="/adatvadelmi-szabalyzat.html" target="_blank" title="Elfogadom az ingatlanok.hu adatvédelmi szabályzatát.">adatvédelmi szabályzatát.</a></label>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="error_message" id="errorerrors"></div>
+</td>
+</tr>
+<tr>
+<td class="td-align-right" colspan="2">
+<a class="button-1 new-full" href="javascript:void(0);" onclick="user_login_form_submit();">Belépés</a>
+<a class="forgotten-password-link" href="/elfelejtett-jelszo">elfelejtett jelszó</a>     
+<img alt="" class="loader" id="inline-reg-login-popup-loader" src="/image/loader.gif"/>
+<input name="submit" type="hidden"/>
+<input id="login_sid" name="sid" type="hidden" value=""/>
+<input id="login_url" name="login_url" type="hidden" value=""/>
+<input id="login_redirect" name="login_redirect" type="hidden" value=""/>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="go-to-reg-link redesign-redcolor">
+Nincs még regisztációja?
+<a class="button-1 new-full _mt5" href="https://hirdetes.ingatlanok.hu/regisztracio">Regisztráció</a>
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    function user_login_form_submit() {
+        $j('#user_login_form').submit()
+    }
+
+    $j('#user_login_form').submit(function (e) {
+        e.preventDefault();
+        $j('#errorerrors').hide();
+        $j('#errorerrors').html('');
+        $j('#user_login_form .loader').show();
+        $j('#user_login_form .button-1').hide();
+
+        var username = $j('#user_login_form #username').val();
+        var password = $j('#user_login_form #password').val();
+        var terms = $j('#user_login_form #user_login_terms').prop('checked');
+
+        if (terms) {
+            $j.post($j('#user_login_form').attr('action'), {
+                username: username,
+                password: password
+            }, function (ret) {
+                if (ret.error === 0) {
+                    location.href = ret.redirect + '/login/set_sid?sid=' + ret.login_hash;
+                } else {
+                    $j.each(ret.errors, function (index, value) {
+                        $j('#errorerrors').append('<p>' + value + '</p>');
+                    });
+                    $j('#errorerrors').show();
+                    $j('#user_login_form .loader').hide();
+                    $j('#user_login_form .button-1').show();
+                }
+            });
+        } else {
+            $j('#errorerrors').html('El kell fogadnia az adatvédemi szabályzatot.');
+            $j('#errorerrors').show();
+            $j('#user_login_form .loader').hide();
+            $j('#user_login_form .button-1').show();
+        }
+
+    });
+
+    $j('#user_login_form').find('input').bind(
+            {
+                keypress: function (event)
+                {
+                    var code = (event.keyCode ? event.keyCode : event.which);
+                    if (code == 13) //Enter
+                    {
+                        var username = jQuery.trim(jQuery('#user_login_form #username').val());
+                        var password = jQuery.trim(jQuery('#user_login_form #password').val());
+                        if (username != '' && password != '') {
+                            user_login_form_submit();
+                        }
+                    }
+                }
+            });
+
+    jQuery('#user_reg_form').bind('keypress', function (event) {
+        switch (event.which) {
+            case 13:    // enter
+                event.preventDefault();
+                var username = jQuery.trim(jQuery('#user_reg_form #user_name').val());
+                var email = jQuery.trim(jQuery('#user_reg_form #user_email').val());
+                var password1 = jQuery.trim(jQuery('#user_reg_form #user_password').val());
+                var password2 = jQuery.trim(jQuery('#user_reg_form #user_password_again').val());
+                if (username != '' && email != '' && password1 != '' && password2 != '') {
+                    checkRegForm('user_reg_form');
+                }
+                break;
+        }
+    });
+
+    function checkRegForm(_form) {
+        clearFormErrorAndSuccess(_form);
+
+        var error = '';
+        var username = jQuery.trim(jQuery('#' + _form + ' #user_name').val());
+        var email = jQuery.trim(jQuery('#' + _form + ' #user_email').val());
+        var password1 = jQuery.trim(jQuery('#' + _form + ' #user_password').val());
+        var password2 = jQuery.trim(jQuery('#' + _form + ' #user_password_again').val());
+
+        if (username == '')
+            error = 'Nem adta meg a nevét!';
+        else if (email == '')
+            error = 'Nem adta meg az e-mail címét!';
+        else if (!isValidEmail(email))
+            error = 'Hibás e-mail cím formátum!';
+        else if (password1 == '' || password2 == '')
+            error = 'Nem adtad meg a jelszót!';
+        else if (password1 != password2)
+            error = 'A két jelszó nem egyezik!';
+
+        if (!jQuery('#' + _form + ' #user_newsletter_1').is(':checked') && !jQuery('#' + _form + ' #user_newsletter_2').is(':checked'))
+            error = 'Nem választotta ki a hírlevél fajtáját.';
+        if (!jQuery('#' + _form + ' #user_accept_spam').is(':checked'))
+            error = 'El kell fogadnia a közvetlen megkeresést.';
+        if (!jQuery('#' + _form + ' #user_declaration').is(':checked'))
+            error = 'El kell fogadnia az adatvédemi szabályzatot.';
+
+
+        if (_form == 'user_reg_form') {
+            var now = new Date();
+            var sixteen_years_ago = new Date(now.getFullYear() - 16, now.getMonth(), now.getDate(), 0, 0, 0, 0);
+            var input_date = new Date(jQuery('#user_year').val(), jQuery('#user_month').val(), jQuery('#user_day').val(), 0, 0, 0, 0);
+            if (input_date > sixteen_years_ago) {
+                error = 'Csak 16 évnél idősebb személy regisztrálhat';
+            }
+        }
+
+        if (error == '') {
+            jQuery('#' + _form + ' .button-1').hide();
+            jQuery('#' + _form + ' .button-close').hide();
+            jQuery('#' + _form + ' .loader').show();
+
+            var formdata = jQuery('#' + _form).serialize();
+            jQuery.ajax({
+                url: '/do-regisztracio',
+                type: 'POST',
+                data: formdata,
+                success: function (ret) {
+                    jQuery('#' + _form + ' .loader').hide();
+
+                    if (typeof (ret.success) != 'undefined' && ret.success == 0 && typeof (ret.text) != 'undefined' && ret.text != '') {
+                        showFormError(_form, ret.text);
+                        jQuery('#' + _form + ' .button-1').show();
+                        jQuery('#' + _form + ' .button-close').hide();
+                    } else if (typeof (ret.success) != 'undefined' && ret.success == 1 && typeof (ret.text) != 'undefined' && ret.text != '') {
+                        showFormSuccess(_form, ret.text);
+                        jQuery('#' + _form + ' .button-close').show();
+                    }
+                }
+            });
+        } else
+            showFormError(_form, error);
+    }
+</script>
+<div></div>
+</div>
+<script type="text/javascript">
+            /* <![CDATA[ */
+            var google_conversion_id = 993022939;
+            var google_custom_params = window.google_tag_params;
+            var google_remarketing_only = true;
+            /* ]]> */
+        </script>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+</script>
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/993022939/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = '.cc7KSd4_Oj.orLF5JZdRZaFHPvRFO_uRpL8foBsAbL.j7';
+// lines below shouldn't be edited
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+gt.setAttribute('defer','defer'); gt.src=l+'://gahu.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script>

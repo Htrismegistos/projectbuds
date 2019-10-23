@@ -1,0 +1,2706 @@
+<main class="resultspage__main">
+ <div class="resultspage__listings js-listings">
+  <div class="listing js-listing listing--cluster-parent js-cluster-parent" data-cluster-id="c_3969820" data-id="27336798">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+fehervari+ut/27336798" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/32/73/27336798_156990249_m.jpg"/>
+     <div class="listing__photos-count">
+      5
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27336798">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+fehervari+ut/27336798" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.3 M Ft
+        </div>
+        <div class="price--sqm">
+         852 000 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Fehérvári út, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       25 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27336798" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27336798">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing " data-cluster-id="27720422" data-id="27720422">
+   <div class="listing__card">
+    <a class="listing__thumbnail is-empty js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/panel-lakas/budapest+11+kerulet+nagyszeben+ter/27720422" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <div class="listing__thumbnail-image no-photo" title="Nincs kép">
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27720422">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/panel-lakas/budapest+11+kerulet+nagyszeben+ter/27720422" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.35 M Ft
+        </div>
+        <div class="price--sqm">
+         762 500 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Nagyszeben tér, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       28 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27720422" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27720422">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="lakopark-promotion">
+   <div class="lakopark-promotion__title">
+    Új építésűt keresel? Nézz körül lakóparkjaink között!
+    <a class="lakopark-promotion__all-projects" href="//lakopark.ingatlan.com/lista" target="_blank">
+     Összes lakópark
+    </a>
+   </div>
+   <div class="lakopark-promotion__inner">
+    <i class="lakopark-promotion__nav lakopark-promotion__nav--left is-inactive js-scroll icon icon--caret-left" data-direction="left">
+    </i>
+    <i class="lakopark-promotion__nav lakopark-promotion__nav--right js-scroll icon icon--caret-right" data-direction="right">
+    </i>
+    <div class="lakopark-promotion__projects-viewport js-lakopark-promotion-projects">
+     <div class="lakopark-promotion__projects">
+      <a class="lakopark-promotion__project js-lakopark-results-project is-active" data-lakopark-position="1" data-project-id="11" href="//lakopark.ingatlan.com/elitepark" target="_blank">
+       <div class="lakopark-promotion__image">
+        <img alt="Elite Park" src="https://lakopark.s3.amazonaws.com/project/11/M_5a1bf57ad5f513.75804408.jpg"/>
+       </div>
+       <div class="lakopark-promotion__info-card">
+        <div class="lakopark-promotion__price">
+         34-115 millió Ft
+        </div>
+        <div class="lakopark-promotion__name">
+         Elite Park
+        </div>
+        <div class="lakopark-promotion__location">
+         XI. kerület
+        </div>
+       </div>
+      </a>
+      <a class="lakopark-promotion__project js-lakopark-results-project " data-lakopark-position="2" data-project-id="72" href="//lakopark.ingatlan.com/savoyahaz" target="_blank">
+       <div class="lakopark-promotion__image">
+        <img alt="Savoya-ház" src="https://lakopark.s3.amazonaws.com/project/72/M_59f6e26eb73ef1.27147095.jpg"/>
+       </div>
+       <div class="lakopark-promotion__info-card">
+        <div class="lakopark-promotion__price">
+         25-46 millió Ft
+        </div>
+        <div class="lakopark-promotion__name">
+         Savoya-ház
+        </div>
+        <div class="lakopark-promotion__location">
+         XI. kerület
+        </div>
+       </div>
+      </a>
+      <a class="lakopark-promotion__project js-lakopark-results-project " data-lakopark-position="3" data-project-id="59" href="//lakopark.ingatlan.com/tetrishaz" target="_blank">
+       <div class="lakopark-promotion__image">
+        <img alt="Tetris Ház 1. ütem" src="https://lakopark.s3.amazonaws.com/project/59/M_58b453656d99f4.98250544.jpg"/>
+       </div>
+       <div class="lakopark-promotion__info-card">
+        <div class="lakopark-promotion__price">
+         35-82 millió Ft
+        </div>
+        <div class="lakopark-promotion__name">
+         Tetris Ház 1. ütem
+        </div>
+        <div class="lakopark-promotion__location">
+         XI. kerület
+        </div>
+       </div>
+      </a>
+      <a class="lakopark-promotion__project js-lakopark-results-project " data-lakopark-position="4" data-project-id="196" href="//lakopark.ingatlan.com/v6apartments" target="_blank">
+       <div class="lakopark-promotion__image">
+        <img alt="V6 apartments" src="https://lakopark.s3.amazonaws.com/project/196/M_5aba157d98fa42.67752632.jpg"/>
+       </div>
+       <div class="lakopark-promotion__info-card">
+        <div class="lakopark-promotion__price">
+         35-68 millió Ft
+        </div>
+        <div class="lakopark-promotion__name">
+         V6 apartments
+        </div>
+        <div class="lakopark-promotion__location">
+         XI. kerület
+        </div>
+       </div>
+      </a>
+      <a class="lakopark-promotion__project js-lakopark-results-project " data-lakopark-position="5" data-project-id="128" href="//lakopark.ingatlan.com/budaibolero2" target="_blank">
+       <div class="lakopark-promotion__image">
+        <img alt="Budai Bolero II" src="https://lakopark.s3.amazonaws.com/project/128/M_598325f9a567b3.99270320.jpg"/>
+       </div>
+       <div class="lakopark-promotion__info-card">
+        <div class="lakopark-promotion__price">
+         58-71 millió Ft
+        </div>
+        <div class="lakopark-promotion__name">
+         Budai Bolero II
+        </div>
+        <div class="lakopark-promotion__location">
+         XI. kerület
+        </div>
+       </div>
+      </a>
+      <a class="lakopark-promotion__project js-lakopark-results-project " data-lakopark-position="6" data-project-id="127" href="//lakopark.ingatlan.com/sasadresortsun" target="_blank">
+       <div class="lakopark-promotion__image">
+        <img alt="Sasad Resort Sun by Cordia" src="https://lakopark.s3.amazonaws.com/project/127/M_5981c7ad714428.60746382.jpg"/>
+       </div>
+       <div class="lakopark-promotion__info-card">
+        <div class="lakopark-promotion__price">
+         48-116 millió Ft
+        </div>
+        <div class="lakopark-promotion__name">
+         Sasad Resort Sun by Cordia
+        </div>
+        <div class="lakopark-promotion__location">
+         XI. kerület
+        </div>
+       </div>
+      </a>
+      <a class="lakopark-promotion__project js-lakopark-results-project " data-lakopark-position="7" data-project-id="193" href="//lakopark.ingatlan.com/temesvar15" target="_blank">
+       <div class="lakopark-promotion__image">
+        <img alt="Temesvár 15." src="https://lakopark.s3.amazonaws.com/project/193/M_5ab36ab2dcd645.37559476.jpg"/>
+       </div>
+       <div class="lakopark-promotion__info-card">
+        <div class="lakopark-promotion__price">
+         36-63 millió Ft
+        </div>
+        <div class="lakopark-promotion__name">
+         Temesvár 15.
+        </div>
+        <div class="lakopark-promotion__location">
+         XI. kerület
+        </div>
+       </div>
+      </a>
+      <a class="lakopark-promotion__project js-lakopark-results-project " data-lakopark-position="8" data-project-id="154" href="//lakopark.ingatlan.com/sasadliget6" target="_blank">
+       <div class="lakopark-promotion__image">
+        <img alt="Sasad Liget VI. ütem" src="https://lakopark.s3.amazonaws.com/project/154/M_59e9f208577d95.22837623.jpg"/>
+       </div>
+       <div class="lakopark-promotion__info-card">
+        <div class="lakopark-promotion__price">
+         39-124 millió Ft
+        </div>
+        <div class="lakopark-promotion__name">
+         Sasad Liget VI. ütem
+        </div>
+        <div class="lakopark-promotion__location">
+         XI. kerület
+        </div>
+       </div>
+      </a>
+      <a class="lakopark-promotion__project js-lakopark-results-project " data-lakopark-position="9" data-project-id="180" href="//lakopark.ingatlan.com/sasadresorthilltop" target="_blank">
+       <div class="lakopark-promotion__image">
+        <img alt="Sasad Resort Hilltop by Cordia" src="https://lakopark.s3.amazonaws.com/project/180/M_5acdf7ddd2a706.16428308.jpg"/>
+       </div>
+       <div class="lakopark-promotion__info-card">
+        <div class="lakopark-promotion__price">
+         29-136 millió Ft
+        </div>
+        <div class="lakopark-promotion__name">
+         Sasad Resort Hilltop by Cordia
+        </div>
+        <div class="lakopark-promotion__location">
+         XI. kerület
+        </div>
+       </div>
+      </a>
+      <a class="lakopark-promotion__project js-lakopark-results-project " data-lakopark-position="10" data-project-id="188" href="//lakopark.ingatlan.com/terraceresidence4" target="_blank">
+       <div class="lakopark-promotion__image">
+        <img alt="Terrace Residence 4 by Cordia" src="https://lakopark.s3.amazonaws.com/project/188/M_5a956e8a909825.88234698.jpg"/>
+       </div>
+       <div class="lakopark-promotion__info-card">
+        <div class="lakopark-promotion__price">
+         37-158 millió Ft
+        </div>
+        <div class="lakopark-promotion__name">
+         Terrace Residence 4 by Cordia
+        </div>
+        <div class="lakopark-promotion__location">
+         XI. kerület
+        </div>
+       </div>
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="listing js-listing " data-cluster-id="27532449" data-id="27532449">
+   <div class="listing__card">
+    <a class="listing__thumbnail is-empty js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+hengermalom+ut/27532449" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <div class="listing__thumbnail-image no-photo" title="Nincs kép">
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27532449">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+hengermalom+ut/27532449" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.5 M Ft
+        </div>
+        <div class="price--sqm">
+         651 515 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Hengermalom út, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       33 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27532449" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27532449">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing " data-cluster-id="c_4246052" data-id="27761999">
+   <div class="listing__card">
+    <a class="listing__thumbnail is-empty js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+bocskai+ut/27761999" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <div class="listing__thumbnail-image no-photo" title="Nincs kép">
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27761999">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+bocskai+ut/27761999" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.6 M Ft
+        </div>
+        <div class="price--sqm">
+         654 545 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Bocskai út, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       33 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27761999" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27761999">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing listing--cluster-parent js-cluster-parent" data-cluster-id="c_3969820" data-id="27671002">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet/27671002" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/be/79/27671002_160129204_m.jpg"/>
+     <div class="listing__photos-count">
+      5
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27671002">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet/27671002" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.7 M Ft
+        </div>
+        <div class="price--sqm">
+         868 000 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Kelenföld, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       25 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27671002" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27671002">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing listing--cluster-parent js-cluster-parent" data-cluster-id="c_3969820" data-id="27672460">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet/27672460" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/f1/b5/27672460_160143505_m.jpg"/>
+     <div class="listing__photos-count">
+      5
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27672460">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet/27672460" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.7 M Ft
+        </div>
+        <div class="price--sqm">
+         868 000 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Albertfalvai lakótelep, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       25 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27672460" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27672460">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing " data-cluster-id="c_4239758" data-id="27748748">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet/27748748" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/4c/d0/27748748_160939238_m.jpg"/>
+     <div class="listing__photos-count">
+      6
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27748748">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet/27748748" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.7 M Ft
+        </div>
+        <div class="price--sqm">
+         868 000 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Kelenföld – Fehérvári úti lakótelep, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       25 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27748748" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27748748">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing listing--cluster-parent js-cluster-parent" data-cluster-id="c_3969820" data-id="27734459">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+fehervari+ut/27734459" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/c9/60/27734459_160787348_m.jpg"/>
+     <div class="listing__photos-count">
+      5
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27734459">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+fehervari+ut/27734459" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.7 M Ft
+        </div>
+        <div class="price--sqm">
+         868 000 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Fehérvári út, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       25 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27734459" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27734459">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing listing--cluster-parent js-cluster-parent" data-cluster-id="c_4207564" data-id="27688507">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+fehervari+ut/27688507" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/2a/b4/27688507_160313560_m.jpg"/>
+     <div class="listing__photos-count">
+      6
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27688507">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+fehervari+ut/27688507" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.7 M Ft
+        </div>
+        <div class="price--sqm">
+         868 000 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Fehérvári út, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       25 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27688507" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27688507">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="resultspage__m1x-list-item-promotion m1x-list-item-promotion">
+   <div class="m1x-list-item-promotion__image">
+    <div class="m1x-list-item-promotion__image-text--first">
+     Minden
+    </div>
+    <div class="m1x-list-item-promotion__image-text--second">
+     1X
+    </div>
+   </div>
+   <div class="m1x-list-item-promotion__content-area">
+    <div class="m1x-list-item-promotion__text">
+     Lépj be, és minden ingatlant csak egyszer mutatunk.
+    </div>
+    <div class="button--secondary m1x-list-item-promotion__action js-m1x-promo-login">
+     Kipróbálom
+    </div>
+   </div>
+  </div>
+  <div class="listing js-listing listing--cluster-parent js-cluster-parent" data-cluster-id="c_3969820" data-id="27674752">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet/27674752" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/55/00/27674752_160165306_m.jpg"/>
+     <div class="listing__photos-count">
+      5
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27674752">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet/27674752" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.7 M Ft
+        </div>
+        <div class="price--sqm">
+         868 000 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Albertfalvai lakótelep, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       25 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27674752" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27674752">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing listing--cluster-parent js-cluster-parent" data-cluster-id="c_3969820" data-id="27670849">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+kondorosi+ut/27670849" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+      <div class="listing__label label">
+       Kitűnő vétel
+      </div>
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/a4/5f/27670849_160127797_m.jpg"/>
+     <div class="listing__photos-count">
+      5
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27670849">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+kondorosi+ut/27670849" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.7 M Ft
+        </div>
+        <div class="price--sqm">
+         868 000 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Kondorosi út, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       25 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27670849" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27670849">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing " data-cluster-id="c_4113327" data-id="27521508">
+   <div class="listing__card">
+    <a class="listing__thumbnail is-empty js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/panel-lakas/budapest+11+kerulet+fehervari+ut/27521508" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <div class="listing__thumbnail-image no-photo" title="Nincs kép">
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27521508">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/panel-lakas/budapest+11+kerulet+fehervari+ut/27521508" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.7 M Ft
+        </div>
+        <div class="price--sqm">
+         657 576 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Fehérvári út, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       33 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27521508" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27521508">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing " data-cluster-id="c_3908508" data-id="27157956">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+bank+ban+utca/27157956" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/26/af/27157956_155183463_m.jpg"/>
+     <div class="listing__photos-count">
+      12
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27157956">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+bank+ban+utca/27157956" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.7 M Ft
+        </div>
+        <div class="price--sqm">
+         657 576 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Bánk bán utca, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       33 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27157956" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27157956">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing listing--cluster-parent js-cluster-parent" data-cluster-id="c_4184770" data-id="27632035">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet/27632035" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/47/1d/27632035_159895114_m.jpg"/>
+     <div class="listing__photos-count">
+      15
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27632035">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet/27632035" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.95 M Ft
+        </div>
+        <div class="price--sqm">
+         665 152 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Kelenföld, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       33 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27632035" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27632035">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing listing--cluster-parent js-cluster-parent" data-cluster-id="c_3838153" data-id="27047513">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/panel-lakas/budapest+11+kerulet+bartfai+utca/27047513" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/fa/a3/27047513_153873848_m.jpg"/>
+     <div class="listing__photos-count">
+      8
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27047513">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/panel-lakas/budapest+11+kerulet+bartfai+utca/27047513" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.99 M Ft
+        </div>
+        <div class="price--sqm">
+         666 364 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Bártfai utca, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       33 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27047513" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27047513">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing " data-cluster-id="c_4215230" data-id="27701888">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+baranyai+ter/27701888" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+      <div class="listing__label label">
+       Csak nálam
+      </div>
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/27/92/27701888_160453232_ec70_m.jpg"/>
+     <div class="listing__photos-count">
+      7
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27701888">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+baranyai+ter/27701888" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.99 M Ft
+        </div>
+        <div class="price--sqm">
+         785 357 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Baranyai tér, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       28 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27701888" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27701888">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing listing--cluster-parent js-cluster-parent" data-cluster-id="c_3969820" data-id="27584202">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+fehervari+ut+168-178b/27584202" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/44/b2/27584202_159290049_m.jpg"/>
+     <div class="listing__photos-count">
+      6
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__partner-logo-wrapper">
+     <img alt="im_19492" class="listing__partner-logo-image" src="https://ot.ingatlancdn.com/logo/imagemodul/logo19492.gif"/>
+    </div>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27584202">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+fehervari+ut+168-178b/27584202" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.99 M Ft
+        </div>
+        <div class="price--sqm">
+         879 600 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Fehérvári út 168-178/B, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       25 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 + 1 fél szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27584202" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27584202">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing listing--cluster-parent js-cluster-parent" data-cluster-id="c_3838153" data-id="27153144">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/panel-lakas/budapest+11+kerulet+bartfai+utca/27153144" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/fc/c3/27153144_155125620_m.jpg"/>
+     <div class="listing__photos-count">
+      12
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27153144">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/panel-lakas/budapest+11+kerulet+bartfai+utca/27153144" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.99 M Ft
+        </div>
+        <div class="price--sqm">
+         666 364 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Bártfai utca, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       33 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27153144" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27153144">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing listing--cluster-parent js-cluster-parent" data-cluster-id="c_4184770" data-id="27649747">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+hengermalom+ut/27649747" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/2d/90/27649747_159921202_m.jpg"/>
+     <div class="listing__photos-count">
+      11
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27649747">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+hengermalom+ut/27649747" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.99 M Ft
+        </div>
+        <div class="price--sqm">
+         666 364 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Hengermalom út, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       33 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27649747" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27649747">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="listing js-listing " data-cluster-id="c_4175506" data-id="27630169">
+   <div class="listing__card">
+    <a class="listing__thumbnail js-listing-active-area" data-is-own="Saját hirdetés" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+hengermalom+ut/27630169" target="_blank" title="Részletek">
+     <div class="listing__already-seen">
+      <div class="listing__already-seen-text">
+       Megnéztem
+      </div>
+     </div>
+     <div class="listing__labels">
+     </div>
+     <img alt="Részletek" class="listing__image" src="https://ot.ingatlancdn.com/15/48/27630169_159725647_m.jpg"/>
+     <div class="listing__photos-count">
+      13
+      <svg class="listing__photos-icon">
+       <use xlink:href="#material-photo-camera">
+       </use>
+      </svg>
+     </div>
+    </a>
+    <div class="listing__hidden-overlay">
+     <div class="listing__hidden-text">
+      Elrejtetted ezt az ingatlant és az összes hozzá tartozó hirdetést. Legközelebb nem fog megjelenni a találati listában.
+     </div>
+     <button class="listing__hide-undo button--link js-hide-undo" data-id="27630169">
+      <svg aria-hidden="true" class="listing__action-icon--check">
+       <use xlink:href="#material-done">
+       </use>
+      </svg>
+      <span class="listing__hide-undo-text">
+       Megjelenítés
+      </span>
+     </button>
+    </div>
+    <a class="listing__link js-listing-active-area" href="/xi-ker/elado+lakas/tegla-epitesu-lakas/budapest+11+kerulet+hengermalom+ut/27630169" target="_blank">
+     <header class="listing__header">
+      <div class="listing__featured-parameters">
+       <div class="listing__price">
+        <div class="price">
+         21.99 M Ft
+        </div>
+        <div class="price--sqm">
+         666 364 Ft/m
+         <sup>
+          2
+         </sup>
+        </div>
+       </div>
+       <div class="listing__address">
+        Hengermalom út, XI. kerület
+       </div>
+      </div>
+     </header>
+     <div class="listing__parameters">
+      <div class="listing__parameter listing__data--area-size">
+       33 m² terület
+      </div>
+      <div class="listing__parameter listing__data--room-count">
+       1 szoba
+      </div>
+     </div>
+    </a>
+    <div class="listing__actions js-listing-actions">
+     <div class="listing__office-actions js-open-office-menu">
+      <svg aria-hidden="true" class="listing__office-actions-icon">
+       <use xlink:href="#material-more-vert">
+       </use>
+      </svg>
+     </div>
+     <div class="listing__actions-wrapper">
+      <button class="listing__action--save button--link js-save-listing" data-id="27630169" data-popup="false">
+       <span class="listing__action-text js-action-text">
+        Mentés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--empty">
+        <use xlink:href="#material-star-empty">
+        </use>
+       </svg>
+       <svg aria-hidden="true" class="listing__action-icon--full">
+        <use xlink:href="#material-star-full">
+        </use>
+       </svg>
+      </button>
+      <button class="listing__action--hide button--link js-show-or-hide-listing" data-id="27630169">
+       <span class="listing__action-text">
+        Elrejtés
+       </span>
+       <svg class="loading-animation listing__action-loader" height="14px" viewbox="25 25 50 50" width="14px" xmlns="http://www.w3.org/2000/svg">
+        <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+        </circle>
+       </svg>
+       <div class="loading-animation--ie-fallback listing__action-loader">
+       </div>
+       <style>
+        @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .listing__action-loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 10px; width: 10px; } }
+       </style>
+       <svg aria-hidden="true" class="listing__action-icon--hide">
+        <use xlink:href="#material-close">
+        </use>
+       </svg>
+      </button>
+     </div>
+    </div>
+    <svg aria-hidden="true" class="listing__action-icon--is-saved">
+     <use xlink:href="#material-star-full">
+     </use>
+    </svg>
+   </div>
+   <div class="listing__duplications js-duplications-container">
+   </div>
+  </div>
+  <div class="saved-search saved-search--white">
+   <svg class="loading-animation saved-search__loader" height="40px" viewbox="25 25 50 50" width="40px" xmlns="http://www.w3.org/2000/svg">
+    <circle class="loading-animation__circle" cx="50" cy="50" fill="none" r="20" stroke="#d35630" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6">
+    </circle>
+   </svg>
+   <div class="loading-animation--ie-fallback saved-search__loader">
+   </div>
+   <style>
+    @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .saved-search__loader::after { border: 2px solid #d35630; border-left-color: transparent; height: 36px; width: 36px; } }
+   </style>
+   <div class="saved-search__graphic">
+    <div class="saved-search-illustration js-saved-search-illustration">
+     <svg class="saved-search-illustration__svg" id="envelope" style="enable-background:new 0 0 160 59.6;" version="1.1" viewbox="0 0 160 59.6" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+      <circle class="saved-search-illustration__circle" cx="50%" cy="50%" r="50">
+      </circle>
+      <path class="saved-search-illustration__envelope" d="M61.8,0l0,59.6l98.2,0L160,0L61.8,0z M97.5,25.1L64.4,53.9l0-50.4C69.4,6.5,83.9,16,97.5,25.1 z M99.8,26.6c3.6,2.4,7.1,4.8,10.3,6.9l0.7,0.5l11-7.2c23.3,20.7,31.6,27.7,34.7,30.1l-91.6,0L99.8,26.6z M124.2,25.3l33.2-21.6 l0,50.5C154.3,51.7,146,44.7,124.2,25.3z M154.2,2.6l-43.3,28.2C85.1,13.6,73.4,6,67.9,2.6L154.2,2.6z">
+      </path>
+      <g class="saved-search-illustration__lines">
+       <rect class="saved-search-illustration__line" height="2.6" width="6.6" x="12.5" y="8.3">
+       </rect>
+       <rect class="saved-search-illustration__line" height="2.6" width="18" x="24.7" y="8.3">
+       </rect>
+       <rect class="saved-search-illustration__line" height="2.6" width="9.6" y="29.1">
+       </rect>
+       <rect class="saved-search-illustration__line" height="2.6" width="13.6" x="15.8" y="29.1">
+       </rect>
+       <rect class="saved-search-illustration__line" height="2.6" width="23.3" x="23.3" y="49.7">
+       </rect>
+      </g>
+     </svg>
+    </div>
+   </div>
+   <div class="saved-search__content">
+    <div class="saved-search__form-copy">
+     <div class="saved-search__form-header js-form-header">
+      Szeretnéd megkapni a legújabb hirdetéseket?
+     </div>
+     <div class="saved-search__form-text js-form-text">
+      Naponta elküldjük emailben a keresésednek megfelelő legújabb hirdetéseket.
+      <a href="https://info.ingatlan.com/hirdetesfigyelo" target="_blank">
+       További információk
+      </a>
+     </div>
+    </div>
+    <form class="saved-search__form js-saved-search-form" data-url="/resultspage/saveSearch" method="post">
+     <div class="form-group js-form-group-accept_eula saved-search__form-item">
+      <label class="checkbox-flexbox form-response__checkbox" for="accept_eula">
+       <input class="js-saved-search-accept_eula" id="accept_eula" name="savedsearch_form[accept_eula]" type="checkbox"/>
+       <span class="checkbox-flexbox__text">
+        <span>
+         Az
+         <a class="saved-search__form-link" href="https://info.ingatlan.com/aszf" target="_blank">
+          Általános Szolgáltatási Feltételeket
+         </a>
+         megismertem és elfogadom
+        </span>
+       </span>
+      </label>
+     </div>
+     <div class="form-group js-form-group-accept_privacy_policy saved-search__form-item">
+      <label class="checkbox-flexbox form-response__checkbox" for="accept_privacy_policy">
+       <input class="js-saved-search-accept_privacy_policy" id="accept_privacy_policy" name="savedsearch_form[accept_privacy_policy]" type="checkbox"/>
+       <span class="checkbox-flexbox__text">
+        <span>
+         Az
+         <a class="saved-search__form-link" href="https://info.ingatlan.com/adatvedelem" target="_blank">
+          Adatvédelmi Szabályzatot
+         </a>
+         tudomásul veszem és elfogadom.
+         <button class="saved-search__form-link js-saved-search-info-popup" type="button">
+          Mi ez?
+         </button>
+        </span>
+       </span>
+      </label>
+     </div>
+     <div class="form-group form-group--inline">
+      <div class="js-form-group-email saved-search__form-email-container">
+       <input class="form-response__input saved-search__form-email js-saved-search-email" id="email" name="savedsearch_form[email]" placeholder="email cím" type="text"/>
+      </div>
+      <input class="js-saved-search-url" id="savedsearch_form[search_url]" name="savedsearch_form[search_url]" type="hidden" value="elado+lakas+v-ker+xi-ker+25-33-m2+ar-szerint"/>
+      <button class="button--secondary saved-search__form-submit js-saved-search-submit" disabled="" type="submit">
+       kérem a Hirdetésfigyelőt
+      </button>
+     </div>
+    </form>
+    <div class="js-saved-search-message-container">
+    </div>
+   </div>
+  </div>
+  <script id="saved-search-message-success" type="text/x-template">
+   <div class="saved-search__message--success">
+        <h3 class="saved-search__message-title">Hirdetésfigyelő beállítva</h3>
+        <p class="saved-search__message-content">
+            Ezt a keresést a <a href="/mentett-keresesek" class="saved-search__message-url">Mentett Kereséseim</a> oldalon szerkesztheted vagy törölheted.            A mostani találatokat is nézd végig, hiszen csak az újakat fogod holnap emailben megkapni.</p>
+    </div>
+  </script>
+  <script id="saved-search-message-need-activation" type="text/x-template">
+   <div class="saved-search__message--error">
+        <p class="saved-search__message-title">Kérjük, aktiváld az email címed!</p>
+        <p>
+            Az első feliratkozáskor elküldtünk neked (<span id="saved-search-variable__email"></span>) egy aktiváló linket.
+            A linkre kattintva előbb aktiváld azt és utána tudsz új hirdetésfigyelőt menteni.
+            Köszönjük!        </p>
+    </div>
+  </script>
+  <script id="saved-search-message-error" type="text/x-template">
+   <div class="saved-search__message--error">
+        <p class="saved-search__message-title">
+            Hiba történt, nem tudtuk elmenteni a feliratkozásod. Próbálkozz újra később!        </p>
+    </div>
+  </script>
+  <script id="saved-search-message-email-validation-error" type="text/x-template">
+   <div class="saved-search__message--error">
+        <p class="saved-search__message-title">
+            Az általad megadott email cím hibás.        </p>
+    </div>
+  </script>
+  <script id="saved-search-form" type="text/x-template">
+   <input type="text" name="email" class="saved-search__form-email js-saved-search-email" placeholder="E-mail címed" value="">
+    <input type="hidden" name="search_url" class="js-saved-search-url" value="elado+lakas+v-ker+xi-ker+25-33-m2+ar-szerint">
+  </script>
+  <nav class="resultspage__pagination pagination">
+   <div class="pagination__inner">
+    <div class="pagination__button-holder js-resultspage-pagination">
+     <a class="pagination__button button--flat button--small" href="https://ingatlan.com/szukites/elado+lakas+v-ker+xi-ker+25-33-m2+ar-szerint?page=2">
+      Előző oldal
+     </a>
+    </div>
+    <div class="pagination__page-number">
+     3 / 14 oldal
+    </div>
+    <div class="pagination__button-holder js-resultspage-pagination">
+     <a class="pagination__button button--flat button--small" href="https://ingatlan.com/szukites/elado+lakas+v-ker+xi-ker+25-33-m2+ar-szerint?page=4">
+      Következő oldal
+     </a>
+    </div>
+   </div>
+  </nav>
+  <div id="report-advert">
+  </div>
+ </div>
+</main>
