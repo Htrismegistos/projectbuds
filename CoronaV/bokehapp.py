@@ -3,135 +3,194 @@ import numpy as np
 import datetime,datetime as dtt
 
 
-#import warnings
-#warnings.filterwarnings('ignore')
-from bokeh.models import ColumnarDataSource, WidgetBox, CheckboxGroup
-from bokeh.layouts import row, WidgetBox, column
-from bokeh.plotting import figure
-from bokeh.models import CategoricalColorMapper, HoverTool, ColumnDataSource, Panel
-from bokeh.models.widgets import CheckboxGroup, Tabs, Select
-from bokeh.palettes import Set1
-from bokeh.io import curdoc
-
-
 def infect(source, *arg):
     '''
     Prepare base dataframe from csv. Add Wold count, null selection
-    
+    Returns timeindex and cols of countries
     '''
+
     df = pd.read_csv(s0)
     df.loc[df['Province/State'] == 'Hong Kong', 'Country/Region'] = 'Hong Kong*'
     df.loc[df['Province/State'] == 'Macau', 'Country/Region'] = 'Macau*'
     df.drop(['Lat','Long','Province/State'], axis = 1, inplace=True)
+    
     # add World count
     df = df.append( pd.Series(['World'], index = ['Country/Region']).append(df.sum()[1:]), ignore_index =True)
-    #add Null selection
-    zeros = pd.Series(np.ones(len(df.columns[1:])), index = df.columns[1:])
-    df = df.append(pd.Series(['No selection'], index = ['Country/Region']).append(zeros),ignore_index = True)
     
-    df = df.groupby('Country/Region').sum()
+    df = df.groupby('Country/Region').sum()   
     df = df.T
+    
+    #add Null selection
+    df['No selection'] = np.NaN
+    
+    #calculate daily increase
+    for i in df.columns:
+        df[i+'_daily'] = df[[i]].diff(axis = 0, periods = 1)
+    
     df.columns.name = 'Country'
     df.index.name = 'Date'
- 
+
     return df
 
+#notebook version top notch version
+import warnings
+warnings.filterwarnings('ignore')
 
-def make_data(a,b,c,d):
-
-    data_cds = pd.DataFrame()
-    selection_sum = a+b+c+d
-    print(selection_sum)
-    s_cds = sick[selection_sum]
-    s_cds.reset_index(inplace= True)
-    s_cds.loc[:,'Date'] = pd.to_datetime(s_cds['Date'])
-    s_cds = pd.melt(s_cds, id_vars= ['Date'], value_vars=s_cds.columns.to_list()[1:])
-    s_cds = ColumnDataSource(s_cds)
-    return s_cds
-
-def make_plot(src):
-    '''
-    makes plots according to the view list
-
-
-    hover_display = {'Date': '@gmDate{(%Y-%m-%d)}'}
-    hover_display = """
-    <div>Display</div
-    <div>Team: @teamAbbr</div>
-    <div><span>Win</span><span style='padding-left:40px; color: red'>@winLoss</span></div>
-
-    '''
-    
-    
-    colour_map = CategoricalColorMapper(factors = np.unique(src.data['Country']), palette = Set1[9])
-    fig_kwargs = {'title' : 'Sick            '
-                  ,'plot_width': 800
-                  ,'plot_height': 200
-                   ,'x_axis_type': 'datetime'
-                  ,'tools': ['pan', 'zoom_in', 'zoom_out', 'reset', 'save']
-                  }
-    plot_kwargs = {'source': src
-                   ,'width': 0.9
-                   ,'fill_color': {'field': 'Country', 'transform': colour_map}
-                  }
-
-    fig = figure(**fig_kwargs)
-    fig.vbar(x='Date',top='value', **plot_kwargs)
-    #fig.add_tools(HoverTool(tooltips= hover_display))
-    
-
-    return fig
-
-def update(attr, old, new):
-
-    chkbox_actives1 = [checkbox_group1.labels[i] for i in checkbox_group1.active]
-    chkbox_actives2 = [checkbox_group2.labels[i] for i in checkbox_group2.active]
-    dropdown1_value = [dropdown1.value]
-    dropdown2_value = [dropdown2.value]
-    
-    new_src = make_data(chkbox_actives1, chkbox_actives2, dropdown1_value,dropdown2_value)
-
-    src.data.update(new_src.data)
-    return src
+from bokeh.io import show, curdoc
+from bokeh.plotting import figure
+from bokeh.layouts import row, WidgetBox, column
+from bokeh.models import ColumnDataSource, WidgetBox
+from bokeh.models import HoverTool, Panel, NumeralTickFormatter
+from bokeh.models.widgets import CheckboxGroup, Tabs, Select
+from bokeh.palettes import Set1
 
 s0 = 'time_series_covid19_confirmed_global.csv'
 s1 = 'time_series_covid19_deaths_global.csv'
-sick = infect(s0)
+arg = []
+sick = infect(s0,*arg)
+dead = infect(s1,*arg)
 
 
-dropdown_list = ['No selection'] + [i for i in sick.columns.to_list() if i not in ['No selection','World','China','US','United Kingdom','Italy','Korea, South']]
+def make_data(selection_sum):
+    '''
+    Creates a column dataset based on interactive filter selection
+    Returns ColumnDataSource.data.keys(): index, Date, Country, value
+    '''
+# create list of column names form selection
+    sel_country = list(set(selection_sum))
+    sel_daily = [i+'_daily' for i in list(set(sel_country))]
 
-checkbox_group1 = CheckboxGroup(
-    labels=['No selection','World','China','US'], active=[0]) #list of checkbox limited
-checkbox_group2 = CheckboxGroup(
-    labels=['No selection','United Kingdom','Italy','Korea, South'], active= [1]) #list of checkbox limited
-dropdown1 = Select(title="Select country",value='No selection',options=dropdown_list)
-dropdown2 = Select(title="Select country",value='No selection',options=dropdown_list)
+    s_cds = sick[sel_country + sel_daily]
+    s_cds.reset_index(inplace= True)
+    s_cds['Date'] = pd.to_datetime(s_cds['Date'])
+    
+    #melts and combine sum values and diff values to a single df
+    a1 = pd.melt(s_cds, id_vars = 'Date', value_vars = sel_country, var_name = 'Country' )
+    a2 = pd.melt(s_cds, id_vars = 'Date', value_vars = sel_daily, var_name = 'Country',value_name = 'value_day' )
+    s_cds = pd.concat([a1,a2['value_day']], axis = 1, ignore_index= True)
+    s_cds.columns = ['Date', 'Country', 'value','value_day']
+    
+    #get rid of empty dates
+    s_cds = s_cds.applymap(lambda x: np.NaN if x == 0 else x)
+    s_cds.dropna(axis = 1, how = 'all', inplace = True)
+          
+    # colourise
+    colour = {i : c for i,c in zip(s_cds['Country'].unique(),Set1[9]) if i!= 'No selection'}
+    colour['No selection'] = '#fafafa'
+    s_cds['colour'] = s_cds['Country'].map(colour)
+    
+    return ColumnDataSource(s_cds)
+
+def make_plot(src):
+    '''
+    Create plot according to fed in cds
+    '''               
+    hover_fig = {'Date': '@Date{%Y-%m-%d}'
+                 ,'Country': '@Country'
+                 ,'Infected': '@value{,000,000}'}
+    hover_fig1 = {'Date': '@Date{%Y-%m-%d}'
+                  ,'Country': '@Country'
+                  ,'Infected': '@value_day{0}'}
+
+    fig_kwargs = {
+                  'plot_width': 800
+                  ,'plot_height': 250
+                  ,'x_axis_type': 'datetime'
+                  ,'toolbar_location': 'above'
+                  ,'tools': ['pan','wheel_zoom','box_zoom','box_select', 'reset']
+                  ,'background_fill_color': '#f1f5fc'
+                  ,'border_fill_color' : '#f1f5fc'
+
+                  }
+    plot_kwargs = {'source': src
+                   ,'hover_fill_color':'red'
+                   ,'hover_color':'red'
+                   ,'hover_alpha': 1
+                   ,'color' : 'colour'
+                   ,'size': 6
+                   ,'selection_color':'red'
+                   ,'nonselection_color':'colour'
+                   #,nonselection_alpha=0.3
+                  }
+    
+    fig = figure(**fig_kwargs 
+                ,title = 'Registered Infected')
+    fig.diamond(x='Date',y='value', **plot_kwargs, legend='Country')
+    
+    fig.add_tools(HoverTool(tooltips=hover_fig,
+                            formatters ={'@Date': 'datetime', '@value': 'numeral'},
+                            mode = 'vline'))
+    fig.legend.location = 'top_left'
+    fig.yaxis.formatter=NumeralTickFormatter(format=",000,000") #format number display
+    fig.ygrid.band_fill_color="olive"  #creates band colouring
+    fig.ygrid.band_fill_alpha = 0.1
+  ##################<<<<<<<<<<<<>>>>>>>>>>#################  
+    fig1 = figure(**fig_kwargs
+                 ,title = 'Daily increase')
+    fig1.diamond(x='Date',y='value_day', **plot_kwargs)
+    fig1.x_range = fig.x_range
+    fig1.add_tools(HoverTool(tooltips=hover_fig1,
+                            formatters ={'@Date': 'datetime', '@value_day': 'numeral'},
+                            mode = 'vline'))
+    fig1.legend.location = 'top_left'
+    fig1.yaxis.formatter=NumeralTickFormatter(format=",000,000") #format number display
+    fig1.ygrid.band_fill_color="olive"  #creates band colouring
+    fig1.ygrid.band_fill_alpha = 0.1
+
+    layout = (column(fig,fig1))
+    return layout
+
+def update(attr, old, new):
+    
+    
+    chkbox_actives1 = [checkbox_group1.labels[i] for i in checkbox_group1.active]
+    chkbox_actives2 = [checkbox_group2.labels[i] for i in checkbox_group2.active]
+    drpbox_actives3 = [drop_box_group3.value]
+    drpbox_actives4 = [drop_box_group4.value]
+           
+    selection_sum = chkbox_actives1+chkbox_actives2+drpbox_actives3+drpbox_actives4
+
+    new_src = make_data(selection_sum)            
+    src.data.update(new_src.data)
+    
+    return src
 
 
-checkbox_group1.on_change('active', update)
-checkbox_group2.on_change('active', update)
-dropdown1.on_change('value', update)
-dropdown2.on_change('value', update)
 
-controls1 = WidgetBox(checkbox_group1, sizing_mode = 'fixed', height= 80, width = 150) 
-controls2 = WidgetBox(checkbox_group2, sizing_mode = 'fixed', height= 80, width = 150)
-controls3 = WidgetBox(dropdown1, sizing_mode = 'fixed', height= 50, width = 120)
-controls4 = WidgetBox(dropdown2, sizing_mode = 'fixed', height= 50, width = 120)
+#make selection list without listing checkbox values
+dropdown_list = ['No selection'] + [i for i in sick.columns.to_list() \
+                if i not in ['No selection', 'World', 'China', 'US', 'United Kingdom','Korea, South','Italy']]
 
+checkbox_group1 = CheckboxGroup(labels=['World','China','US'], active=[0])
+checkbox_group2 = CheckboxGroup(labels=['United Kingdom','Italy','Korea, South'], active= [0])
+drop_box_group3 = Select(title="Select country",value='No selection',options=dropdown_list)
+drop_box_group4 = Select(title="Select country",value='No selection',options=dropdown_list)
 
 start_selection1 = [checkbox_group1.labels[i] for i in checkbox_group1.active]
 start_selection2 = [checkbox_group2.labels[i] for i in checkbox_group2.active]
-dropdown1_start_value = [dropdown1.value]
-dropdown2_start_value = [dropdown2.value]
+start_selection3 = [drop_box_group3.value]
+start_selection4 = [drop_box_group4.value]
+
+checkbox_group1.on_change('active', update)
+checkbox_group2.on_change('active', update)
+drop_box_group3.on_change('value', update)
+drop_box_group4.on_change('value', update)
 
 
-src = make_data(start_selection1, start_selection2, dropdown1_start_value,dropdown2_start_value)
+controls1 = WidgetBox(checkbox_group1, sizing_mode = 'fixed', height= 80, width = 120) 
+controls2 = WidgetBox(checkbox_group2, sizing_mode = 'fixed', height= 80, width = 120)
+controls3 = WidgetBox(drop_box_group3, sizing_mode = 'fixed', height= 80, width = 120)
+controls4 = WidgetBox(drop_box_group4, sizing_mode = 'fixed', height= 80, width = 120)
+
+
+start_sum  = start_selection1 + start_selection2 +start_selection3 + start_selection4 
+src = make_data(start_sum)
 
 fig = make_plot(src)
 
 layout = column(row(controls1,controls2, controls3, controls4),fig)
-tab = Panel(child=layout, title = 'wins')
-tabs = Tabs(tabs=[tab])
+tab = Panel(child=layout, title = 'please go : www.oprem.co.uk')
+tabs = Tabs(tabs=[tab], background = '#f1f5fc')
 
 curdoc().add_root(tabs)
+
