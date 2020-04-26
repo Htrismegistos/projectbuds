@@ -1,16 +1,22 @@
 import pandas as pd
 import numpy as np
-import datetime,datetime as dtt
 import warnings
 warnings.filterwarnings('ignore')
 
-from bokeh.io import show, curdoc
+from bokeh.io import show, output_notebook, curdoc
 from bokeh.plotting import figure
 from bokeh.layouts import row, WidgetBox, column
-from bokeh.models import ColumnDataSource, WidgetBox
+from bokeh.application import Application
+from bokeh.application.handlers import FunctionHandler
+from bokeh.models import ColumnDataSource, WidgetBox, Div
 from bokeh.models import HoverTool, Panel, NumeralTickFormatter
 from bokeh.models.widgets import CheckboxGroup, Tabs, Select
-from bokeh.palettes import Set1
+
+sick = pd.read_csv('final_data.csv', index_col = 'Date')
+col_list = [ i for i in sick.columns if 'dead' not in i and 'daily' not in i]
+colour_list = ['#1f77b4','#ff7f0e', '#2ca02c', '#9467bd', '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22','#17becf']
+
+
 
 def make_data(selection_sum):
     '''
@@ -42,11 +48,12 @@ def make_data(selection_sum):
     s_cds.dropna(axis = 1, how = 'all', inplace = True)
           
     # colourise
-    colour = {i : c for i,c in zip(s_cds['Country'].unique(),Set1[9]) if i!= 'No selection'}
+    colour = {i : c for i,c in zip(s_cds['Country'].unique(),colour_list) if i!= 'No selection'}
     colour['No selection'] = '#fafafa'
     s_cds['colour'] = s_cds['Country'].map(colour)
     
     return ColumnDataSource(s_cds)
+
 def make_plot(src):
     '''
     Create plot according to fed in cds
@@ -57,6 +64,12 @@ def make_plot(src):
     hover_fig1 = {'Date': '@Date{%Y-%m-%d}'
                      ,'Country': '@Country'
                     ,'Infected': '@value_day{0}'}
+    hover_fig2 = {'Date': '@Date{%Y-%m-%d}'
+                     ,'Country': '@Country'
+                    ,'Dead': '@value_dead{0}'}
+    hover_fig3 = {'Date': '@Date{%Y-%m-%d}'
+                     ,'Country': '@Country'
+                    ,'Dead': '@value_day_dead{0}'}
 
     fig_kwargs = {
                   'plot_width': 700
@@ -107,7 +120,7 @@ def make_plot(src):
                  ,title = 'Total dead')
     fig2.diamond(x='Date',y='value_dead', **plot_kwargs)
     fig2.x_range = fig.x_range
-    fig2.add_tools(HoverTool(tooltips=hover_fig1,
+    fig2.add_tools(HoverTool(tooltips=hover_fig2,
                             formatters ={'@Date': 'datetime', '@value_dead': 'numeral'},
                             mode = 'vline'))
     fig2.legend.location = 'top_left'
@@ -119,7 +132,7 @@ def make_plot(src):
                  ,title = 'Daily increase dead')
     fig3.diamond(x='Date',y='value_day_dead', **plot_kwargs)
     fig3.x_range = fig.x_range
-    fig3.add_tools(HoverTool(tooltips=hover_fig1,
+    fig3.add_tools(HoverTool(tooltips=hover_fig3,
                             formatters ={'@Date': 'datetime', '@value_day_dead': 'numeral'},
                             mode = 'vline'))
     fig3.legend.location = 'top_left'
@@ -129,7 +142,7 @@ def make_plot(src):
     
     
 
-    layout1 = (column(fig,fig1,fig2,fig3))
+    layout1 =column(fig,fig1,fig2,fig3)
     layout2 =row(column(fig,fig1),column(fig2,fig3))
     return layout1,layout2
 
@@ -148,11 +161,9 @@ def update(attr, old, new):
     
     return src
 
-#sourc declaration
-sick = pd.read_csv('final_data.csv', index_col = 'Date')
-col_list = [ i for i in sick.columns if 'dead' not in i and 'daily' not in i]
 
-#make selection list without listing checkbox values
+
+#make selection list excuding checkbox values
 dropdown_list = ['No selection'] + [i for i in col_list \
                 if i not in ['No selection', 'World', 'China', 'US', 'United Kingdom','Korea, South','Italy']]
 
@@ -188,6 +199,7 @@ roLayout = column(row(controls1,controls2, controls3, controls4),fig[1])
 colPanel = Panel(child = coLayout, title = '1x4 Layout')
 rowPanel = Panel(child = roLayout, title = '2x2 Layout')
 tabs = Tabs(tabs=[colPanel,rowPanel])
+
 
 curdoc().add_root(tabs)
 
