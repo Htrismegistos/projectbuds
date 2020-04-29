@@ -153,7 +153,7 @@ def details(urls, district):
         print(n,'\t',i)
         if 'ingatlanok.hu' in i:
             try:
-                back = simple(i)               
+                back = _simple(i)               
                 txt = back.get_text()
 
                 if 'Azonosító:' in txt:             
@@ -163,7 +163,7 @@ def details(urls, district):
             
         elif 'oc.hu' in i:
             try:
-                back = simple(i)               
+                back = _simple(i)               
                 txt = back.get_text()
                 
                 if 'Regisztrációs szám:' in txt:             
@@ -172,7 +172,7 @@ def details(urls, district):
             
         else:
             try:
-                back = simple(i)               
+                back = _simple(i)               
                 txt = back.get_text()
                 
                 if 'Parkolás' in txt or 'Ingatlan állapota' in txt:             
@@ -195,7 +195,6 @@ def details(urls, district):
     return
 
 #execute
-    
 for i in ['V','VI', 'XI']:
     urls = searchPage(i)
     details(urls,i)
