@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import datetime as dt
 import requests
-import json
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -13,7 +12,7 @@ from bokeh.application import Application
 from bokeh.application.handlers import FunctionHandler
 from bokeh.models import ColumnDataSource, WidgetBox, Div
 from bokeh.models import HoverTool, Panel, NumeralTickFormatter
-from bokeh.models.widgets import CheckboxGroup, Tabs, Select, RadioButtonGroup
+from bokeh.models.widgets import CheckboxGroup, Tabs, Select
 
 def infect(source):
     '''
@@ -44,7 +43,7 @@ def infect(source):
     #df.to_csv('clean_'+source, index= False)
     return df             
         
-def make_data(selection_sum, norm = 0):
+def make_data(selection_sum):
     '''
     Creates a column dataset based on interactive filter selection
     Returns ColumnDataSource.data.keys(): index, Date, Country, value
@@ -61,24 +60,7 @@ def make_data(selection_sum, norm = 0):
     sel_dead = [i+'_dead' for i in sel_country]
     sel_daily_dead = [i+'_dead' for i in sel_daily]
 
-    df = sick[sel_country + sel_daily + sel_dead+ sel_daily_dead]
-    
-    #normalise with 100.000 population
-    if norm != 0:
-        try:
-            sel_country.remove('No selection')
-        except: None
-        
-        temp = pd.DataFrame()
-        for i in sel_country:
-            
-            n = (pop['data'][i])
-            temp1 = df.loc[:,[ii for ii in df.columns if i in ii]] / (n)
-            temp = pd.concat((temp, temp1), axis = 1) 
-            #print(temp1)
-            s_cds = temp
-    else: s_cds = df.copy()
-        
+    s_cds = sick[sel_country + sel_daily + sel_dead+ sel_daily_dead]
     s_cds.reset_index(inplace= True)
 
     s_cds['Date'] = pd.to_datetime(s_cds['Date'])
@@ -201,44 +183,42 @@ def update(attr, old, new):
     drpbox_act3 = [drop_box_group3.value]
     drpbox_act4 = [drop_box_group4.value]
     drpbox_act5 = [drop_box_group5.value]
-    radiob_act6 = radiobuttgroup6.active
-    print(radiob_act6)
+           
     selection_sum = chkbox_act1+chkbox_act2+drpbox_act3+drpbox_act4+drpbox_act5
 
-    new_src = make_data(selection_sum,radiob_act6)            
+    new_src = make_data(selection_sum)            
     src.data.update(new_src.data)
-
-    return src
     
-#data acquisition
+    return src
+# getting the data
+    
 sick = pd.read_csv('final_data.csv', index_col = 'Date')
-pop = json.load(open('population_covid.json'))
 col_list = [ i for i in sick.columns if 'dead' not in i and 'daily' not in i]
 colour_list = ['#1f77b4','#ff7f0e', '#2ca02c', '#9467bd', '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22','#17becf']
 
-yesterday = dt.datetime.now().date() - dt.timedelta(days= 1)
+yesterday = dt.datetime.now().date() - dt.timedelta(days = 1)           
 if sick.iloc[-1,0] != dt.datetime.strftime(yesterday,'%m/%d/%y'):
-
+    
     confirmed_global = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
     dead_global = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv'
-
+    
     #list of sources
     pull = [confirmed_global,dead_global]
     save = ['global_confirmed.csv',\
     'global_dead.csv']
-
+    
     for p,s in zip(pull,save):
         r = requests.get(p).text
         with open(s, 'w') as f:
             f.write(r)
-
+    
     conf = infect('global_confirmed.csv')
     dead = infect('global_dead.csv')
     dead.columns = [i+'_dead' for i in dead.columns]
-
+    
     sick = pd.concat((conf,dead), axis = 1) 
     sick.to_csv('final_data.csv')
-
+     
 
 #make selection list excuding checkbox values
 dropdown_list = ['No selection'] + [i for i in col_list \
@@ -249,37 +229,33 @@ checkbox_group2 = CheckboxGroup(labels=['United Kingdom','Italy','Korea, South']
 drop_box_group3 = Select(title="Select country",value='No selection',options=dropdown_list)
 drop_box_group4 = Select(title="Select country",value='No selection',options=dropdown_list)
 drop_box_group5 = Select(title="Select country",value='No selection',options=dropdown_list)
-radiobuttgroup6 = RadioButtonGroup(labels=['Absolute', 'Normalized'], active=1)
 
 start_sel1 = [checkbox_group1.labels[i] for i in checkbox_group1.active]
 start_sel2 = [checkbox_group2.labels[i] for i in checkbox_group2.active]
 start_sel3 = [drop_box_group3.value]
 start_sel4 = [drop_box_group4.value]
 start_sel5 = [drop_box_group5.value]
-start_sel6 = radiobuttgroup6.active
 
 checkbox_group1.on_change('active', update)
 checkbox_group2.on_change('active', update)
 drop_box_group3.on_change('value', update)
 drop_box_group4.on_change('value', update)
 drop_box_group5.on_change('value', update)
-radiobuttgroup6.on_change('active', update)
 
 
-ctrl1 = WidgetBox(checkbox_group1, sizing_mode = 'fixed', height= 80, width = 120) 
-ctrl2 = WidgetBox(checkbox_group2, sizing_mode = 'fixed', height= 80, width = 120)
-ctrl3 = WidgetBox(drop_box_group3, sizing_mode = 'fixed', height= 80, width = 120)
-ctrl4 = WidgetBox(drop_box_group4, sizing_mode = 'fixed', height= 80, width = 120)
-ctrl5 = WidgetBox(drop_box_group5, sizing_mode = 'fixed', height= 80, width = 120)
-ctrl6 = WidgetBox(radiobuttgroup6, sizing_mode = 'fixed', height= 80, width = 120)
+controls1 = WidgetBox(checkbox_group1, sizing_mode = 'fixed', height= 80, width = 120) 
+controls2 = WidgetBox(checkbox_group2, sizing_mode = 'fixed', height= 80, width = 120)
+controls3 = WidgetBox(drop_box_group3, sizing_mode = 'fixed', height= 80, width = 120)
+controls4 = WidgetBox(drop_box_group4, sizing_mode = 'fixed', height= 80, width = 120)
+controls5 = WidgetBox(drop_box_group5, sizing_mode = 'fixed', height= 80, width = 120)
 
 start_sum  = start_sel1 + start_sel2 +start_sel3 + start_sel4 + start_sel5 
-src = make_data(start_sum, start_sel6)
+src = make_data(start_sum)
 
 fig = make_plot(src)
 
-coLayout = column(row(ctrl1,ctrl2, ctrl3, ctrl4,ctrl5, ctrl6),fig[0])
-roLayout = column(row(ctrl1,ctrl2, ctrl3, ctrl4,ctrl5, ctrl6),fig[1])
+coLayout = column(row(controls1,controls2, controls3, controls4,controls5),fig[0])
+roLayout = column(row(controls1,controls2, controls3, controls4,controls5),fig[1])
 colPanel = Panel(child = coLayout, title = '1x4 Layout')
 rowPanel = Panel(child = roLayout, title = '2x2 Layout')
 tabs = Tabs(tabs=[colPanel,rowPanel])
