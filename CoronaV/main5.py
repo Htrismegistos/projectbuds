@@ -6,9 +6,13 @@ import json
 import warnings
 warnings.filterwarnings('ignore')
 
+from bokeh.io import show, output_notebook, curdoc
 from bokeh.plotting import figure
 from bokeh.layouts import row, WidgetBox, column
-from bokeh.models import HoverTool, Panel, NumeralTickFormatter, ColumnDataSource
+from bokeh.application import Application
+from bokeh.application.handlers import FunctionHandler
+from bokeh.models import ColumnDataSource, WidgetBox, Div
+from bokeh.models import HoverTool, Panel, NumeralTickFormatter
 from bokeh.models.widgets import CheckboxGroup, Tabs, Select, RadioButtonGroup
 
 def infect(source):
@@ -48,24 +52,25 @@ def make_data(selection_sum, norm = 0):
     
     # create list of column names form selection
     ##remove 'No selection' from the list if there are others selected
-    if len(selection_sum) >1 :
-        selection_sum = [i for i in selection_sum if i != 'No selection']
-    else : selection_sum = selection_sum
+    sel_country = list(set(selection_sum))
+    if len(sel_country) >1 :
+        sel_country = [i for i in sel_country if i != 'No selection']
+    else : sel_country = sel_country
         
-    sel_daily = [i+'_daily' for i in list(set(selection_sum))]
-    sel_dead = [i+'_dead' for i in selection_sum]
+    sel_daily = [i+'_daily' for i in list(set(sel_country))]
+    sel_dead = [i+'_dead' for i in sel_country]
     sel_daily_dead = [i+'_dead' for i in sel_daily]
 
-    df = sick[selection_sum + sel_daily + sel_dead+ sel_daily_dead]
+    df = sick[sel_country + sel_daily + sel_dead+ sel_daily_dead]
     
     #normalise with 100.000 population
     if norm != 0:
         try:
-            selection_sum.remove('No selection')
+            sel_country.remove('No selection')
         except: None
         
         temp = pd.DataFrame()
-        for i in selection_sum:
+        for i in sel_country:
             
             n = (pop['data'][i])
             temp1 = df.loc[:,[ii for ii in df.columns if i in ii]] / (n)
@@ -79,7 +84,7 @@ def make_data(selection_sum, norm = 0):
     s_cds['Date'] = pd.to_datetime(s_cds['Date'])
 
     #melts and combine sum values and diff values to a single df
-    a1 = pd.melt(s_cds, id_vars = 'Date', value_vars = selection_sum, var_name = 'Country' )
+    a1 = pd.melt(s_cds, id_vars = 'Date', value_vars = sel_country, var_name = 'Country' )
     a2 = pd.melt(s_cds, id_vars = 'Date', value_vars = sel_daily, var_name = 'Country',value_name = 'value_day' )
     a3 = pd.melt(s_cds, id_vars = 'Date', value_vars = sel_dead, var_name = 'Country',value_name = 'value_dead' )
     a4 = pd.melt(s_cds, id_vars = 'Date', value_vars = sel_daily_dead, var_name = 'Country',value_name = 'value_day_dead' )
@@ -197,11 +202,9 @@ def update(attr, old, new):
     drpbox_act4 = [drop_box_group4.value]
     drpbox_act5 = [drop_box_group5.value]
     radiob_act6 = radiobuttgroup6.active
-    print('Data type: {}'.format(radiob_act6))
+    print(radiob_act6)
     selection_sum = chkbox_act1+chkbox_act2+drpbox_act3+drpbox_act4+drpbox_act5
-    
-    selection_sum = list(set(selection_sum))
-    print('Countries: {}'.format(selection_sum))
+
     new_src = make_data(selection_sum,radiob_act6)            
     src.data.update(new_src.data)
 
