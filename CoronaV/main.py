@@ -3,42 +3,43 @@ import numpy as np
 import datetime as dt
 import requests
 import json
+import psycopg2 
+import os
 import warnings
 warnings.filterwarnings('ignore')
 
+from bokeh.io import curdoc
 from bokeh.plotting import figure
 from bokeh.layouts import row, WidgetBox, column
 from bokeh.models import HoverTool, Panel, NumeralTickFormatter, ColumnDataSource
 from bokeh.models.widgets import CheckboxGroup, Tabs, Select, RadioButtonGroup
 
-def infect(source):
-    '''
-    Prepare base dataframe from csv. Add Wold count, null selection
-    Returns timeindex and cols of countries saved as .csv
-    '''
-    df = pd.read_csv(source)
-    df.loc[df['Province/State'] == 'Hong Kong', 'Country/Region'] = 'Hong Kong*'
-    df.loc[df['Province/State'] == 'Macau', 'Country/Region'] = 'Macau*'
-    df.drop(['Lat','Long','Province/State'], axis = 1, inplace=True)
-    
-    # add World count
-    df = df.append( pd.Series(['World'], index = ['Country/Region']).append(df.sum()[1:]), ignore_index =True)
-    
-    df = df.groupby('Country/Region').sum()   
-    df = df.T
-    
-    #add Null selection
-    df['No selection'] = np.NaN
-    
-    #calculate daily increase
-    for i in df.columns:
-        df[i+'_daily'] = df[[i]].diff(axis = 0, periods = 1)
-    
-    df.columns.name = 'Country'
+
+def connect():
+    """
+    Query all data from Postgres DB 
+    Return df
+    """
+    DATABASE_URL = os.environ['DATABASE_URL']
+
+    with psycopg2.connect(DATABASE_URL, sslmode = 'require') as conn:
+        q = """
+        SELECT * FROM country;
+        
+        """
+        
+        cur = conn.cursor()
+        cur.execute(q)
+        data = cur.fetchall()
+        conn.commit()   
+    cols = [i[0] for i in cur.description]
+    df = pd.DataFrame(data, columns = cols)
+    df.set_index('Date', inplace =True)
+    df = df.astype(float)
+    df.columns.name = 'Columns'
     df.index.name = 'Date'
-    
-    #df.to_csv('clean_'+source, index= False)
-    return df             
+    df.index = pd.to_datetime(df.index)
+    return df          
         
 def make_data(selection_sum, norm = 0):
     '''
@@ -208,34 +209,10 @@ def update(attr, old, new):
     return src
     
 #data acquisition
-sick = pd.read_csv('final_data.csv', index_col = 'Date')
+sick = connect()
 pop = json.load(open('population_covid.json'))
 col_list = [ i for i in sick.columns if 'dead' not in i and 'daily' not in i]
 colour_list = ['#1f77b4','#ff7f0e', '#2ca02c', '#9467bd', '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22','#17becf']
-
-yesterday = dt.datetime.now().date() - dt.timedelta(days= 1)
-if sick.iloc[-1,0] != dt.datetime.strftime(yesterday,'%m/%d/%y'):
-
-    confirmed_global = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
-    dead_global = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv'
-
-    #list of sources
-    pull = [confirmed_global,dead_global]
-    save = ['global_confirmed.csv',\
-    'global_dead.csv']
-
-    for p,s in zip(pull,save):
-        r = requests.get(p).text
-        with open(s, 'w') as f:
-            f.write(r)
-
-    conf = infect('global_confirmed.csv')
-    dead = infect('global_dead.csv')
-    dead.columns = [i+'_dead' for i in dead.columns]
-
-    sick = pd.concat((conf,dead), axis = 1) 
-    sick.to_csv('final_data.csv')
-
 
 #make selection list excuding checkbox values
 dropdown_list = ['No selection'] + [i for i in col_list \
