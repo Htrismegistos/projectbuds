@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
     #urls
+    
+'''
 url1a = 'https://ingatlan.com/szukites/elado+lakas+xi-ker+48-55-m2+ar-szerint?page='
 url1b = 'https://ingatlan.com/szukites/elado+lakas+vi-ker+38-55-m2+ar-szerint?page='
 url2 = 'https://ingatlanok.hu/elado/lakas+haz/budapest-v-ker:25nm-tol;33nm-ig?record=0&num=100'
@@ -12,7 +14,7 @@ url3b = 'https://www.oc.hu/ingatlanok/lista/oldalszam:48/rendezes:relevance/felh
 url1 = 'https://ingatlan.com/szukites/elado+lakas+v-ker+25-33-m2+ar-szerint?page='
 url2 = 'https://ingatlanok.hu/elado/lakas+haz/budapest-v-ker:25nm-tol;33nm-ig?record=0&num=100'
 url3 = 'https://www.oc.hu/ingatlanok/lista/oldalszam:48/rendezes:relevance/felhasznalas:elado/jogi-status:hasznalt/tipus:flat/stilus:brick,/hely-ertek:budapest05-kerulet/hely-id:budapest05-kerulet,/netto-alapterulet:28~33/emelet:1,8'
-    
+'''  
 
 # libraries
 import requests
@@ -197,4 +199,6 @@ def details(urls, district):
 #execute
 for i in ['V','VI', 'XI']:
     urls = searchPage(i)
+    with open('allurls.csv', 'w') as f:
+    	f.write('%s' % urls)
     details(urls,i)
