@@ -25,7 +25,7 @@ import warnings
 warnings.filterwarnings('ignore')
 import datetime as dtime
 import time
-import pandas as pd
+import certifi
 
 #ingatlan.com, multi-page
 def _multi_get(url, n):
@@ -40,7 +40,9 @@ def _multi_get(url, n):
     urls = []
     link = url + str(n)
     print(link)
-    http = urllib3.PoolManager(headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0'})
+    http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', \
+                             ca_certs=certifi.where(), \ 
+                             headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0'})
     response = http.request('GET', link)
     soup = BeautifulSoup(response.data, 'lxml')
     l = soup.find_all('div', attrs = {'class': 'listing js-listing listing--cluster-parent js-cluster-parent'})
