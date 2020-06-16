@@ -41,7 +41,7 @@ def _multi_get(url, n):
     link = url + str(n)
     print(link)
     http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', \
-                             ca_certs=certifi.where(), \ 
+                             ca_certs=certifi.where(),
                              headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0'})
     response = http.request('GET', link)
     soup = BeautifulSoup(response.data, 'lxml')
