@@ -4,9 +4,9 @@
 '''
 url1a = 'https://ingatlan.com/szukites/elado+lakas+xi-ker+48-55-m2+ar-szerint?page='
 url1b = 'https://ingatlan.com/szukites/elado+lakas+vi-ker+38-55-m2+ar-szerint?page='
-url2 = 'https://ingatlanok.hu/elado/lakas/budapest-v-ker/25nm-tol;33nm-ig?page='
-url2a = 'https://ingatlanok.hu/elado/lakas/budapest-xi-ker/48nm-tol;55nm-ig?page='
-url2b = 'https://ingatlanok.hu/elado/lakas/budapest-vi-ker/38nm-tol;55nm-ig?page='
+url2 = 'https://ingatlanok.hu/elado/lakas+haz/budapest-v-ker:25nm-tol;33nm-ig?record=0&num=100'
+url2a = 'https://ingatlanok.hu/elado/lakas+haz/budapest-xi-ker:48nm-tol;55nm-ig?record=0&num=100'
+url2b = 'https://ingatlanok.hu/elado/lakas+haz/budapest-vi-ker:38nm-tol;55nm-ig?record=0&num=100'
 url3 = 'https://www.oc.hu/ingatlanok/lista/oldalszam:48/rendezes:relevance/felhasznalas:elado/jogi-status:hasznalt/tipus:flat/stilus:brick,/hely-ertek:budapest05-kerulet/hely-id:budapest05-kerulet,/netto-alapterulet:28~33/emelet:1,8'
 url3a = 'https://www.oc.hu/ingatlanok/lista/oldalszam:48/rendezes:relevance/felhasznalas:elado/jogi-status:hasznalt/tipus:flat/stilus:brick,/hely-ertek:budapest11-kerulet/hely-id:budapest11-kerulet,/netto-alapterulet:45~55/emelet:1,8'
 url3b = 'https://www.oc.hu/ingatlanok/lista/oldalszam:48/rendezes:relevance/felhasznalas:elado/jogi-status:hasznalt/tipus:flat/stilus:brick,/hely-ertek:budapest06-kerulet/hely-id:budapest06-kerulet,/netto-alapterulet:38~55/emelet:1,8'
@@ -26,10 +26,9 @@ warnings.filterwarnings('ignore')
 import datetime as dtime
 import time
 import certifi
-import os
 
-#multi-page
-def _get_url(url, n):
+#ingatlan.com, multi-page
+def _multi_get(url, n):
     '''
     gets multipages session based webpages like search results specialized to ingatlan.com site
     
@@ -42,47 +41,42 @@ def _get_url(url, n):
     link = url + str(n)
     print(link)
     http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', \
-                             ca_certs=certifi.where(), \
-                            headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0'})
+                             ca_certs=certifi.where(),
+                             headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0'})
     response = http.request('GET', link)
     soup = BeautifulSoup(response.data, 'lxml')
-    
-    if 'https://ingatlan.com/' in link: 
-        l = soup.find_all('div', attrs = {'class': 'listing js-listing listing--cluster-parent js-cluster-parent'})
-        l = l + (soup.find_all('div', attrs = {'class': 'listing js-listing'}))
-        for i in l:
+    l = soup.find_all('div', attrs = {'class': 'listing js-listing listing--cluster-parent js-cluster-parent'})
+    l = l + (soup.find_all('div', attrs = {'class': 'listing js-listing'}))
+    for i in l:
             urls.append('https://ingatlan.com'+i.find('a')['href'])
-            
-    elif 'https://ingatlanok.hu/' in link:
-        urls =[i['href'] for i in soup.find_all('a', attrs={'class': 'zi1'})]
     
     return urls
 
 def _multipagesSearch(url , v=10):
     '''
-    wrapper for _get_url(url, n) to introduce timer between page download 
+    wrapper for _multi_get(url, n) to introduce timer between page download 
     url for URL,
     v for number of pages to return
     
-    _get_url:
+    _multi_get:
     gets multipages session based webpages like search results specialized to ingatlan.com site
     
-    returns all ad specific urls in list
+    returns ad specific url in list
     '''
     i=1
     while i <= v:
-        onepage = _get_url(url, n=i)
+        text = _multi_get(url, n=i)
         
-        if 'allpages' in locals():
-            allpages = allpages + onepage
-        else: allpages = onepage
+        if 'csvtext' in locals():
+            csvtext = csvtext + text
+        else: csvtext = text
             
         time.sleep(1)
         i += 1
-    return allpages
+    return csvtext
 
-#one page
-def _onepageSearch(url):
+#ingatlanok.hu, oc.hu, one page
+def _simpleSearch(url):
     '''
     gets simple one page website from the URL
     
@@ -103,47 +97,34 @@ def _onepageSearch(url):
             url_list.append('https://www.oc.hu'+i.find_all('a')[0]['href'])
     return url_list
 
-#compose for searchPage url retrieval
+#compose for searPage url retrieval
 def searchPage(district):
     '''
     retrives the search page results ad's url into a [list] according to the given district.
     Options:
     District: 'V', 'VI','XI'
     '''
-    
     if district == 'V':
         url1 = 'https://ingatlan.com/szukites/elado+lakas+v-ker+25-33-m2+ar-szerint?page='
-        url2 = 'https://ingatlanok.hu/elado/lakas/budapest-v-ker/25nm-tol;33nm-ig?page='
+        url2 = 'https://ingatlanok.hu/elado/lakas+haz/budapest-v-ker:25nm-tol;33nm-ig?record=0&num=100'
         url3 = 'https://www.oc.hu/ingatlanok/lista/oldalszam:48/rendezes:relevance/felhasznalas:elado/jogi-status:hasznalt/tipus:flat/stilus:brick,/hely-ertek:budapest05-kerulet/hely-id:budapest05-kerulet,/netto-alapterulet:28~33/emelet:1,8'
     elif district == 'VI':
         url1 = 'https://ingatlan.com/szukites/elado+lakas+vi-ker+38-55-m2+ar-szerint?page='
-        url2 = 'https://ingatlanok.hu/elado/lakas/budapest-vi-ker/38nm-tol;55nm-ig?page='
+        url2 = 'https://ingatlanok.hu/elado/lakas+haz/budapest-vi-ker:38nm-tol;55nm-ig?record=0&num=100'
         url3 = 'https://www.oc.hu/ingatlanok/lista/oldalszam:48/rendezes:relevance/felhasznalas:elado/jogi-status:hasznalt/tipus:flat/stilus:brick,/hely-ertek:budapest06-kerulet/hely-id:budapest06-kerulet,/netto-alapterulet:38~55/emelet:1,8'
     elif district == 'XI':
         url1 = 'https://ingatlan.com/szukites/elado+lakas+xi-ker+48-55-m2+ar-szerint?page='
-        url2 = 'https://ingatlanok.hu/elado/lakas/budapest-xi-ker/48nm-tol;55nm-ig?page='
+        url2 = 'https://ingatlanok.hu/elado/lakas+haz/budapest-xi-ker:48nm-tol;55nm-ig?record=0&num=100'
         url3 = 'https://www.oc.hu/ingatlanok/lista/oldalszam:48/rendezes:relevance/felhasznalas:elado/jogi-status:hasznalt/tipus:flat/stilus:brick,/hely-ertek:budapest11-kerulet/hely-id:budapest11-kerulet,/netto-alapterulet:45~55/emelet:1,8'
     
-    hu = _multipagesSearch(url2)
-    if len(hu) == 0:
-        text = 'ERROR IN RETRIEVAL'
-    else:
-        text = len(hu)
-    print('Hu search: {}'.format(text))
+    hu = _simpleSearch(url2)
+    print('Hu search: ',len(hu))
     
     com = _multipagesSearch(url1)
-    if len(com) == 0:
-        text = 'ERROR IN RETRIEVAL'
-    else:
-        text = len(com)
-    print('Com search: {}'.format(text))
+    print('Com search: ',len(com))
     
-    cen = _onepageSearch(url3)
-    if len(cen) == 0:
-        text = 'ERROR IN RETRIEVAL'
-    else:
-        text = len(cen)
-    print('Cen search: {}'.format(text))
+    cen = _simpleSearch(url3)
+    print('Cen search: ',len(cen))
     
     alls = [*hu,*com,*cen]
     print('All urls: ', len(alls))
@@ -151,9 +132,7 @@ def searchPage(district):
     alls =[i for i in alls if 'http' in i]
     return alls
 
-
-#getting the ad body
-def _get_body(url):
+def _simple(url):
     '''
     Returns the page <body> tag from url retrieval
     '''
@@ -178,30 +157,30 @@ def details(urls, district):
         print(n,'\t',i)
         if 'ingatlanok.hu' in i:
             try:
-                body = _get_body(i)               
-                txt = body.get_text()
+                back = _simple(i)               
+                txt = back.get_text()
 
                 if 'Azonosító:' in txt:             
-                    adshu.append(body)
+                    adshu.append(back)
                     
             except: pass
             
         elif 'oc.hu' in i:
             try:
-                body = _get_body(i)               
-                txt = body.get_text()
+                back = _simple(i)               
+                txt = back.get_text()
                 
                 if 'Regisztrációs szám:' in txt:             
-                    adscen.append(body)
+                    adscen.append(back)
             except: pass
             
         else:
             try:
-                body = _get_body(i)               
-                txt = body.get_text()
+                back = _simple(i)               
+                txt = back.get_text()
                 
                 if 'Parkolás' in txt or 'Ingatlan állapota' in txt:             
-                    adscom.append(body)
+                    adscom.append(back)
             except: pass
         
         n+=1 # counter
@@ -213,24 +192,11 @@ def details(urls, district):
     
     with open('adshu'+ district + '_' + d[0] + m[0] + y + '.csv', 'w') as f:
                 f.write('%s' % adshu)
-                file = 'adshu'+ district + '_' + d[0] + m[0] + y + '.csv'
-                size = os.stat(file).st_size/(1024*1024)
-                if size < 0.1:
-                    print('ERROR IN SAVING adshu')
     with open('adscom'+ district + '_' + d[0] + m[0] + y + '.csv', 'w') as f:
                 f.write('%s' % adscom)
-                file = 'adscom'+ district + '_' + d[0] + m[0] + y + '.csv'
-                size = os.stat(file).st_size/(1024*1024)
-                if size < 0.1:
-                    print('ERROR IN SAVING adscom')
     with open('adscen'+ district + '_' + d[0] + m[0] + y + '.csv', 'w') as f:
                 f.write('%s' % adscen)
-                file = 'adscen'+ district + '_' + d[0] + m[0] + y + '.csv'
-                size = os.stat(file).st_size/(1024*1024)
-                if size < 0.1:
-                    print('ERROR IN SAVING adscen')
-    return 
-    
+    return
 
 #execute
 for i in ['V','VI', 'XI']:
